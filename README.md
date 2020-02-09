@@ -1,5 +1,6 @@
 <div id="toc" class="toc">
-<h2>Timeline of Artificial Intelligence</h2>
+<h2>Timeline of Artificial Intelligence:</h2>
+  </br>
 </div>
 <table class="wikitable">
 <tbody>
