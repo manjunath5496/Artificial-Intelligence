@@ -717,7 +717,7 @@
 
 </br>
 
-<h2 id="firstHeading" class="firstHeading" lang="en">Glossary of artificial intelligence</h2>
+<h2 id="firstHeading" class="firstHeading" lang="en">Glossary of Artificial Intelligence</h2>
 <p>&nbsp;</p>
 <h2><span id="A" class="mw-headline">A</span></h2>
 <ul>
