@@ -1,7 +1,6 @@
 <div id="toc" class="toc">
 <p>&nbsp;</p>
 </div>
-<h2><span id="Pre-20th_century" class="mw-headline">Pre-20th century</span></h2>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -105,8 +104,7 @@
 </tr>
 </tbody>
 </table>
-<h2><span id="20th_century" class="mw-headline">20th century</span></h2>
-<h3><span id="1901.E2.80.931950"></span><span id="1901&ndash;1950" class="mw-headline">1901&ndash;1950</span></h3>
+<h2>&nbsp;</h2>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -157,7 +155,7 @@
 </tr>
 </tbody>
 </table>
-<h3><span id="1950s" class="mw-headline">1950s</span></h3>
+<h3>&nbsp;</h3>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -208,7 +206,7 @@
 </tr>
 </tbody>
 </table>
-<h3><span id="1960s" class="mw-headline">1960s</span></h3>
+<h3>&nbsp;</h3>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -303,7 +301,7 @@
 </tr>
 </tbody>
 </table>
-<h3><span id="1970s" class="mw-headline">1970s</span></h3>
+<h3>&nbsp;</h3>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -410,7 +408,7 @@
 </tr>
 </tbody>
 </table>
-<h3><span id="1980s" class="mw-headline">1980s</span></h3>
+<h3>&nbsp;</h3>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -470,7 +468,7 @@
 </tr>
 </tbody>
 </table>
-<h3><span id="1990s" class="mw-headline">1990s</span></h3>
+<h3>&nbsp;</h3>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -561,8 +559,7 @@
 </tr>
 </tbody>
 </table>
-<h2><span id="21st_century" class="mw-headline">21st century</span></h2>
-<h3><span id="2000s" class="mw-headline">2000s</span></h3>
+<h2>&nbsp;</h2>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -623,7 +620,7 @@
 </tr>
 </tbody>
 </table>
-<h3><span id="2010s" class="mw-headline">2010s</span></h3>
+<p>&nbsp;</p>
 <table class="wikitable">
 <tbody>
 <tr>
