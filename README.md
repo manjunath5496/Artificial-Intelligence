@@ -720,8 +720,6 @@
 <h2 id="firstHeading" class="firstHeading" lang="en">Glossary of Artificial Intelligence</h2>
 <p>&nbsp;</p>
 
-<h2>&nbsp;</h2>
-<div id="toctitle" class="toctitle"><span id="tocheading">&nbsp;</span></div>
 <div>
 <ul>
 <li><a href="#A">A</a></li>
