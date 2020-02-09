@@ -5,10 +5,6 @@
 <table class="wikitable">
 <tbody>
 <tr>
-<th>Date</th>
-<th>Development</th>
-</tr>
-<tr>
 <th rowspan="2">Antiquity</th>
 <td>Greek myths of&nbsp;<a title="Hephaestus" href="https://en.wikipedia.org/wiki/Hephaestus">Hephaestus</a>&nbsp;and&nbsp;<a title="Pygmalion (mythology)" href="https://en.wikipedia.org/wiki/Pygmalion_(mythology)">Pygmalion</a>&nbsp;incorporated the idea of intelligent robots (such as&nbsp;<a title="Talos" href="https://en.wikipedia.org/wiki/Talos">Talos</a>) and artificial beings (such as&nbsp;<a title="Galatea (mythology)" href="https://en.wikipedia.org/wiki/Galatea_(mythology)">Galatea</a>&nbsp;and&nbsp;<a title="Pandora" href="https://en.wikipedia.org/wiki/Pandora">Pandora</a>).</td>
 </tr>
@@ -114,10 +110,6 @@
 <table class="wikitable">
 <tbody>
 <tr>
-<th>Date</th>
-<th>Development</th>
-</tr>
-<tr>
 <th>1913</th>
 <td><a title="Bertrand Russell" href="https://en.wikipedia.org/wiki/Bertrand_Russell">Bertrand Russell</a>&nbsp;and&nbsp;<a title="Alfred North Whitehead" href="https://en.wikipedia.org/wiki/Alfred_North_Whitehead">Alfred North Whitehead</a>&nbsp;published&nbsp;<em><a title="Principia Mathematica" href="https://en.wikipedia.org/wiki/Principia_Mathematica">Principia Mathematica</a>,</em>&nbsp;which revolutionized&nbsp;<a class="mw-redirect" title="Formal logic" href="https://en.wikipedia.org/wiki/Formal_logic">formal logic</a>.</td>
 </tr>
@@ -169,10 +161,6 @@
 <table class="wikitable">
 <tbody>
 <tr>
-<th>Date</th>
-<th>Development</th>
-</tr>
-<tr>
 <th rowspan="3">1950</th>
 <td><a title="Alan Turing" href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>&nbsp;proposes the&nbsp;<a class="mw-redirect" title="Turing Test" href="https://en.wikipedia.org/wiki/Turing_Test">Turing Test</a>&nbsp;as a measure of machine intelligence.</td>
 </tr>
@@ -223,10 +211,6 @@
 <h3><span id="1960s" class="mw-headline">1960s</span></h3>
 <table class="wikitable">
 <tbody>
-<tr>
-<th>Date</th>
-<th>Development</th>
-</tr>
 <tr>
 <th>1960s</th>
 <td><a title="Ray Solomonoff" href="https://en.wikipedia.org/wiki/Ray_Solomonoff">Ray Solomonoff</a>&nbsp;lays the foundations of a&nbsp;<a class="mw-redirect" title="Mathematical" href="https://en.wikipedia.org/wiki/Mathematical">mathematical</a>&nbsp;theory of AI, introducing universal&nbsp;<a class="mw-redirect" title="Bayesian method" href="https://en.wikipedia.org/wiki/Bayesian_method">Bayesian methods</a>&nbsp;for inductive inference and prediction.</td>
@@ -322,10 +306,6 @@
 <h3><span id="1970s" class="mw-headline">1970s</span></h3>
 <table class="wikitable">
 <tbody>
-<tr>
-<th>Date</th>
-<th>Development</th>
-</tr>
 <tr>
 <th>Early 1970s</th>
 <td>Jane Robinson and Don Walker established an influential&nbsp;<a class="mw-redirect" title="Natural Language Processing" href="https://en.wikipedia.org/wiki/Natural_Language_Processing">Natural Language Processing</a>&nbsp;group at SRI.</td>
@@ -434,10 +414,6 @@
 <table class="wikitable">
 <tbody>
 <tr>
-<th>Date</th>
-<th>Development</th>
-</tr>
-<tr>
 <th>1980s</th>
 <td><a title="Lisp machine" href="https://en.wikipedia.org/wiki/Lisp_machine">Lisp machines</a>&nbsp;developed and marketed. First&nbsp;<a title="Expert system" href="https://en.wikipedia.org/wiki/Expert_system">expert system</a>&nbsp;shells and commercial applications.</td>
 </tr>
@@ -497,10 +473,6 @@
 <h3><span id="1990s" class="mw-headline">1990s</span></h3>
 <table class="wikitable">
 <tbody>
-<tr>
-<th>Date</th>
-<th>Development</th>
-</tr>
 <tr>
 <th>1990s</th>
 <td>Major advances in all areas of AI, with significant demonstrations in machine learning,&nbsp;<a class="mw-redirect" title="Computer assisted instruction" href="https://en.wikipedia.org/wiki/Computer_assisted_instruction">intelligent tutoring</a>, case-based reasoning, multi-agent planning,&nbsp;<a title="Scheduling (computing)" href="https://en.wikipedia.org/wiki/Scheduling_(computing)">scheduling</a>, uncertain reasoning,&nbsp;<a title="Data mining" href="https://en.wikipedia.org/wiki/Data_mining">data mining</a>, natural language understanding and translation, vision,&nbsp;<a title="Virtual reality" href="https://en.wikipedia.org/wiki/Virtual_reality">virtual reality</a>, games, and other topics.</td>
@@ -594,10 +566,6 @@
 <table class="wikitable">
 <tbody>
 <tr>
-<th>Date</th>
-<th>Development</th>
-</tr>
-<tr>
 <th rowspan="3">2000</th>
 <td>Interactive robopets ("<a title="Smart toy" href="https://en.wikipedia.org/wiki/Smart_toy">smart toys</a>") become commercially available, realizing the vision of the 18th century novelty toy makers.</td>
 </tr>
@@ -658,10 +626,6 @@
 <h3><span id="2010s" class="mw-headline">2010s</span></h3>
 <table class="wikitable">
 <tbody>
-<tr>
-<th>Date</th>
-<th>Development</th>
-</tr>
 <tr>
 <th>2010</th>
 <td><a title="Microsoft" href="https://en.wikipedia.org/wiki/Microsoft">Microsoft</a>&nbsp;launched Kinect for Xbox 360, the first gaming device to&nbsp;<a class="external text" href="http://research.microsoft.com/en-us/projects/vrkinect/" rel="nofollow">track human body movement</a>, using just a 3D camera and infra-red detection, enabling users to play their Xbox 360 wirelessly. The award-winning machine learning for human motion capture technology for this device was developed by the&nbsp;<a class="external text" href="http://research.microsoft.com/en-us/groups/vision/default.aspx" rel="nofollow">Computer Vision group</a>&nbsp;at&nbsp;<a title="Microsoft Research" href="https://en.wikipedia.org/wiki/Microsoft_Research#Laboratories">Microsoft Research</a>, Cambridge.</td>
