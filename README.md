@@ -4,7 +4,7 @@
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#timeline">Timeline of Artificial Intelligence</a></li>
 <li class="toclevel-1 tocsection-2"><a href="#firstHeading"><span class="toctext">Glossary of Artificial Intelligence</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Branches_of_artificial_intelligence"><span class="toctext">Branches of artificial intelligence</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Branches"><span class="toctext">The Most Significant Failures When Al Turned Rogue, Causing Disastrous Results</span></a></li>
 <li class="toclevel-1 tocsection-6"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Further_AI_design_elements"><span class="toctext">Further AI design elements</span></a></li>
 <li class="toclevel-1 tocsection-7"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_projects"><span class="toctext">AI projects</span></a></li>
 <li class="toclevel-1 tocsection-8"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_applications"><span class="toctext">AI applications</span></a></li>
@@ -1166,3 +1166,54 @@
 <li><a title="Weak AI" href="https://en.wikipedia.org/wiki/Weak_AI">Weak AI</a>&nbsp;&ndash; (weak AI), also known as narrow AI,&nbsp;is&nbsp;<a title="Artificial intelligence" href="https://en.wikipedia.org/wiki/Artificial_intelligence">artificial intelligence</a>&nbsp;that is focused on one narrow task.</li>
 <li><a title="World Wide Web Consortium" href="https://en.wikipedia.org/wiki/World_Wide_Web_Consortium">World Wide Web Consortium</a>&nbsp;&ndash; (W3C), is the main international&nbsp;<a title="Standards organization" href="https://en.wikipedia.org/wiki/Standards_organization">standards organization</a>&nbsp;for the&nbsp;<a title="World Wide Web" href="https://en.wikipedia.org/wiki/World_Wide_Web">World Wide Web</a>&nbsp;(abbreviated WWW or W3).</li>
 </ul>
+</br>
+
+<h2 id ="Branches">The Most Significant Failures When Al Turned Rogue, Causing Disastrous Results </h2>
+
+<ul>
+<li><strong>1959:</strong> AI designed to be a General Problem Solver failed to solve real world problems.</li>
+<li><strong>1982:</strong> Software designed to make discoveries, discovered how to cheat instead.</li>
+<li><strong>1983:</strong> Nuclear attack early warning system falsely claimed that an attack is taking place.</li>
+<li><strong>2010:</strong> Complex AI stock trading software caused a trillion dollar flash crash.</li>
+<li><strong>2011:</strong> E-Assistant told to "call me an ambulance" began to refer to the user as Ambulance.</li>
+<li><strong>2013:</strong> Object recognition neural networks saw phantom objects in particular noise images.</li>
+<li><strong>2015:</strong> An automated email reply generator created inappropriate responses, such as writing "I love you" to a business colleague.</li>
+<li><strong>2015:</strong> A robot for grabbing auto parts grabbed and killed a man.</li>
+<li><strong>2015:</strong> Image tagging software classified black people as gorillas.</li>
+<li><strong>2015:</strong> Medical AI classified patients with asthma as having a lower risk of dying of pneumonia.</li>
+<li><strong>2015:</strong> Adult content filtering software failed to remove inappropriate content, exposing children to violent and sexual content.</li>
+<li><strong>2016:</strong> AI designed to predict recidivism acted racist.&nbsp;</li>
+<li><strong> 2016:</strong> An AI agent exploited a reward signal to win a game without actually completing the game.</li>
+<li><strong>2016:</strong> Video game NPCs (non-player characters, or any character that is not controlled by a human player) designed unauthorized super weapons.</li>
+<li><strong>2016:</strong> AI judged a beauty contest and rated dark-skinned contestants lower.</li>
+<li><strong>2016:</strong> A mall security robot collided with and injured a child.</li>
+<li><strong>2016:</strong> The AI "Alpha Go" lost to a human in a world-championship-level game of "Go."</li>
+<li><strong>2016:</strong> A self-driving car had a deadly accident.</li>
+<li><strong>2017:</strong> Google Translate shows gender bias in Turkish-English translations.&nbsp;</li>
+<li><strong> 2017:</strong> Facebook chat bots shut down after developing their own language.</li>
+<li><strong>2017:</strong> Autonomous van in accident on its first day.</li>
+<li><strong>2017:</strong> Google Allo suggested man in turban emoji as response to a gun emoji.</li>
+<li><strong>2017:</strong> Face ID beat by a mask.</li>
+<li><strong>2017:</strong> AI misses the mark with Kentucky Derby predictions.</li>
+<li><strong>2017:</strong> Google Home Minis spied on their owners.</li>
+<li><strong>2017:</strong> Google Home outage causes near 100% failure rate.</li>
+<li><strong>2017:</strong> Facebook allowed ads to be targeted to "Jew Haters".</li>
+<li><strong>2018:</strong> Chinese billionaire's face identified as jaywalker.</li>
+<li><strong>2018:</strong> Uber self-driving car kills a pedestrian.</li>
+<li><strong>2018:</strong> Amazon AI recruiting tool is gender biased.</li>
+<li><strong>2018:</strong> Google Photo confuses skier and mountain.</li>
+<li><strong>2018:</strong> LG robot Cloi gets stagefright at its unveiling.</li>
+<li><strong>2018:</strong> IBM Watson comes up short in healthcare.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
