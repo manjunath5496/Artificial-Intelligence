@@ -5,7 +5,7 @@
 <li class="toclevel-1 tocsection-1"><a href="#timeline">Timeline of Artificial Intelligence</a></li>
 <li class="toclevel-1 tocsection-2"><a href="#firstHeading"><span class="toctext">Glossary of Artificial Intelligence</span></a></li>
 <li class="toclevel-1 tocsection-3"><a href="#Branches"><span class="toctext">The Most Significant Failures When Al Turned Rogue, Causing Disastrous Results</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Further_AI_design_elements"><span class="toctext">Further AI design elements</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#design">Applications of Artificial Intelligence</a></li>
 <li class="toclevel-1 tocsection-7"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_projects"><span class="toctext">AI projects</span></a></li>
 <li class="toclevel-1 tocsection-8"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_applications"><span class="toctext">AI applications</span></a></li>
 <li class="toclevel-1 tocsection-11"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_development"><span class="toctext">AI development</span></a></li>
@@ -1219,9 +1219,160 @@
 </ul>
 <p>The threat of AI-charged job loss is spreading (AI and automation will eliminate the most mundane tasks). No matter what industry you&rsquo;re in, AI-powered bots (which can answer common questions and point users to FAQs and knowledge base articles) and software are taking a crack at it. Artificial intelligence seems to be ringing the death sound of a bell for all manner of jobs, tasks, chores and activities. From hospitality, to customer service, to home assistants, no job feels safe. Naturally, this has made people worried about the future. But is Artificial intelligence ready to take over our jobs, or even likely to do so ever? <strong>Prevalent AI- charged failures</strong> would suggest not.</p>
 
+</br>
 
+<h2 id ="design">Applications of Artificial Intelligence </h2>
 
-
+<ul>
+<li><a class="mw-redirect" title="Artificial Creativity" href="https://en.wikipedia.org/wiki/Artificial_Creativity">Artificial Creativity</a>&nbsp;</li>
+<li><a title="Artificial life" href="https://en.wikipedia.org/wiki/Artificial_life">Artificial life</a>&nbsp;</li>
+<li><a title="Automated planning and scheduling" href="https://en.wikipedia.org/wiki/Automated_planning_and_scheduling">Automated planning and scheduling</a>&nbsp;</li>
+<li><a title="Automated reasoning" href="https://en.wikipedia.org/wiki/Automated_reasoning">Automated reasoning</a>&nbsp;</li>
+<li><a title="Automation" href="https://en.wikipedia.org/wiki/Automation">Automation</a>&nbsp;</li>
+<li><a title="Automatic target recognition" href="https://en.wikipedia.org/wiki/Automatic_target_recognition">Automatic target recognition</a>&nbsp;</li>
+<li><a class="mw-redirect" title="Biologically inspired computing" href="https://en.wikipedia.org/wiki/Biologically_inspired_computing">Biologically inspired computing</a>&nbsp;</li>
+<li><a class="mw-redirect" title="Computer Audition" href="https://en.wikipedia.org/wiki/Computer_Audition">Computer Audition</a>&nbsp;
+<ul>
+<li><a title="Speech recognition" href="https://en.wikipedia.org/wiki/Speech_recognition">Speech recognition</a>&nbsp;</li>
+<li><a title="Speaker recognition" href="https://en.wikipedia.org/wiki/Speaker_recognition">Speaker recognition</a>&nbsp;</li>
+</ul>
+</li>
+<li><a title="Computer vision" href="https://en.wikipedia.org/wiki/Computer_vision">Computer vision</a>&nbsp;
+<ul>
+<li><a class="mw-redirect" title="Image processing" href="https://en.wikipedia.org/wiki/Image_processing">Image processing</a>&nbsp;</li>
+<li><a title="Intelligent word recognition" href="https://en.wikipedia.org/wiki/Intelligent_word_recognition">Intelligent word recognition</a>&nbsp;</li>
+<li><a class="mw-redirect" title="Object recognition" href="https://en.wikipedia.org/wiki/Object_recognition">Object recognition</a>&nbsp;</li>
+<li><a title="Optical mark recognition" href="https://en.wikipedia.org/wiki/Optical_mark_recognition">Optical mark recognition</a>&nbsp;
+<ul>
+<li><a title="Handwriting recognition" href="https://en.wikipedia.org/wiki/Handwriting_recognition">Handwriting recognition</a>&nbsp;</li>
+<li><a title="Optical character recognition" href="https://en.wikipedia.org/wiki/Optical_character_recognition">Optical character recognition</a>&nbsp;
+<ul>
+<li><a class="mw-redirect" title="Automatic number plate recognition" href="https://en.wikipedia.org/wiki/Automatic_number_plate_recognition">Automatic number plate recognition</a>&nbsp;</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a title="Facial recognition system" href="https://en.wikipedia.org/wiki/Facial_recognition_system">Facial recognition systems</a>&nbsp;
+<ul>
+<li><a title="Silent speech interface" href="https://en.wikipedia.org/wiki/Silent_speech_interface">Silent speech interface</a>&nbsp;</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a title="Diagnosis (artificial intelligence)" href="https://en.wikipedia.org/wiki/Diagnosis_(artificial_intelligence)">Diagnosis (artificial intelligence)</a>&nbsp;</li>
+<li><a title="Expert system" href="https://en.wikipedia.org/wiki/Expert_system">Expert system</a>&nbsp;
+<ul>
+<li><a title="Decision support system" href="https://en.wikipedia.org/wiki/Decision_support_system">Decision support system</a>&nbsp;
+<ul>
+<li><a title="Clinical decision support system" href="https://en.wikipedia.org/wiki/Clinical_decision_support_system">Clinical decision support system</a>&nbsp;</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="mw-redirect" title="Game artificial intelligence" href="https://en.wikipedia.org/wiki/Game_artificial_intelligence">Game artificial intelligence</a>&nbsp;
+<ul>
+<li><a class="mw-redirect" title="Computer game bot" href="https://en.wikipedia.org/wiki/Computer_game_bot">Computer game bot</a>&nbsp;</li>
+<li><a class="mw-redirect" title="Artificial intelligence (video games)" href="https://en.wikipedia.org/wiki/Artificial_intelligence_(video_games)">Video game AI</a>&nbsp;
+<ul>
+<li><a title="Computer chess" href="https://en.wikipedia.org/wiki/Computer_chess">Computer chess</a>&nbsp;</li>
+<li><a title="Computer Go" href="https://en.wikipedia.org/wiki/Computer_Go">Computer Go</a>&nbsp;</li>
+</ul>
+</li>
+<li><a title="General game playing" href="https://en.wikipedia.org/wiki/General_game_playing">General game playing</a>&nbsp;</li>
+<li><a class="mw-redirect" title="General video game playing" href="https://en.wikipedia.org/wiki/General_video_game_playing">General video game playing</a>&nbsp;</li>
+<li><a title="Game theory" href="https://en.wikipedia.org/wiki/Game_theory">Game theory</a>&nbsp;</li>
+</ul>
+</li>
+<li><a title="Hybrid intelligent system" href="https://en.wikipedia.org/wiki/Hybrid_intelligent_system">Hybrid intelligent system</a>&nbsp;</li>
+<li><a title="Intelligent agent" href="https://en.wikipedia.org/wiki/Intelligent_agent">Intelligent agent</a>&nbsp;
+<ul>
+<li><a title="Agent architecture" href="https://en.wikipedia.org/wiki/Agent_architecture">Agent architecture</a>&nbsp;
+<ul>
+<li><a title="Cognitive architecture" href="https://en.wikipedia.org/wiki/Cognitive_architecture">Cognitive architecture</a>&nbsp;</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a title="Intelligent control" href="https://en.wikipedia.org/wiki/Intelligent_control">Intelligent control</a>&nbsp;</li>
+<li><a title="Knowledge management" href="https://en.wikipedia.org/wiki/Knowledge_management">Knowledge management</a>&nbsp;
+<ul>
+<li><a title="Concept mining" href="https://en.wikipedia.org/wiki/Concept_mining">Concept mining</a>&nbsp;
+<ul>
+<li><a title="Data mining" href="https://en.wikipedia.org/wiki/Data_mining">Data mining</a>&nbsp;</li>
+<li><a title="Text mining" href="https://en.wikipedia.org/wiki/Text_mining">Text mining</a>&nbsp;</li>
+<li><a title="Process mining" href="https://en.wikipedia.org/wiki/Process_mining">Process mining</a>&nbsp;</li>
+</ul>
+</li>
+<li><a class="mw-redirect" title="E-mail spam" href="https://en.wikipedia.org/wiki/E-mail_spam">E-mail spam</a>&nbsp;Filtering&nbsp;</li>
+<li><a title="Information extraction" href="https://en.wikipedia.org/wiki/Information_extraction">Information extraction</a>&nbsp;
+<ul>
+<li><a title="Activity recognition" href="https://en.wikipedia.org/wiki/Activity_recognition">Activity recognition</a>&nbsp;</li>
+<li><a title="Image retrieval" href="https://en.wikipedia.org/wiki/Image_retrieval">Image retrieval</a>&nbsp;
+<ul>
+<li><a title="Automatic image annotation" href="https://en.wikipedia.org/wiki/Automatic_image_annotation">Automatic image annotation</a>&nbsp;</li>
+</ul>
+</li>
+<li><a class="new" title="Named-entity extraction (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Named-entity_extraction&amp;action=edit&amp;redlink=1">Named-entity extraction</a>&nbsp;
+<ul>
+<li><a class="mw-redirect" title="Coreference resolution" href="https://en.wikipedia.org/wiki/Coreference_resolution">Coreference resolution</a>&nbsp;</li>
+<li><a title="Named-entity recognition" href="https://en.wikipedia.org/wiki/Named-entity_recognition">Named-entity recognition</a>&nbsp;</li>
+<li><a title="Relationship extraction" href="https://en.wikipedia.org/wiki/Relationship_extraction">Relationship extraction</a>&nbsp;</li>
+<li><a title="Terminology extraction" href="https://en.wikipedia.org/wiki/Terminology_extraction">Terminology extraction</a>&nbsp;</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="mw-redirect" title="Knowledge representation" href="https://en.wikipedia.org/wiki/Knowledge_representation">Knowledge representation</a>&nbsp;</li>
+<li><a title="Semantic Web" href="https://en.wikipedia.org/wiki/Semantic_Web">Semantic Web</a>&nbsp;</li>
+</ul>
+</li>
+<li><a title="Machine learning" href="https://en.wikipedia.org/wiki/Machine_learning">Machine learning</a>&nbsp;
+<ul>
+<li><a class="mw-redirect" title="Constrained Conditional Models" href="https://en.wikipedia.org/wiki/Constrained_Conditional_Models">Constrained Conditional Models</a>&nbsp;</li>
+<li><a title="Deep learning" href="https://en.wikipedia.org/wiki/Deep_learning">Deep learning</a>&nbsp;</li>
+<li><a title="Neural modeling fields" href="https://en.wikipedia.org/wiki/Neural_modeling_fields">Neural modeling fields</a>&nbsp;</li>
+</ul>
+</li>
+<li><a title="Natural language processing" href="https://en.wikipedia.org/wiki/Natural_language_processing">Natural language processing</a>&nbsp;
+<ul>
+<li><a class="mw-redirect" title="Chatterbot" href="https://en.wikipedia.org/wiki/Chatterbot">Chatterbots</a>&nbsp;</li>
+<li><a title="Language identification" href="https://en.wikipedia.org/wiki/Language_identification">Language identification</a>&nbsp;</li>
+<li><a class="mw-redirect" title="Natural language user interface" href="https://en.wikipedia.org/wiki/Natural_language_user_interface">Natural language user interface</a>&nbsp;</li>
+<li><a class="mw-redirect" title="Natural language understanding" href="https://en.wikipedia.org/wiki/Natural_language_understanding">Natural language understanding</a>&nbsp;</li>
+<li><a title="Machine translation" href="https://en.wikipedia.org/wiki/Machine_translation">Machine translation</a>&nbsp;
+<ul>
+<li><a title="Statistical semantics" href="https://en.wikipedia.org/wiki/Statistical_semantics">Statistical semantics</a>&nbsp;</li>
+</ul>
+</li>
+<li><a title="Question answering" href="https://en.wikipedia.org/wiki/Question_answering">Question answering</a>&nbsp;</li>
+<li><a title="Semantic translation" href="https://en.wikipedia.org/wiki/Semantic_translation">Semantic translation</a>&nbsp;</li>
+</ul>
+</li>
+<li><a title="Nonlinear control" href="https://en.wikipedia.org/wiki/Nonlinear_control">Nonlinear control</a>&nbsp;</li>
+<li><a title="Pattern recognition" href="https://en.wikipedia.org/wiki/Pattern_recognition">Pattern recognition</a>&nbsp;
+<ul>
+<li><a title="Optical character recognition" href="https://en.wikipedia.org/wiki/Optical_character_recognition">Optical character recognition</a>&nbsp;</li>
+<li><a title="Handwriting recognition" href="https://en.wikipedia.org/wiki/Handwriting_recognition">Handwriting recognition</a>&nbsp;</li>
+<li><a title="Speech recognition" href="https://en.wikipedia.org/wiki/Speech_recognition">Speech recognition</a>&nbsp;</li>
+<li><a title="Facial recognition system" href="https://en.wikipedia.org/wiki/Facial_recognition_system">Face recognition</a>&nbsp;</li>
+</ul>
+</li>
+<li><a title="Robotics" href="https://en.wikipedia.org/wiki/Robotics">Robotics</a>&nbsp;
+<ul>
+<li><a title="Behavior-based robotics" href="https://en.wikipedia.org/wiki/Behavior-based_robotics">Behavior-based robotics</a>&nbsp;</li>
+<li><a class="mw-redirect" title="Cognitive" href="https://en.wikipedia.org/wiki/Cognitive">Cognitive</a>&nbsp;</li>
+<li><a title="Cybernetics" href="https://en.wikipedia.org/wiki/Cybernetics">Cybernetics</a>&nbsp;</li>
+<li><a title="Developmental robotics" href="https://en.wikipedia.org/wiki/Developmental_robotics">Developmental robotics</a>&nbsp;</li>
+<li><a class="mw-redirect" title="Epigenetic robotics" href="https://en.wikipedia.org/wiki/Epigenetic_robotics">Epigenetic robotics</a>&nbsp;</li>
+<li><a title="Evolutionary robotics" href="https://en.wikipedia.org/wiki/Evolutionary_robotics">Evolutionary robotics</a>&nbsp;</li>
+</ul>
+</li>
+<li><a class="mw-redirect" title="Speech generating device" href="https://en.wikipedia.org/wiki/Speech_generating_device">Speech generating device</a>&nbsp;</li>
+<li><a title="Strategic planning" href="https://en.wikipedia.org/wiki/Strategic_planning">Strategic planning</a>&nbsp;</li>
+<li><a title="Vehicle infrastructure integration" href="https://en.wikipedia.org/wiki/Vehicle_infrastructure_integration">Vehicle infrastructure integration</a>&nbsp;</li>
+<li><a class="mw-redirect" title="Virtual Intelligence" href="https://en.wikipedia.org/wiki/Virtual_Intelligence">Virtual Intelligence</a>&nbsp;</li>
+<li><a title="Virtual reality" href="https://en.wikipedia.org/wiki/Virtual_reality">Virtual reality</a>&nbsp;</li>
+</ul>
 
 
 
