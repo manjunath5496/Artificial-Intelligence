@@ -1,5 +1,30 @@
+<div class="toctitle" dir="ltr" lang="en">
+<h2>Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#timeline">Timeline of Artificial Intelligence</a></li>
+<li class="toclevel-1 tocsection-2"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Types_of_artificial_intelligence"><span class="toctext">Types of artificial intelligence</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Branches_of_artificial_intelligence"><span class="toctext">Branches of artificial intelligence</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Further_AI_design_elements"><span class="toctext">Further AI design elements</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_projects"><span class="toctext">AI projects</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_applications"><span class="toctext">AI applications</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_development"><span class="toctext">AI development</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Psychology_and_AI"><span class="toctext">Psychology and AI</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#History_of_artificial_intelligence"><span class="toctext">History of artificial intelligence</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_hazards_and_safety"><span class="toctext">AI hazards and safety</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_and_the_future"><span class="toctext">AI and the future</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Philosophy_of_artificial_intelligence"><span class="toctext">Philosophy of artificial intelligence</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Artificial_intelligence_in_fiction"><span class="toctext">Artificial intelligence in fiction</span></a></li>
+<li class="toclevel-1 tocsection-26"><span class="toctext"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_community">AI community</a></span></li>
+</ul>
+
+
+
+
+
+
 <div id="toc" class="toc">
-<h2>Timeline of Artificial Intelligence:</h2>
+<h2 id ="timeline">Timeline of Artificial Intelligence</h2>
   </br>
 </div>
 <table class="wikitable">
