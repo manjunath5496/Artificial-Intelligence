@@ -1207,7 +1207,17 @@
 </ul>
 
 
-
+<p>While these are only a few instances of failures that have been observed so far, they are pieces of evidence to the fact that Artificial intelligence (the simulation of human intelligence processes by machines, especially computer systems) has the potential to develop a will of its own that may be in conflict with members of the human race. This is definitely a warning about the potential dangers of Artificial intelligence which should be addressed while exploring its potential interests.</p>
+<p>Artificial intelligence in general, context remains a challenge. Despite Its Many Failures, why is artificial intelligence important?</p>
+<ul>
+<li>Artificial intelligence automates repetitive learning and discovery through data.</li>
+<li>Artificial intelligence analyzes more and deeper data.</li>
+<li>Artificial intelligence adds intelligence to existing products.</li>
+<li>Artificial intelligence adapts through progressive learning algorithms to let the data do the programming.</li>
+<li>Artificial intelligence gets the most out of data.</li>
+<li>Artificial intelligence achieves unbelievable accuracy through deep neural networks &ndash; which was previously impossible. For example, your interactions with Amazon Alexa, Google Search and Google Photos are all based on deep learning &ndash; and they keep getting more precise the more we use them.</li>
+</ul>
+<p>The threat of AI-charged job loss is spreading (AI and automation will eliminate the most mundane tasks). No matter what industry you&rsquo;re in, AI-powered bots (which can answer common questions and point users to FAQs and knowledge base articles) and software are taking a crack at it. Artificial intelligence seems to be ringing the death sound of a bell for all manner of jobs, tasks, chores and activities. From hospitality, to customer service, to home assistants, no job feels safe. Naturally, this has made people worried about the future. But is Artificial intelligence ready to take over our jobs, or even likely to do so ever? <strong>Prevalent AI- charged failures</strong> would suggest not.</p>
 
 
 
