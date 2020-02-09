@@ -1259,7 +1259,7 @@
 </li>
 </ul>
 </li>
-<li><a title="Diagnosis (artificial intelligence)" href="https://en.wikipedia.org/wiki/Diagnosis_(artificial_intelligence)">Diagnosis (artificial intelligence)</a>&nbsp;</li>
+<li><a title="Diagnosis (artificial intelligence)" href="https://en.wikipedia.org/wiki/Diagnosis_(artificial_intelligence)">Diagnosis </a>&nbsp;</li>
 <li><a title="Expert system" href="https://en.wikipedia.org/wiki/Expert_system">Expert system</a>&nbsp;
 <ul>
 <li><a title="Decision support system" href="https://en.wikipedia.org/wiki/Decision_support_system">Decision support system</a>&nbsp;
