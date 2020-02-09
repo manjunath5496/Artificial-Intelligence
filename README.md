@@ -105,7 +105,7 @@
 </tr>
 </tbody>
 </table>
-<h2>&nbsp;</h2>
+
 <table class="wikitable">
 <tbody>
 <tr>
