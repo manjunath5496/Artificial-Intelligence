@@ -1466,3 +1466,55 @@
 <li>TAU in&nbsp;<em><a title="Netflix" href="https://en.wikipedia.org/wiki/Netflix">Netflix</a>'s original programming feature film 'TAU'--an advanced AI computer who befriends and assists a female research subject held against her will by an AI research scientist.</em></li>
 </ul>
 <p>&nbsp;</p>
+</br>
+
+<div id="toc" class="toc">
+<h2 id ="publications">List of Important Publications in AI</h2>
+  </br>
+</div>
+
+<ul>
+
+                             
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(3).pdf" style="text-decoration:none;">Deep Learning for Single Image Super-Resolution: A Brief Review</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(4).pdf" style="text-decoration:none;">Deep Network Interpolation for Continuous Imagery Effect Transition</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(5).pdf" style="text-decoration:none;">TDAN: Temporally Deformable Alignment Network for Video Super-Resolution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(6).pdf" style="text-decoration:none;">Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(7).pdf" style="text-decoration:none;">Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(8).pdf" style="text-decoration:none;"> Image Super-Resolution by Neural Texture Transfer </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(9).pdf" style="text-decoration:none;">Meta-SR: A Magnification-Arbitrary Network for Super-Resolution</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(10).pdf" style="text-decoration:none;">A Matrix-in-matrix Neural Network for Image Super Resolution </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(11).pdf" style="text-decoration:none;">Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(12).pdf" style="text-decoration:none;">Fast Spatio-Temporal Residual Network for Video Super-Resolution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(13).pdf" style="text-decoration:none;">Blind Super-ResolutionWith Iterative Kernel Correction</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(14).pdf" style="text-decoration:none;">A Deep Journey into Super-resolution: A Survey</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(15).pdf" style="text-decoration:none;">Modulating Image Restoration with Continual Levels via Adaptive Feature Modification Layers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(16).pdf" style="text-decoration:none;">Adaptive Transform Domain Image Super-resolution Via Orthogonally Regularized Deep Networks</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(17).pdf" style="text-decoration:none;">Multi-scale deep neural networks for real image super-resolution</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(18).pdf" style="text-decoration:none;">Spatio-Temporal Filter Adaptive Network for Video Deblurring</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(19).pdf" style="text-decoration:none;">Adapting Image Super-Resolution State-of-the-arts and Learning Multi-model Ensemble for Video Super-Resolution</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(20).pdf" style="text-decoration:none;">Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(21).pdf" style="text-decoration:none;">EDVR: Video Restoration with Enhanced Deformable Convolutional Networks</a></li>
+
+</ul>
+
+
+
+
+
+
+
