@@ -21,11 +21,6 @@
 <li class="toclevel-1 tocsection-11"><a href="#fiction">Artificial Intelligence in Science Fiction</a></li>
 <li class="toclevel-1 tocsection-14"><a href="#publications">List of Important Publications in AI</a></li>
 
-<li class="toclevel-1 tocsection-19"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_hazards_and_safety"><span class="toctext">AI hazards and safety</span></a></li>
-<li class="toclevel-1 tocsection-20"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_and_the_future"><span class="toctext">AI and the future</span></a></li>
-<li class="toclevel-1 tocsection-21"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Philosophy_of_artificial_intelligence"><span class="toctext">Philosophy of artificial intelligence</span></a></li>
-<li class="toclevel-1 tocsection-25"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Artificial_intelligence_in_fiction"><span class="toctext">Artificial intelligence in fiction</span></a></li>
-<li class="toclevel-1 tocsection-26"><span class="toctext"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_community">AI community</a></span></li>
 </ul>
 
 
