@@ -1601,7 +1601,7 @@
 <ul>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(22).pdf">Rounding-Off Errors in Matrix Processes</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(23).pdf">Can automatic calculating machines be said to think?</a></li>
-<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(24).pdf">Computability and λ-definability</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(24).pdf">Computability and &lambda;-definability</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(25).pdf">Digital computers applied to games</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(26).pdf">Can a machine think?</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(27).pdf">The Chemical Basis of Morphogenesis</a></li>
@@ -1610,5 +1610,5 @@
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(30).pdf">Intelligent Machinery</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(31).pdf">Some Calculations of the Riemann Zeta‐Function</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(32).pdf">Lecture to the London Mathematical Society on 20 February 1947</a></li>
-
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(18).pdf">Computing Machinery and Intelligence</a></li>
 </ul>
