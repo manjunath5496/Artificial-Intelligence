@@ -15,7 +15,7 @@
 <li class="toclevel-1 tocsection-3"><a href="#Branches"><span class="toctext">The Most Significant Failures When Al Turned Rogue, Causing Disastrous Results</span></a></li>
 <li class="toclevel-1 tocsection-6"><a href="#design">Applications of Artificial Intelligence</a></li>
 
-<li class="toclevel-1 tocsection-8"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_applications"><span class="toctext">AI applications</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#debate">Artificial Intelligence Debate</a></li>
 <li class="toclevel-1 tocsection-11"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_development"><span class="toctext">AI development</span></a></li>
 <li class="toclevel-1 tocsection-14"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Psychology_and_AI"><span class="toctext">Psychology and AI</span></a></li>
 <li class="toclevel-1 tocsection-15"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#History_of_artificial_intelligence"><span class="toctext">History of artificial intelligence</span></a></li>
@@ -1389,6 +1389,19 @@
 </ul>
 
 
-
+<h3><span id="Artificial_intelligence_debate" class="mw-headline">Artificial Intelligence Debate</span></h3>
+<h4><span id="Supporters_of_AI" class="mw-headline">Supporters of AI</span></h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Marek_Rosa">Marek Rosa</a></li>
+</ul>
+<p><strong>Marek Rosa</strong>&nbsp;is a Slovak video game programmer, designer, producer and entrepreneur. He is the CEO and founder of&nbsp;<a title="Keen Software House" href="https://en.wikipedia.org/wiki/Keen_Software_House">Keen Software House</a>, an independent game development studio that produces the games&nbsp;<a title="Space Engineers" href="https://en.wikipedia.org/wiki/Space_Engineers">Space Engineers</a>.&nbsp;and Medieval Engineers.&nbsp;He is also the founder, CEO and CTO of&nbsp;<a class="external text" href="https://www.goodai.com/" rel="nofollow">GoodAI</a>, a research and development company building general artificial intelligence.</p>
+<ul>
+<li class="main-title entry-title"><a title="Permanent Link: The General AI Challenge: An Interview with Marek Rosa" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(2).pdf" rel="bookmark">THE GENERAL AI CHALLENGE: AN INTERVIEW WITH MAREK ROSA</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Critics of AI</strong></p>
+<ul>
+<li><a title="Stephen Hawking" href="https://en.wikipedia.org/wiki/Stephen_Hawking">Stephen Hawking</a>&nbsp;&ndash; <strong>AI could spell end of human race</strong>&nbsp;<cite class="citation web"><a class="external text" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(1).pdf" rel="nofollow">"<em>Hawking warns AI 'could spell end of human race<span class="cs1-kern-right">'</span>"</em></a>.&nbsp;<em>phys.org</em>.&nbsp;<a title="Phys.org" href="https://en.wikipedia.org/wiki/Phys.org">Phys.org</a>. 3 December 2014<span class="reference-accessdate">. Retrieved&nbsp;<span class="nowrap">20 April</span>&nbsp;2015</span>.</cite></li>
+</ul>
 
 
