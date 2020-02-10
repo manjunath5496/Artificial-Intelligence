@@ -16,8 +16,8 @@
 <li class="toclevel-1 tocsection-6"><a href="#design">Applications of Artificial Intelligence</a></li>
 
 <li class="toclevel-1 tocsection-8"><a href="#debate">Artificial Intelligence Debate</a></li>
-<li class="toclevel-1 tocsection-11"><a href="#fiction"><span class="toctext">Artificial Intelligence in Science Fiction</span></a></li>
-<li class="toclevel-1 tocsection-14"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Psychology_and_AI"><span class="toctext">Psychology and AI</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#fiction">Artificial Intelligence in Science Fiction</a></li>
+<li class="toclevel-1 tocsection-14"><a href="#publications">List of Important Publications in AI</a></li>
 <li class="toclevel-1 tocsection-15"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#History_of_artificial_intelligence"><span class="toctext">History of artificial intelligence</span></a></li>
 <li class="toclevel-1 tocsection-19"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_hazards_and_safety"><span class="toctext">AI hazards and safety</span></a></li>
 <li class="toclevel-1 tocsection-20"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_and_the_future"><span class="toctext">AI and the future</span></a></li>
