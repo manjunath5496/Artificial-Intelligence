@@ -8,6 +8,8 @@
 <h2>Contents</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
 <ul>
+ <li class="toclevel-1 tocsection-15"><a href="#History">What is artificial intelligence?</a></li>
+ 
  <li class="toclevel-1 tocsection-7"><a href="#Outline"><span class="toctext">Types of Artificial Intelligence</span></a></li> 
   
 <li class="toclevel-1 tocsection-1"><a href="#timeline">Timeline of Artificial Intelligence</a></li>
@@ -18,7 +20,7 @@
 <li class="toclevel-1 tocsection-8"><a href="#debate">Artificial Intelligence Debate</a></li>
 <li class="toclevel-1 tocsection-11"><a href="#fiction">Artificial Intelligence in Science Fiction</a></li>
 <li class="toclevel-1 tocsection-14"><a href="#publications">List of Important Publications in AI</a></li>
-<li class="toclevel-1 tocsection-15"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#History_of_artificial_intelligence"><span class="toctext">History of artificial intelligence</span></a></li>
+
 <li class="toclevel-1 tocsection-19"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_hazards_and_safety"><span class="toctext">AI hazards and safety</span></a></li>
 <li class="toclevel-1 tocsection-20"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_and_the_future"><span class="toctext">AI and the future</span></a></li>
 <li class="toclevel-1 tocsection-21"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Philosophy_of_artificial_intelligence"><span class="toctext">Philosophy of artificial intelligence</span></a></li>
@@ -28,6 +30,49 @@
 
 
 </br>
+</br>
+
+
+<h2><span id="History" class="mw-headline">What&nbsp;is artificial intelligence?</span></h2>
+<ul>
+<li>A form of&nbsp;<a title="Intelligence" href="https://en.wikipedia.org/wiki/Intelligence">intelligence</a>
+<ul>
+<li><a title="Synthetic intelligence" href="https://en.wikipedia.org/wiki/Synthetic_intelligence">Synthetic intelligence</a>&nbsp;&ndash; intelligence of a man-made yet real quality: actual, not fake, not simulated</li>
+</ul>
+</li>
+<li>A type of&nbsp;<a title="Technology" href="https://en.wikipedia.org/wiki/Technology">technology</a>
+<ul>
+<li>A type of&nbsp;<a class="mw-redirect" title="Computer technology" href="https://en.wikipedia.org/wiki/Computer_technology">computer technology</a>
+<ul>
+<li>A computer system that performs some intellectual function</li>
+</ul>
+</li>
+<li>An&nbsp;<a class="mw-redirect" title="Emerging technology" href="https://en.wikipedia.org/wiki/Emerging_technology">emerging technology</a></li>
+</ul>
+</li>
+<li>A field:
+<ul>
+<li>An&nbsp;<a class="mw-redirect" title="Academic discipline" href="https://en.wikipedia.org/wiki/Academic_discipline">academic discipline</a></li>
+<li>A branch of&nbsp;<a title="Science" href="https://en.wikipedia.org/wiki/Science">science</a>
+<ul>
+<li>A branch of&nbsp;<a title="Applied science" href="https://en.wikipedia.org/wiki/Applied_science">applied science</a>
+<ul>
+<li>A branch of&nbsp;<a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">computer science</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+
+
+
+
+
+
 </br>
 
 <h2><span id="Outline" class="mw-headline">Types of Artificial Intelligence</span></h2>
