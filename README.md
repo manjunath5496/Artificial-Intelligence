@@ -1598,4 +1598,17 @@
 </br>
 <p><strong>Publications:</strong></p>
 
+<ul>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(22).pdf">Language Identification in the Limit</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(23).pdf">A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence - August 31, 1955</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(24).pdf">Artificial Intelligence: A Modern Approach</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(25).pdf">Learning representations by back-propagating errors</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(26).pdf">A Training Algorithm for Optimal Margin Classifiers</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(27).pdf">Knowledge-based Analysis of Microarray Gene Expression Data By Using Support Vector Machines</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(28).pdf">Cryptographic Limitations on Learning Boolean Formulae and Finite Automata</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(29).pdf">Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(30).pdf">A fast learning algorithm for deep belief nets</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(31).pdf">Learnability and the Vapnik-Chervonenkis Dimension</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(32).pdf">An inductive inference machine</a></li>
 
+</ul>
