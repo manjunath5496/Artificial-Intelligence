@@ -1612,3 +1612,38 @@
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(32).pdf">Lecture to the London Mathematical Society on 20 February 1947</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(18).pdf">Computing Machinery and Intelligence</a></li>
 </ul>
+</br>
+<ul>
+<li><a title="John von Neumann" href="https://en.wikipedia.org/wiki/John_von_Neumann">John von Neumann </a>&nbsp;</li>
+</ul>
+</br>
+<p><strong>Publications:</strong></p>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(33).pdf">Proof of the Quasi-Ergodic Hypothesis </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(34).pdf">On infinite direct products</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(35).pdf">Continuous Geometry </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(36).pdf">First Draft of a Report on the EDVAC </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(37).pdf">Functional Operators: Measures and integrals</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(38).pdf">Distribution of the Ratio of the Mean Square Successive Difference to the Variance</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(39).pdf">Numerical Inverting of Matrices of High Order</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(40).pdf">Numerical Integration of the Barotropic Vorticity Equation</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(41).pdf">The General and Logical Theory of Automata</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(42).pdf">Various Techniques Used in Connection With Random Digits</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(43).pdf">Planning and Coding of Problems for an Electronic Computing Instrument</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(44).pdf">On Rings of Operators II</a></li>
+ 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(45).pdf">On an algebraic generalization of the quantum mechanical formalism (Part 1)</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(46).pdf">The Computer and the Brain</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(47).pdf">The Logic of Quantum Mechanics</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(48).pdf">Theory of Games and Economic Behavior </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(49).pdf">Theory of Self-Reproducing Automata</a></li>
+ 
+ <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(50).pdf">Probabilistic logics and synthesis of reliable organisms from unreliable components </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(51).pdf">A Model of General Economic Equilibrium</a></li>
+  
+
+ 
+</ul>
+
+
