@@ -1387,7 +1387,7 @@
 <li><a class="mw-redirect" title="Virtual Intelligence" href="https://en.wikipedia.org/wiki/Virtual_Intelligence">Virtual Intelligence</a>&nbsp;</li>
 <li><a title="Virtual reality" href="https://en.wikipedia.org/wiki/Virtual_reality">Virtual reality</a>&nbsp;</li>
 </ul>
-
+</br>
 
 <h3><span id="debate" class="mw-headline">Artificial Intelligence Debate</span></h3>
 <h4><span id="Supporters_of_AI" class="mw-headline">Supporters of AI</span></h4>
@@ -1403,7 +1403,7 @@
 <ul>
 <li><a title="Stephen Hawking" href="https://en.wikipedia.org/wiki/Stephen_Hawking">Stephen Hawking</a>&nbsp;&ndash; <strong>AI could spell end of human race</strong>&nbsp;<cite class="citation web"><a class="external text" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(1).pdf" rel="nofollow">"<em>Hawking warns AI 'could spell end of human race<span class="cs1-kern-right">'</span>"</em></a>.&nbsp;<em>phys.org</em>.&nbsp;<a title="Phys.org" href="https://en.wikipedia.org/wiki/Phys.org">Phys.org</a>. 3 December 2014<span class="reference-accessdate">. Retrieved&nbsp;<span class="nowrap">20 April</span>&nbsp;2015</span>.</cite></li>
 </ul>
-
+</br>
 <h2><span id="fiction" class="mw-headline">Artificial Intelligence in Science Fiction</span></h2>
 <p>Some examples of artificially intelligent entities depicted in science fiction include:</p>
 <ul>
