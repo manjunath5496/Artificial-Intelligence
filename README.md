@@ -2,11 +2,13 @@
 <h2>Contents</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
 <ul>
+ <li class="toclevel-1 tocsection-7"><a href="#Outline"><span class="toctext">Types of Artificial Intelligence</span></a></li> 
+  
 <li class="toclevel-1 tocsection-1"><a href="#timeline">Timeline of Artificial Intelligence</a></li>
 <li class="toclevel-1 tocsection-2"><a href="#firstHeading"><span class="toctext">Glossary of Artificial Intelligence</span></a></li>
 <li class="toclevel-1 tocsection-3"><a href="#Branches"><span class="toctext">The Most Significant Failures When Al Turned Rogue, Causing Disastrous Results</span></a></li>
 <li class="toclevel-1 tocsection-6"><a href="#design">Applications of Artificial Intelligence</a></li>
-<li class="toclevel-1 tocsection-7"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_projects"><span class="toctext">AI projects</span></a></li>
+
 <li class="toclevel-1 tocsection-8"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_applications"><span class="toctext">AI applications</span></a></li>
 <li class="toclevel-1 tocsection-11"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#AI_development"><span class="toctext">AI development</span></a></li>
 <li class="toclevel-1 tocsection-14"><a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#Psychology_and_AI"><span class="toctext">Psychology and AI</span></a></li>
@@ -22,7 +24,13 @@
 </br>
 </br>
 
-
+<h2><span id="Outline" class="mw-headline">Types of Artificial Intelligence</span></h2>
+<ul>
+<li><a title="Weak AI" href="https://en.wikipedia.org/wiki/Weak_AI">Weak AI</a>&nbsp;(narrow AI) &ndash; non-sentient machine intelligence, typically focused on a narrow task (narrow AI).</li>
+<li><a title="Artificial general intelligence" href="https://en.wikipedia.org/wiki/Artificial_general_intelligence">Strong AI / artificial general intelligence</a>&nbsp;(AGI) &ndash; (hypothetical) machine with the ability to apply intelligence to any problem, rather than just one specific problem, typically meaning "at least as smart as a typical human". Its future potential creation is referred to as a&nbsp;<a title="Technological singularity" href="https://en.wikipedia.org/wiki/Technological_singularity">technological singularity</a>, and constitutes a&nbsp;<a title="Global catastrophic risk" href="https://en.wikipedia.org/wiki/Global_catastrophic_risk">global catastrophic risk</a>.</li>
+<li><a title="Superintelligence" href="https://en.wikipedia.org/wiki/Superintelligence">Superintelligence</a>&nbsp;&ndash; (hypothetical) artificial intelligence far surpassing that of the brightest and most gifted human minds. Due to&nbsp;<a class="mw-redirect" title="Recursive self-improvement" href="https://en.wikipedia.org/wiki/Recursive_self-improvement">recursive self-improvement</a>, superintelligence is expected to be a rapid outcome of creating artificial general intelligence.</li>
+</ul>
+</br>
 
 <div id="toc" class="toc">
 <h2 id ="timeline">Timeline of Artificial Intelligence</h2>
