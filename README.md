@@ -20,7 +20,7 @@
 <li class="toclevel-1 tocsection-8"><a href="#debate">Artificial Intelligence Debate</a></li>
 <li class="toclevel-1 tocsection-11"><a href="#fiction">Artificial Intelligence in Science Fiction</a></li>
 <li class="toclevel-1 tocsection-14"><a href="#publications">List of Important Publications in AI</a></li>
-
+<li class="toclevel-1 tocsection-15"><a href="#scholars">Artificial Intelligence Researchers and Scholars</a></li>
 </ul>
 
 
@@ -1587,9 +1587,14 @@
 
 </ul>
 
+</br>
 
 
-
-
+<h3><span id="scholars" class="mw-headline">Artificial Intelligence Researchers and Scholars</span></h3>
+<h4><span id="1930s_and_40s_.28generation_0.29"></span><span id="1930s_and_40s_(generation_0)" class="mw-headline">1930s&nbsp; - 1940s&nbsp;</span></h4>
+<ul>
+<li><a title="Alan Turing" href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>&nbsp;</li>
+</ul>
+<p><strong>Publications:</strong></p>
 
 
