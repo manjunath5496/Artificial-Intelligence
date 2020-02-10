@@ -8,7 +8,7 @@
 <h2>Contents</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
 <ul>
- <li class="toclevel-1 tocsection-15"><a href="#History">What is artificial intelligence?</a></li>
+ <li class="toclevel-1 tocsection-15"><a href="#History">What is Artificial Intelligence?</a></li>
  
  <li class="toclevel-1 tocsection-7"><a href="#Outline"><span class="toctext">Types of Artificial Intelligence</span></a></li> 
   
@@ -33,7 +33,7 @@
 </br>
 
 
-<h2><span id="History" class="mw-headline">What&nbsp;is artificial intelligence?</span></h2>
+<h2><span id="History" class="mw-headline">What&nbsp;is Artificial Intelligence?</span></h2>
 <ul>
 <li>A form of&nbsp;<a title="Intelligence" href="https://en.wikipedia.org/wiki/Intelligence">intelligence</a>
 <ul>
