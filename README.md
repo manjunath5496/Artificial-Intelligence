@@ -1655,4 +1655,23 @@
  
 </ul>
 
+</br>
+<ul>
+<li><a title="Norbert Wiener" href="https://en.wikipedia.org/wiki/Norbert_Wiener">Norbert Wiener </a>&nbsp;</li>
+</ul><hr>
+</br>
+<p><strong>Publications:</strong></p>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(59).pdf">Generalized Harmonic Analysis </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(60).pdf">Extrapolation, Interpolation, and Smoothing of Stationary Time Series: With Engineering Applications</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(61).pdf">Nonlinear Problems in Random Theory </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(62).pdf">Cybernetics: Or Control and Communication in the Animal and the Machine </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(63).pdf">Wiener on the Fourier Integral</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(64).pdf">The Human Use of Human Beings</a></li>
+
+ 
+</ul>
+
+
 
