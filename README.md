@@ -1389,7 +1389,7 @@
 </ul>
 
 
-<h3><span id="Artificial_intelligence_debate" class="mw-headline">Artificial Intelligence Debate</span></h3>
+<h3><span id="debate" class="mw-headline">Artificial Intelligence Debate</span></h3>
 <h4><span id="Supporters_of_AI" class="mw-headline">Supporters of AI</span></h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Marek_Rosa">Marek Rosa</a></li>
