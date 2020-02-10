@@ -1599,16 +1599,16 @@
 <p><strong>Publications:</strong></p>
 
 <ul>
-<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(22).pdf">Language Identification in the Limit</a></li>
-<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(23).pdf">A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence - August 31, 1955</a></li>
-<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(24).pdf">Artificial Intelligence: A Modern Approach</a></li>
-<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(25).pdf">Learning representations by back-propagating errors</a></li>
-<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(26).pdf">A Training Algorithm for Optimal Margin Classifiers</a></li>
-<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(27).pdf">Knowledge-based Analysis of Microarray Gene Expression Data By Using Support Vector Machines</a></li>
-<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(28).pdf">Cryptographic Limitations on Learning Boolean Formulae and Finite Automata</a></li>
-<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(29).pdf">Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference</a></li>
-<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(30).pdf">A fast learning algorithm for deep belief nets</a></li>
-<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(31).pdf">Learnability and the Vapnik-Chervonenkis Dimension</a></li>
-<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(32).pdf">An inductive inference machine</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(22).pdf">Rounding-Off Errors in Matrix Processes</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(23).pdf">Can automatic calculating machines be said to think?</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(24).pdf">Computability and λ-definability</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(25).pdf">Digital computers applied to games</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(26).pdf">Can a machine think?</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(27).pdf">The Chemical Basis of Morphogenesis</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(28).pdf">Systems of Logic Based on Ordinals</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(29).pdf">Computable Numbers, with an Application to the Entscheidungsproblem</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(30).pdf">Intelligent Machinery</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(31).pdf">Some Calculations of the Riemann Zeta‐Function</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(32).pdf">Lecture to the London Mathematical Society on 20 February 1947</a></li>
 
 </ul>
