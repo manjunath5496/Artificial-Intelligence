@@ -1594,7 +1594,7 @@
 <h4><span id="1930s_and_40s_.28generation_0.29"></span><span id="1930s_and_40s_(generation_0)" class="mw-headline">(1930s&minus;1940s)&nbsp;</span></h4>
 <ul>
 <li><a title="Alan Turing" href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>&nbsp;</li>
-</ul>
+</ul><hr>
 </br>
 <p><strong>Publications:</strong></p>
 
@@ -1615,7 +1615,7 @@
 </br>
 <ul>
 <li><a title="John von Neumann" href="https://en.wikipedia.org/wiki/John_von_Neumann">John von Neumann </a>&nbsp;</li>
-</ul>
+</ul><hr>
 </br>
 <p><strong>Publications:</strong></p>
 
