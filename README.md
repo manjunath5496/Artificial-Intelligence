@@ -1642,7 +1642,16 @@
  <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(50).pdf">Probabilistic logics and synthesis of reliable organisms from unreliable components </a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(51).pdf">A Model of General Economic Equilibrium</a></li>
   
-
+ 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(52).pdf">Can We Survive Technology?</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(53).pdf">On Complete Topological Spaces</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(54).pdf">Fourier Integrals and Metric Geometry</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(55).pdf">The Statistics of the Gravitational Field Arising from a Random Distribution of Stars </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(56).pdf">Statistical Methods in Neutron Diffusion</a></li>
+ 
+ <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(57).pdf">Physical Applications of the Ergodic Hypothesis </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(58).pdf">On Regular Rings</a></li>
+  
  
 </ul>
 
