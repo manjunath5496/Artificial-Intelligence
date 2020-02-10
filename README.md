@@ -1508,6 +1508,41 @@
 
 </br>
 
+<p> <strong>Top 23 Best AI Science Fiction Books </strong> </p>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(1).pdf">2001: A Space Odyssey</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(2).pdf">Neuromancer</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(3).pdf">I, Robot</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(4).pdf">Berserker Man</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(5).pdf">The Lifecycle Of Software Objects</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(6).pdf">Do Androids Dream of Electric Sheep?</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(7).pdf">Ender's Game</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(8).pdf">City of Golden Shadow</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(9).pdf">Excession</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(10).pdf">Daemon</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(11).pdf">The Adolescence of P-1</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(12).pdf">The Two Faces of Tomorrow</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(13).pdf">Destination: Void</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(14).pdf">House of Suns</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(15).pdf">Hyperion</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(16).pdf">Newton's Wake: A Space Opera</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(17).pdf">Pandora's Star</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(18).pdf">The Metamorphosis of Prime Intellect</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(19).pdf">Queen of Angels</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(20).pdf">The Diamond Age</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(21).pdf">The Moon is a Harsh Mistress</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(22).pdf">When Harlie Was One</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(23).pdf">Www: Wake</a></li>
+
+
+
+
+
+
+
+</br>
+
 <div id="toc" class="toc">
 <h2 id ="publications">List of Important Publications in AI</h2>
   </br>
