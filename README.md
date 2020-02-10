@@ -1591,10 +1591,11 @@
 
 
 <h3><span id="scholars" class="mw-headline">Artificial Intelligence Researchers and Scholars</span></h3>
-<h4><span id="1930s_and_40s_.28generation_0.29"></span><span id="1930s_and_40s_(generation_0)" class="mw-headline">1930s&nbsp; - 1940s&nbsp;</span></h4>
+<h4><span id="1930s_and_40s_.28generation_0.29"></span><span id="1930s_and_40s_(generation_0)" class="mw-headline">1930s&minus; 1940s&nbsp;</span></h4>
 <ul>
 <li><a title="Alan Turing" href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>&nbsp;</li>
 </ul>
+</br>
 <p><strong>Publications:</strong></p>
 
 
