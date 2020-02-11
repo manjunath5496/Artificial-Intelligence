@@ -1674,4 +1674,36 @@
 </ul>
 
 
+</br>
+<ul>
+<li><b><a title="Claude Elwood Shannon" href="https://en.wikipedia.org/wiki/Claude_Shannon">Claude Elwood Shannon </a></b>&nbsp;</li>
+</ul><hr>
+</br>
+<p><strong>Publications:</strong></p>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(65).pdf">A Proposal for the Dartmouth Summer
+Research Project on Artificial Intelligence, August 31, 1955</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(66).pdf">The Philosophy of PCM</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(67).pdf">Scientific Aspects of Juggling </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(68).pdf"> Collected Papers of Claude Elwood Shannon</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(69).pdf">A Mathematical Theory of Communication</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(70).pdf">Computability and Probabilistic
+machines</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(71).pdf">A Symmetrical Notation for Numbers</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(72).pdf">A Universal Turing Machine with Two Internal States</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(73).pdf">Prediction and Entropy of Printed English </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(74).pdf">Communication in the Presence of Noise </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(75).pdf">Zero error capacity of a noisy channel</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(76).pdf">A Symbolic Analysis of Relay and Switching Circuits</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(77).pdf">A Mathematical Theory of Cryptography </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(78).pdf">Coding Theorems for a Discrete Source With a Fidelity Criterion</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(79).pdf">Lower Bounds to Error Probability for Coding on Discrete Mernoryless Channels. I </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(80).pdf">Lower Bounds to Error Probability for Coding on Discrete Memoryless Channels. II </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(81).pdf">Communication Theory of Secrecy Systems</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(82).pdf">Two-way communication channels</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(83).pdf">Programming a Computer for Playing Chess</a></li>
+
+ 
+</ul>
 
