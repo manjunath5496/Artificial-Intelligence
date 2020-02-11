@@ -1753,6 +1753,26 @@ commonsense reasoning</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(103).pdf">Report on the Algorithmic Language ALGOL 60</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(104).pdf">Applications of Circumscription to Formalizing Common Sense Knowledge</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(105).pdf">Ascribing Mental Qualities to Machines</a></li>
+ 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(106).pdf">Circumscription — A Form of Non-Monotonic Reasoning</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(107).pdf">Revised Report on the Algorithmic Language Algol 60</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(108).pdf">The Common Business Communication Language</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(109).pdf">The well-designed child</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(110).pdf">Correctness of a Compiler for Arithmetic Expressions  </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(111).pdf">First Order Theories of Individual Concepts and Propositions</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(112).pdf">Queue- based Multi-processing Lisp</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(113).pdf">Phenomenal Data Mining: From Data to Phenomena</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(114).pdf">Chess as the Drosophila of AI</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(115).pdf">Elaboration Tolerance </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(116).pdf">Elephant 2000: A Programming Language
+Based on Speech Acts</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(117).pdf">Formalizing Context (Expanded Notes) </a></li> 
+ 
+ 
+ 
+ 
+ 
+ 
 </ul>
 </br>
 
