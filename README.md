@@ -1911,6 +1911,33 @@ protocols </a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(205).pdf">The Psychology of Human-Computer Interaction</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(206).pdf">Unified Theories of Cognition</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(207).pdf">Universal Subgoaling and Chunking: The Automatic Generation and Learning of Goal Hierarchies</a></li>
+ 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(208).pdf">Reasoning, problem solving and decision processes: the problem space as a fundamental category</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(209).pdf">Chess-playing Programs And The Problem Of Complexity</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(210).pdf">Computer Science as Empirical Inquiry:
+Symbols and Search</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(211).pdf">SOAR: An Architecture for General Intelligence</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(212).pdf">The Keystroke-Level Model for User Performance Time with Interactive Systems</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(213).pdf">You can't play 20 questions with nature and win: projective comments on the papers of this symposium</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(214).pdf">The Knowledge Level</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(215).pdf">GPS, A Program that Simulates Human Thought</a></li> 
+ 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(216).pdf">Programming the Logic Theory Machine</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(217).pdf">A general problem-solving program for a computer</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(218).pdf">Heuristic programming: ill-structured problems</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(219).pdf">Computer Text-Editing: An
+Information-Processing Analysis of a Routine Cognitive Skill</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(220).pdf">Elements of a Theory of Human Problem Solving</a></li> 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(221).pdf">Mechanisms of skill acquisition and the law of practice</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(222).pdf">Heuristic Problem Solving: The Next Advance in Operations Research</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(223).pdf">Physical symbol systems</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(224).pdf">Elements of a Theory of Human Problem Solving</a></li> 
+  
+  
+ 
+ 
+ 
+ 
 
 </ul>
 </br>
