@@ -1815,6 +1815,31 @@ Sciences</a></li>
 
 
 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(154).pdf">The Philosophy of AI and the AI of Philosophy</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(155).pdf">ALGOL 48 and ALGOL 50: ALGOLic Languages in Mathematics</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(156).pdf">Approximate Objects And Approximate Theories</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(157).pdf">AI Needs more Emphasis on Basic Research</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(158).pdf">What is common sense </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(159).pdf">Concepts of Logical AI</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(160).pdf">In the Betan Embassy on Barrayar </a></li> 
+ 
+ <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(161).pdf">Making Computer Chess Scientific</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(162).pdf">An Example for Natural Language Understanding and the AI Problems it Raises </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(163).pdf">The Future Of Scientific Publication</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(164).pdf">The Robot and the Baby</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(165).pdf">Some Sitcalc Formulas for Robot Soccer</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(166).pdf">Children's To Save Defends Alfalfa Sprouts </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(167).pdf">Teller, Heisenberg And The Bomb</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(168).pdf">Letter To Christian Physicists</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(169).pdf">"Computer chess" and human chess</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(170).pdf">Formalization of Strips in Situation Calculus</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(171).pdf">Teleservice</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(172).pdf">What AI Needs From Computational Linguistics</a></li> 
+ 
+
+
+
+
 
 
 
