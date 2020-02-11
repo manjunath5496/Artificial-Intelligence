@@ -1787,6 +1787,42 @@ Roger Penrose</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(132).pdf">Towards a Mathematical Science of
 Computation </a></li> 
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(133).pdf">What is artificial intelligence? </a></li>  
+
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(134).pdf">Artificial Intelligence, Logic and Formalizing Common Sense</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(135).pdf">The Mutilated Checkerboard in Set Theory</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(136).pdf">Coloring Maps And The Kowalski Doctrine</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(137).pdf">Useful Counterfactuals</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(138).pdf">Creative solutions to problems </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(139).pdf">Free Will - Even for Robots</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(140).pdf">Simple Deterministic Free Will </a></li> 
+ 
+ <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(141).pdf">The Little Thoughts of Thinking Machines</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(142).pdf"> A Logical AI Approach to Context </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(143).pdf">Combining Narratives</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(144).pdf">Parameterizing Models of Propositional
+Calculus Formulas</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(145).pdf">Philosophical and Scientific Presuppositions of Logical AI  </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(146).pdf">Roofs And Boxes </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(147).pdf">Notes On Self-awareness</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(148).pdf">Appearance And Reality</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(149).pdf">John Searle's Chinese Room Argument</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(150).pdf">Networks Considered Harmful - For Electronic Mail</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(151).pdf">Universality: Or Why There Are Separate
+Sciences</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(152).pdf">An Everywhere Continuous Nowhere Differential Function </a></li> 
+ 
+ <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(153).pdf">Todd Moody's Zombies</a></li>
+
+
+
+
+
+
+
+
+
+
+
  
 </ul>
 </br>
