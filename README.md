@@ -1731,8 +1731,29 @@ machines</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(93).pdf">What is a number that a man may know it, and a man, that he may know a number? </a></li>
 
 </ul>
+</br>
+<h4><span id="1930s_and_40s_.28generation_0.29"></span><span id="1950s" class="mw-headline">(1950s)&nbsp;</span></h4>
+<ul>
+ <li><b><a title="Alan Turing" href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a></b>&nbsp;</li>
+</ul><hr>
+</br>
+<p><strong>Publications:</strong></p>
 
-
+<ul>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(22).pdf">Rounding-Off Errors in Matrix Processes</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(23).pdf">Can automatic calculating machines be said to think?</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(24).pdf">Computability and &lambda;-definability</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(25).pdf">Digital computers applied to games</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(26).pdf">Can a machine think?</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(27).pdf">The Chemical Basis of Morphogenesis</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(28).pdf">Systems of Logic Based on Ordinals</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(29).pdf">Computable Numbers, with an Application to the Entscheidungsproblem</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(30).pdf">Intelligent Machinery</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(31).pdf">Some Calculations of the Riemann Zeta‐Function</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(32).pdf">Lecture to the London Mathematical Society on 20 February 1947</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(18).pdf">Computing Machinery and Intelligence</a></li>
+</ul>
+</br>
 
 
 
