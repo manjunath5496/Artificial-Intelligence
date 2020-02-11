@@ -1768,10 +1768,25 @@ commonsense reasoning</a></li>
 Based on Speech Acts</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(117).pdf">Formalizing Context (Expanded Notes) </a></li> 
  
+ <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(118).pdf">The Inversion of Functions Defined by Turing Machines</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(119).pdf"> Review of "Artificial Intelligence: A General Survey" </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(120).pdf">LISP 1.5 Programmer's Manual</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(121).pdf">History of Lisp</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(122).pdf">LISP I Programmer's Manual  </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(123).pdf">A Basis for a Mathematical Theory of Computation </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(124).pdf">Recursive Functions of Symbolic Expressions Their Computation by Machine, Part I</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(125).pdf">Some Philosophical Problems from the Standpoint of Artificial Intelligence </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(126).pdf">Modality, Si! Modal Logic, No!</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(127).pdf">Formalization of two Puzzles Involving Knowledge </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(128).pdf">REVIEW OF THE EMPEROR'S NEW MIND by
+Roger Penrose</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(129).pdf">Actions and other events in situation calculus </a></li> 
  
- 
- 
- 
+ <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(130).pdf">Some expert systems need common sense</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(131).pdf">A Tough Nut for Proof Procedures</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(132).pdf">Towards a Mathematical Science of
+Computation </a></li> 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(133).pdf">What is artificial intelligence? </a></li>  
  
 </ul>
 </br>
