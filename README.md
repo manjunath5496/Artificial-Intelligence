@@ -1950,8 +1950,6 @@ Soar architecture as a basis for general intelligence</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(236).pdf">Information Processing Language V Manual </a></li>  
  
  
- 
-
 </ul>
 </br>
 
