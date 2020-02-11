@@ -1711,3 +1711,31 @@ machines</a></li>
 <li><strong><a title="" href="https://en.wikipedia.org/wiki/Nathaniel_Rochester_(computer_scientist)" rel="nofollow">Nathaniel Rochester</a>&nbsp;</strong></li>
 <li><strong><a title="Walter Pitts" href="https://en.wikipedia.org/wiki/Walter_Pitts" rel="nofollow">Walter Pitts</a>&nbsp;,&nbsp;<a class="mw-redirect" title="" href="https://en.wikipedia.org/wiki/Warren_McCullough">Warren McCullough</a>&nbsp;</strong></li>
 </ul>
+
+<hr>
+</br>
+<p><strong>Publications:</strong></p>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(85).pdf">Anatomy and Physiology of Vision in the Frog (Rana pipiens)</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(86).pdf">Chemical transmission in the nose of the frog</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(87).pdf">What the Frog's Eye Tells the Frog's Brain </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(88).pdf"> A Logical Calculus of the Ideas Immanent in Nervous Activity</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(89).pdf">A Mathematical Theory of Communication</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(90).pdf">Warren S. McCulloch Papers</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(91).pdf">A heterarchy of values determined by the topology of nervous nets</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(92).pdf">Recollections of the Many Sources of Cybernetics</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(93).pdf">What is a number that a man may know it, and a man, that he may know a number? </a></li>
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+
