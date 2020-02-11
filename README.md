@@ -1931,9 +1931,15 @@ Information-Processing Analysis of a Routine Cognitive Skill</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(221).pdf">Mechanisms of skill acquisition and the law of practice</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(222).pdf">Heuristic Problem Solving: The Next Advance in Operations Research</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(223).pdf">Physical symbol systems</a></li>
-<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(224).pdf">Elements of a Theory of Human Problem Solving</a></li> 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(224).pdf">The ZOG approach to man-machine
+communication</a></li> 
   
-  
+ <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(225).pdf">Formulating the Problem-Space Computational Model</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(226).pdf"> Models: Their Uses And Limitations</a></li> 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(227).pdf">What is Computer Science?</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(228).pdf">Harpy, production systems and human cognition</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(229).pdf">Intellectual issues in the history of artificial intelligence</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(230).pdf">The Search for Generality </a></li>  
  
  
  
