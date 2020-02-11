@@ -1941,6 +1941,13 @@ communication</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(229).pdf">Intellectual issues in the history of artificial intelligence</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(230).pdf">The Search for Generality </a></li>  
  
+  <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(231).pdf">A preliminary analysis of the
+Soar architecture as a basis for general intelligence</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(232).pdf"> How can Merlin understand?</a></li> 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(233).pdf">Initial Assessment of Architectures for Production Systems </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(234).pdf">The chunking of goal hierarchies: a generalized model of practice</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(235).pdf">R1-Soar: An Experiment in Knowledge-Intensive Programming in a Problem-Solving Architecture</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(236).pdf">Information Processing Language V Manual </a></li>  
  
  
  
