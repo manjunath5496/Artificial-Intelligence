@@ -1584,7 +1584,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(20).pdf" style="text-decoration:none;">On the Uniform Convergence of Relative Frequencies of Events to Their Probabilities</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(21).pdf" style="text-decoration:none;">Fuzzy sets</a></li>
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(84).pdf" style="text-decoration:none;">Computer Chess Compendium</a></li>
 </ul>
 
 </br>
