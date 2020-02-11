@@ -1708,6 +1708,6 @@ machines</a></li>
 </ul>
 </br>
 <ul>
-<li><strong><a title="" href="https://en.wikipedia.org/wiki/Nathaniel_Rochester_(computer_scientist)">Nathaniel Rochester</a>&nbsp;</strong></li>
-<li><strong><a title="Walter Pitts" href="https://en.wikipedia.org/wiki/Walter_Pitts">Walter Pitts</a>&nbsp;</strong></li>
+<li><strong><a title="" href="https://en.wikipedia.org/wiki/Nathaniel_Rochester_(computer_scientist)" rel="nofollow">Nathaniel Rochester</a>&nbsp;</strong></li>
+<li><strong><a title="Walter Pitts" href="https://en.wikipedia.org/wiki/Walter_Pitts" rel="nofollow">Walter Pitts</a>&nbsp;,&nbsp;<a class="mw-redirect" title="" href="https://en.wikipedia.org/wiki/Warren_McCullough">Warren McCullough</a>&nbsp;</strong></li>
 </ul>
