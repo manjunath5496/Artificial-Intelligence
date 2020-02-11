@@ -1853,6 +1853,47 @@ Sciences</a></li>
 </br>
 
 
+<ul>
+ <li><b><a title="Marvin Minsky" href="https://en.wikipedia.org/wiki/Marvin_Minsky">Marvin Minsky</a></b>&nbsp;</li>
+</ul><hr>
+</br>
+<p><strong>Publications:</strong></p>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(173).pdf">Computation: Finite and Infinite Machines </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(174).pdf">The Turing Option</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(175).pdf">Steps Toward Artificial Intelligence </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(176).pdf">Future of AI Technology</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(177).pdf">Why People Think Computers Can't  </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(178).pdf">Understanding Musical Activities: Readings In AI And Music</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(179).pdf">Matter, Mind and Models</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(180).pdf">Music, Mind, and Meaning</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(181).pdf">Symbolic vs. Connectionist</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(182).pdf">Alienable Rights</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(183).pdf">A Framework for Representing Knowledge</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(184).pdf">Progress Report on Artificial Intelligence</a></li>
+ 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(185).pdf">Telepresence</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(186).pdf">Virtual Molecular Reality</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(187).pdf">Afterword to Vernor Vinge's novel, "True Names"</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(188).pdf">Form and Content in Computer Science</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(189).pdf">Memoir on Inventing the Confocal Scanning Microscope </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(190).pdf">Negative Expertise</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(191).pdf">Jokes and their Relation to the Cognitive Unconscious</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(192).pdf">Introduction to LogoWorks</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(193).pdf">Will Robots Inherit the Earth?</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(194).pdf">Interior Grounding, Reflection, and Self-Consciousness </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(195).pdf">Communication with Alien Intelligence</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(196).pdf">An Interview With Marvin L. Minsky </a></li> 
+ 
+ <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(197).pdf">Perceptions: An Introduction to Computational Geometry</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(198).pdf"> The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(199).pdf">The Society of Mind</a></li>
+
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/BBC3.mp3">BBC-3 Music Interview 2004</a></li>
+ 
+</ul>
+</br>
 
 
 
