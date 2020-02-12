@@ -1948,7 +1948,46 @@ Soar architecture as a basis for general intelligence</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(234).pdf">The chunking of goal hierarchies: a generalized model of practice</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(235).pdf">R1-Soar: An Experiment in Knowledge-Intensive Programming in a Problem-Solving Architecture</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(236).pdf">Information Processing Language V Manual </a></li>  
+  <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(237).pdf">Skill in Chess</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(238).pdf">Rational Choice and the Structure
+of the Environment</a></li> 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(239).pdf">Altruism and Economics</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(240).pdf">Perception in Chess</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(241).pdf">Verbal Reports as Data</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(242).pdf">A Behavioral Model of Rational Choice </a></li>  
  
+  <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(243).pdf">On a Class of Skew Distribution Functions</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(244).pdf"> The Architecture of Complexity</a></li> 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(245).pdf">Expert and Novice Performance
+in Solving Physics Problems </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(246).pdf">On the Concept of Organizational Goal</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(247).pdf">Models of man: social and rational</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(248).pdf">How Big Is a Chunk? </a></li> 
+
+
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(249).pdf">Making Management Decisions:
+the Role of Intuition and Emotion</a></li> 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(250).pdf">Theories of bounded rationality</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(251).pdf">Why Are Some Problems Hard? Evidence from Tower of Hanoi</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(252).pdf">Why a Diagram is (Sometimes) Worth
+Ten Thousand Words</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(253).pdf">Models of My Life </a></li>  
+ 
+  <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(254).pdf">Organizations and Markets</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(255).pdf"> What Is An "Explanation" Of Behavior?</a></li> 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(256).pdf">A Formal Theory of the Employment Relationship </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(257).pdf">The Sciences of the Artificial</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(258).pdf">Motivational and emotional controls of cognition</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(259).pdf">Theories of Decision-Making in Economics and Behavioral Science </a></li> 
+
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(260).pdf">Administrative Behavior: How organizations can be understood in terms of decision processes</a></li> 
+
+
+
+
+
+
+
  
 </ul>
 </br>
