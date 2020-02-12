@@ -2153,9 +2153,9 @@ HASP/SIAP Case Study  </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(325).pdf" style="text-decoration:none;">An Exact Method for the Computation of the Connectivity of Random Nets </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(326).pdf" style="text-decoration:none;">Effect of Heisenberg's Principal on Channel Capacity </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(327).pdf" style="text-decoration:none;">A System for Incremental Learning Based on Algorithmic Probability</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(328).pdf" style="text-decoration:none;">The Connected Family: Bridging the Digital Generation Gap</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(328).pdf" style="text-decoration:none;">Lecture 1: Algorithmic Probability</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(329).pdf" style="text-decoration:none;">Teaching Children to be Mathematicians Versus Teaching About Mathematics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(329).pdf" style="text-decoration:none;">Lecture 2: Applications of Algorithmic Probability</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(330).pdf" style="text-decoration:none;">Does Algorithmic Probability Solve the Problem of Induction?</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(331).pdf" style="text-decoration:none;"> The Universal Distribution and Machine Learning</a></li>
@@ -2187,7 +2187,7 @@ HASP/SIAP Case Study  </a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(349).pdf" style="text-decoration:none;">Autonomous Theory Building Systems </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(350).pdf" style="text-decoration:none;">A preliminary report on a general theory of inductive inference </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(350).pdf" style="text-decoration:none;">Algorithmic Probability, Heuristic Programming and AGI </a></li>
 
 
 
