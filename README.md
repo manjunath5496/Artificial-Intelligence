@@ -2090,7 +2090,7 @@ HASP/SIAP Case Study  </a></li>
 </br>
 
 
-</br>
+
 
 
 <ul>
@@ -2119,6 +2119,33 @@ HASP/SIAP Case Study  </a></li>
 </ul>
 
 
+</br>
+
+
+<ul>
+<li><strong><a title="Ray Solomonoff" href="https://en.wikipedia.org/wiki/Ray_Solomonoff">Ray Solomonoff</a>&nbsp;</strong></li>
+</ul>
+
+<hr>
+</br>
+<p><strong>Publications:</strong></p>
+
+<ul>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(305).pdf" style="text-decoration:none;">Teaching Children to be Mathematicians Versus Teaching About Mathematics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(306).pdf" style="text-decoration:none;">Mindstorms: children, computers, and powerful ideas</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(307).pdf" style="text-decoration:none;"> Computer Criticism vs. Technocentric Thinking</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(308).pdf" style="text-decoration:none;">One AI or Many?</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(309).pdf" style="text-decoration:none;">Microworlds: transforming education </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(310).pdf" style="text-decoration:none;">Perceptrons: An Introduction to Computational Geometry </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(311).rar" style="text-decoration:none;">The Children's Machine: Rethinking School In The Age Of The Computer</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(312).pdf" style="text-decoration:none;">The Connected Family: Bridging the Digital Generation Gap</a></li>
+
+
+
+</ul>
 
 
 
