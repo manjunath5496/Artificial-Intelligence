@@ -2298,52 +2298,52 @@ HASP/SIAP Case Study  </a></li>
 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(33).pdf" style="text-decoration:none;">Embracing Causality Default Reasoning </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(34).pdf" style="text-decoration:none;">Efficient Representation of Quantum Many-body States with Deep Neural Networks</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(34).pdf" style="text-decoration:none;">An Improved Constraint-Propagation Algorithm for Diagnosis</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(35).pdf" style="text-decoration:none;">Neural network representation of tensor network and chiral states</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(35).pdf" style="text-decoration:none;">Search Techniques</a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(36).pdf" style="text-decoration:none;">Opening the black box of Deep Neural Networks via Information</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(36).pdf" style="text-decoration:none;">Decomposing a Relation into a Tree of Binary Relations </a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(37).pdf" style="text-decoration:none;">Unsupervised learning of phase transitions: from principal component analysis to variational autoencoders</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(38).pdf" style="text-decoration:none;">Neural-network quantum state tomography for many-body systems</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(39).pdf" style="text-decoration:none;">Experimental Quantum Hamiltonian Learning</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(40).pdf" style="text-decoration:none;">Discovering Phases, Phase Transitions and Crossovers through Unsupervised Machine Learning: A critical examination</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(41).pdf" style="text-decoration:none;">Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(42).pdf" style="text-decoration:none;">Probing many-body localization with neural networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(37).pdf" style="text-decoration:none;">Enhancement Schemes for Constraint Processing: Backjumping, Learning, and Cutset Decomposition</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(38).pdf" style="text-decoration:none;">The Logic of Representing Dependencies by Directed Graphs</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(39).pdf" style="text-decoration:none;">Removing Redundancies in Constraint Networks</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(40).pdf" style="text-decoration:none;">Do we Need Higher-Order Probabilities and, If so, What do they Mean?</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(41).pdf" style="text-decoration:none;">On logic and probability</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(42).pdf" style="text-decoration:none;">On Probability Intervals</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(43).pdf" style="text-decoration:none;">Approximating quantum many-body wave-functions using artificial neural networks</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(44).pdf" style="text-decoration:none;">Deterministic Quantum Annealing Expectation-Maximization Algorithm</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(45).pdf" style="text-decoration:none;">Kernel methods for interpretable machine learning of order parameters</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(43).pdf" style="text-decoration:none;">Reasoning Under Uncertainty</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(44).pdf" style="text-decoration:none;">Evidential Reasoning Under Uncertainty</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(45).pdf" style="text-decoration:none;">The Logic of Influence Diagrams</a></b></li>  
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(46).pdf" style="text-decoration:none;">Mutual Information, Neural Networks and the Renormalization Group</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(46).pdf" style="text-decoration:none;">Conditional independence and its representations</a></b></li> 
                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(47).pdf" style="text-decoration:none;">Nonequilibrium Thermodynamics of Restricted Boltzmann Machines</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(48).pdf" style="text-decoration:none;">Reinforcement Learning in Different Phases of Quantum Control</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(47).pdf" style="text-decoration:none;">Axioms and Algorithms for Inferences Involving Probabilistic Independence</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(48).pdf" style="text-decoration:none;">Experimental Evaluation of Preprocessing Algorithms for Constraint Satisfaction Problems (Technical Report)</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(49).pdf" style="text-decoration:none;">Decoding Small Surface Codes with Feedforward Neural Networks </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(49).pdf" style="text-decoration:none;">Experimental Evaluation of Preprocessing Algorithms for Constraint Satisfaction Problems (Long Technical Report) </a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(50).pdf" style="text-decoration:none;">A Separability-Entanglement Classifier via Machine Learning</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(51).pdf" style="text-decoration:none;">Machine Learning Z<sub>2</sub> Quantum Spin Liquids with Quasi-particle Statistics</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(52).pdf" style="text-decoration:none;">Construction of Hamiltonians by supervised learning of energy and entanglement spectra</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(50).pdf" style="text-decoration:none;">Deciding Consistency of Databases Containing Defeasible and Strict Information</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(51).pdf" style="text-decoration:none;">On the consistency of defeasible databases</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(52).pdf" style="text-decoration:none;">Logical and algorithmic properties of independence and their application to Bayesian networks</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(53).pdf" style="text-decoration:none;">Machine Learning of Explicit Order Parameters: From the Ising Model to SU(2) Lattice Gauge Theory </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(53).pdf" style="text-decoration:none;">Locality-Bounded Rationality </a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(54).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method: Continuous-Time Algorithm </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(54).pdf" style="text-decoration:none;">Probabilistic Semantics for Nonmonotonic Reasoning</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(55).pdf" style="text-decoration:none;">Machine-learning-assisted correction of correlated qubit errors in a topological code</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(55).pdf" style="text-decoration:none;">Probabilistic Semantics for Nonmonotonic Reasoning: A Survey</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(56).pdf" style="text-decoration:none;">Criticality and Deep Learning II: Momentum Renormalisation Group </a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(56).pdf" style="text-decoration:none;">d-Separation: From Theorems to Algorithms </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(57).pdf" style="text-decoration:none;">Active learning machine learns to create new quantum experiments </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(57).pdf" style="text-decoration:none;">System Z: A Natural Ordering of Defaults with Tractable Applications to Nonmonotonic Reasoning </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(58).pdf" style="text-decoration:none;">Unsupervised Learning of Frustrated Classical Spin Models I: Principle Component Analysis</a></b></li>
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(59).pdf" style="text-decoration:none;">Self-Learning Phase Boundaries by Active Contours</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(58).pdf" style="text-decoration:none;">Learning Structure from Data: A Survey</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(59).pdf" style="text-decoration:none;">From local to global consistency</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(60).pdf" style="text-decoration:none;">Inverse Ising inference by combining Ornstein-Zernike theory with deep learning </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(60).pdf" style="text-decoration:none;">Reasoning with Belief Functions: An Analysis of Compatibility </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(61).pdf" style="text-decoration:none;">Deep neural networks for direct, featureless learning through observation: the case of 2d spin models</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(61).pdf" style="text-decoration:none;">Rejoinder to Comments on "Reasoning With Belief Functions: An Analysis of Compatibility"</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(62).pdf" style="text-decoration:none;">Quantum phase recognition via unsupervised machine learning</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(62).pdf" style="text-decoration:none;">Structure-driven algorithms for truth maintenance</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(63).pdf" style="text-decoration:none;">Learning the Einstein-Podolsky-Rosen correlations on a Restricted Boltzmann Machine</a></b></li>                              
 
