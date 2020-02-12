@@ -2418,27 +2418,27 @@ HASP/SIAP Case Study  </a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(100).pdf" style="text-decoration:none;">A Probabilistic Calculus of Actions</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(101).pdf" style="text-decoration:none;">Pattern recognition techniques for Boson Sampling validation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(101).pdf" style="text-decoration:none;">Probabilistic Evaluation of Counterfactual Queries</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(102).pdf" style="text-decoration:none;">Learning Relevant Features of Data with Multi-scale Tensor Networks</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(102).pdf" style="text-decoration:none;">Counterfactual Probabilities: Computational Methods,Bounds, and Applications</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(103).pdf" style="text-decoration:none;">A relativistic extension of Hopfield neural networks via the mechanical analogy </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(103).pdf" style="text-decoration:none;">Qualitative Decision Theory </a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(104).pdf" style="text-decoration:none;">Generative Models for Stochastic Processes Using Convolutional Neural Networks</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(104).pdf" style="text-decoration:none;">On testing whether an Embedded Bayesian Network represents a probability model</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(105).pdf" style="text-decoration:none;">Scale-invariant Feature Extraction of Neural Network and Renormalization Group Flow</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(105).pdf" style="text-decoration:none;">Bayesian Networks</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(106).pdf" style="text-decoration:none;">Experimentally Detecting a Quantum Change Point via Bayesian Inference</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(106).pdf" style="text-decoration:none;">Three Statistical Puzzles</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(107).pdf" style="text-decoration:none;">Leveraging Adiabatic Quantum Computation for Election Forecasting</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(107).pdf" style="text-decoration:none;">Causal diagrams for empirical research (with Discussions)</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(108).pdf" style="text-decoration:none;">Deep UQ: Learning deep neural network surrogate models for high dimensional uncertainty quantification</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(108).pdf" style="text-decoration:none;">Causal diagrams for empirical research (with appendix on structural equations and counterfactuals)</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(109).pdf" style="text-decoration:none;">Critical Percolation as a Framework to Analyze the Training of Deep Networks</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(109).pdf" style="text-decoration:none;">Probabilistic Evaluation of Sequential Plans from Causal Models with Hidden Variables</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(110).pdf" style="text-decoration:none;">Neural Network Renormalization Group</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(110).pdf" style="text-decoration:none;">Causation, action, and counterfactuals</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(111).pdf" style="text-decoration:none;">Taking gradients through experiments: LSTMs and memory proximal policy optimization for black-box quantum control</a></li> 
   
