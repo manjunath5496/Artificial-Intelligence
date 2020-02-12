@@ -2101,6 +2101,7 @@ HASP/SIAP Case Study  </a></li>
 </br>
 <p><strong>Publications:</strong></p>
 
+
 <ul>
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(305).pdf" style="text-decoration:none;">Teaching Children to be Mathematicians Versus Teaching About Mathematics</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(306).pdf" style="text-decoration:none;">Mindstorms: children, computers, and powerful ideas</a></li>
@@ -2131,21 +2132,71 @@ HASP/SIAP Case Study  </a></li>
 <p><strong>Publications:</strong></p>
 
 <ul>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(305).pdf" style="text-decoration:none;">Teaching Children to be Mathematicians Versus Teaching About Mathematics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(306).pdf" style="text-decoration:none;">Mindstorms: children, computers, and powerful ideas</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(313).pdf" style="text-decoration:none;">Connectivity of random nets</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(314).pdf" style="text-decoration:none;">Inductive inference research status, spring 1967</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(307).pdf" style="text-decoration:none;"> Computer Criticism vs. Technocentric Thinking</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(308).pdf" style="text-decoration:none;">One AI or Many?</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(315).pdf" style="text-decoration:none;"> The Application of Algorithmic Probability to Problems in Artificial Intelligence</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(316).pdf" style="text-decoration:none;">A Formal Theory of Inductive Inference, Part I </a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(309).pdf" style="text-decoration:none;">Microworlds: transforming education </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(310).pdf" style="text-decoration:none;">Perceptrons: An Introduction to Computational Geometry </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(311).rar" style="text-decoration:none;">The Children's Machine: Rethinking School In The Age Of The Computer</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(312).pdf" style="text-decoration:none;">The Connected Family: Bridging the Digital Generation Gap</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(317).pdf" style="text-decoration:none;">A Formal Theory of Inductive Inference, Part II </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(318).pdf" style="text-decoration:none;">A Progress Report on Machines to Learn to Translate Languages and Retrieve Information</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(319).pdf" style="text-decoration:none;">The Adequacy of Complexity Models of Induction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(320).pdf" style="text-decoration:none;">An Inductive Inference Machine</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(321).pdf" style="text-decoration:none;">The Discovery of Algorithmic Probability</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(322).pdf" style="text-decoration:none;">A Coding Method for Inductive Inference</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(323).pdf" style="text-decoration:none;"> Two Kinds of Probabilistic Induction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(324).pdf" style="text-decoration:none;">Machine Learning &minus; Past and Future</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(325).pdf" style="text-decoration:none;">An Exact Method for the Computation of the Connectivity of Random Nets </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(326).pdf" style="text-decoration:none;">Effect of Heisenberg's Principal on Channel Capacity </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(327).pdf" style="text-decoration:none;">A System for Incremental Learning Based on Algorithmic Probability</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(328).pdf" style="text-decoration:none;">The Connected Family: Bridging the Digital Generation Gap</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(329).pdf" style="text-decoration:none;">Teaching Children to be Mathematicians Versus Teaching About Mathematics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(330).pdf" style="text-decoration:none;">Does Algorithmic Probability Solve the Problem of Induction?</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(331).pdf" style="text-decoration:none;"> The Universal Distribution and Machine Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(332).pdf" style="text-decoration:none;">Progress Report: Research in Inductive Inference For the Year Ending 31 March 1959 </a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(333).pdf" style="text-decoration:none;">A New Method for Discovering the Grammars of Phrase Structure Languages </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(334).pdf" style="text-decoration:none;">Progress In Incremental Machine Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(335).pdf" style="text-decoration:none;">Optimum Sequential Search</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(336).pdf" style="text-decoration:none;">Perfect Training Sequences and the Costs of Corruption - A Progress Report on Inductive Inference Research</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(337).pdf" style="text-decoration:none;">The Probability of "Undefined" (Non-converging) Output in Generating the Universal Probability Distribution</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(338).pdf" style="text-decoration:none;">Progress Report: Research in Inductive Inference April 1959 to November 1960</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(339).pdf" style="text-decoration:none;"> A Preliminary Report on a General Theory of Inductive Inference</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(340).pdf" style="text-decoration:none;">The Search for Artificial Intelligence</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(341).pdf" style="text-decoration:none;">Complexity-Based Induction Systems: Comparisons and Convergence Theorems</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(342).pdf" style="text-decoration:none;">Some Recent Work in Artificial Intelligence </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(343).pdf" style="text-decoration:none;">Structure of Random Nets</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(344).pdf" style="text-decoration:none;">Inductive Inference Theory - A Unified Approach to Problems in Pattern Recognition and Artificial Intelligence</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(345).pdf" style="text-decoration:none;">The Mechanization of Linguistic Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(346).pdf" style="text-decoration:none;">The Time Scale of Artificial Intelligence: Reflections on Social Effects</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(347).pdf" style="text-decoration:none;"> Training Sequences for Mechanized Induction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(348).pdf" style="text-decoration:none;">Comments on Dr. S. Watanabe's Paper</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(349).pdf" style="text-decoration:none;">Autonomous Theory Building Systems </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(350).pdf" style="text-decoration:none;">A preliminary report on a general theory of inductive inference </a></li>
+
 
 
 
 </ul>
+
+
+
+
 
 
 
