@@ -2194,11 +2194,37 @@ HASP/SIAP Case Study  </a></li>
 
 </ul>
 
+</br>
+
+<h4><span id="1970s" class="mw-headline">(1970s)</span></h4>
+<ul>
+<li><strong><a title="Douglas Hofstadter" href="https://en.wikipedia.org/wiki/Douglas_Hofstadter">Douglas Hofstadter</a>&nbsp;</strong></li>
+</ul>
+<hr>
+</br>
+<p><strong>Publications:</strong></p>
 
 
 
+<ul>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(351).pdf" style="text-decoration:none;">Speechstuff and Thoughtstuff: Musings on the Resonances Created by Words and Phrases via the Subliminal Perception of their Buried Parts</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(352).pdf" style="text-decoration:none;">A Non-deterministic Approach To Analogy, Involving The Ising Model Of Ferromagnetism</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(353).pdf" style="text-decoration:none;"> Alan Turing: The Enigma</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(354).pdf" style="text-decoration:none;">Godel, Escher, Bach: An Eternal Golden Braid</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(355).pdf" style="text-decoration:none;">Gödel's Proof </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(356).pdf" style="text-decoration:none;">To Err is Human - To Study Error-making is Cognitive Science</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(357).pdf" style="text-decoration:none;">I Am a Strange Loop</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(358).pdf" style="text-decoration:none;">Metamagical Themas: Questing For The Essence Of Mind And Pattern</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(359).pdf" style="text-decoration:none;">Analogy as the Core of Cognition </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(360).pdf" style="text-decoration:none;">on seeing A's and seeing As</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(361).pdf" style="text-decoration:none;">The Mind's I: Fantasies and Reflections on Self and Soul</a></li>
 
 
+</ul>
 
 
 
