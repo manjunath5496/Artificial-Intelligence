@@ -1992,4 +1992,43 @@ Ten Thousand Words</a></li>
  
 </ul>
 </br>
+<h4><span id="1960s_(their_students)" class="mw-headline">(1960s)</span></h4>
+<ul>
+<li><strong><a title="Edward Feigenbaum" href="https://en.wikipedia.org/wiki/Edward_Feigenbaum">Edward Feigenbaum</a>&nbsp;</strong></li>
+</ul>
+
+<hr>
+</br>
+<p><strong>Publications:</strong></p>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(262).pdf">Expert Systems: Principles and Practice </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(263).pdf">An Interview with EDWARD FEIGENBAUM</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(264).pdf">The Handbook of Artificial Intelligence Volume III</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(265).pdf">Computers and Thought </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(266).pdf">Signal-to-Symbol Transformation:
+HASP/SIAP Case Study  </a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(267).pdf">Soviet cybernetics and computer sciences, 1960</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(268).pdf">An Information Processing Theory of Verbal Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(269).pdf">A Theory of the Serial Position Effect</a></li>
+ 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(270).pdf">The Handbook of Artificial Intelligence Volume I</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(271).pdf">The Handbook of Artificial Intelligence Volume II</a></li>
+
+
+
+ 
+</ul>
+</br>
+
+
+
+
+
+
+
+
+
+
+
 
