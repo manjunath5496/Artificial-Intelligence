@@ -1983,6 +1983,7 @@ Ten Thousand Words</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(260).pdf">Administrative Behavior: How organizations can be understood in terms of decision processes</a></li> 
 
 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(261).pdf">Models of Competence in Solving Physics Problems</a></li> 
 
 
 
