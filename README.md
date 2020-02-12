@@ -2022,6 +2022,72 @@ HASP/SIAP Case Study  </a></li>
 </br>
 
 
+<ul>
+<li><strong><a title="Dabbala Rajagopal Reddy" href="https://en.wikipedia.org/wiki/Raj_Reddy">Dabbala Rajagopal Reddy</a>&nbsp;</strong></li>
+</ul>
+
+<hr>
+</br>
+<p><strong>Publications:</strong></p>
+
+<ul>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(276).pdf" style="text-decoration:none;">OM: "One Tool for Many (Indian) Languages"</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(277).pdf" style="text-decoration:none;">The Hearsay Speech Understanding System: An Example of the Recognition Process</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(278).pdf" style="text-decoration:none;"> Transmembrane helix prediction using amino acid property features and latent semantic analysis</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(279).pdf" style="text-decoration:none;">Digital Information Organization in Japan</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(280).pdf" style="text-decoration:none;">Collaborative Research: ITR/ANIR: 100 Mb/sec For 100 Million Households </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(281).pdf" style="text-decoration:none;">Three Open Problems in AI</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(282).pdf" style="text-decoration:none;">A 3D-Object Reconstruction System Integrating Range-Image Processing and Rapid Prototyping</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(283).pdf" style="text-decoration:none;">Foundations and Grand Challenges of Artificial Intelligence</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(284).pdf" style="text-decoration:none;">Multiplicative Speedup of Systems</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(285).pdf" style="text-decoration:none;">Characterization of protein secondary structure</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(286).pdf" style="text-decoration:none;">Minimizing Computational Cost for Dynamic Programming Algorithms</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(287).pdf" style="text-decoration:none;">Comparative n-gram analysis of whole-genome protein sequences</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(288).pdf" style="text-decoration:none;">Computational Biology and Language</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(289).pdf" style="text-decoration:none;">An Integral Approach to Free-Form Object Modeling</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(290).pdf" style="text-decoration:none;">Knowledge Guided Learning of Structural Descriptions</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(291).pdf" style="text-decoration:none;">Spoken-Language Research at Carnegie Mellon</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(292).pdf" style="text-decoration:none;">The Digital Library of India Project: Process, Policies and Architecture</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(293).pdf" style="text-decoration:none;">Robotics and Intelligent Systems in Support of Society</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(294).pdf" style="text-decoration:none;">Improving Recognition Accuracy on CVSD Speech under Mismatched Conditions</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(295).pdf" style="text-decoration:none;">Interviews: The Challenges of Emerging Economies</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(296).pdf" style="text-decoration:none;">Computer vision: the challenge of imperfect inputs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(297).pdf" style="text-decoration:none;">An overview of the SPHINX speech recognition system</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(298).pdf" style="text-decoration:none;">Techniques for the Creation and Exploration of Digital Video Libraries</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(299).pdf" style="text-decoration:none;">A Historical Perspective of Speech Recognition</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(300).pdf" style="text-decoration:none;">PCtvt: a Multifunction Information Appliance for Illiterate People</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(301).pdf" style="text-decoration:none;">Improving Pronunciation Inference using N-Best List, Acoustics and Orthography</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(302).pdf" style="text-decoration:none;">To Dream The Possible Dream</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(303).pdf" style="text-decoration:none;">A. M. Turing Award Oral History Interview with Raj Reddy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(304).pdf" style="text-decoration:none;">Principal Component Analysis with Missing Data and Its Application to Polyhedral Object Modeling</a></li> 
+
+
+
+ 
+</ul>
+</br>
 
 
 
