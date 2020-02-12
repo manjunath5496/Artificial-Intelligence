@@ -2392,31 +2392,31 @@ HASP/SIAP Case Study  </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(85).pdf" style="text-decoration:none;">From Bayesian Networks to Causal Networks</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(86).pdf" style="text-decoration:none;">Comment: Graphical Models, Causality, and Intervention</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(87).pdf" style="text-decoration:none;">Entanglement Entropy of Target Functions for Image Classification and Convolutional Neural Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(88).pdf" style="text-decoration:none;">A Correspondence Between Random Neural Networks and Statistical Field Theory</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(89).pdf" style="text-decoration:none;">Learning Hidden Quantum Markov Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(87).pdf" style="text-decoration:none;">A New Characterization of Graphs Based on Interception Relations</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(88).pdf" style="text-decoration:none;">Nonparametric Bounds on Causal Effects from Partial Compliance Data</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(89).pdf" style="text-decoration:none;">Universal Formulas for Treatment Effects from Noncompliance Data</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(90).pdf" style="text-decoration:none;">Machine learning vortices at the Kosterlitz-Thouless transition</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(91).pdf" style="text-decoration:none;">Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(90).pdf" style="text-decoration:none;">Bounds on Treatment Effects from Studies with Imperfect Compliance</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(91).pdf" style="text-decoration:none;">On the Statistical Interpretation of Structural Equations</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(92).pdf" style="text-decoration:none;">Machine learning out-of-equilibrium phases of matter</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(93).pdf" style="text-decoration:none;"> An efficient quantum algorithm for generative machine learning</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(94).pdf" style="text-decoration:none;">Hardening Quantum Machine Learning Against Adversaries</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(92).pdf" style="text-decoration:none;">On the Logic of Iterated Belief Revision</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(93).pdf" style="text-decoration:none;"> Causal Inference from Indirect Experiments (Long Technical Report)</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(94).pdf" style="text-decoration:none;">Causal Inference from Indirect Experiments (Technical Report)</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(95).pdf" style="text-decoration:none;">Experimental learning of quantum states</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(95).pdf" style="text-decoration:none;">Symbolic Causal Networks for Reasoning about Actions and Plans</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(96).pdf" style="text-decoration:none;">Deep Neural Network Detects Quantum Phase Transition</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(96).pdf" style="text-decoration:none;">On the Identification of Nonparametric Structural Models</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(97).pdf" style="text-decoration:none;">Towards reduction of autocorrelation in HMC by machine learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(97).pdf" style="text-decoration:none;">Mediating instrumental variables </a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(98).pdf" style="text-decoration:none;">Information Perspective to Probabilistic Modeling: Boltzmann Machines versus Born Machines</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(98).pdf" style="text-decoration:none;">A Note on Testing Exogeneity of Instrumental Variables</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(99).pdf" style="text-decoration:none;">A Quantum Extension of Variational Bayes Inference</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(99).pdf" style="text-decoration:none;">On the Testability of Causal Models with Latent and Instrumental Variables</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(100).pdf" style="text-decoration:none;">A quantum algorithm to train neural networks using low-depth circuits</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(100).pdf" style="text-decoration:none;">A Probabilistic Calculus of Actions</a></li>  
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(101).pdf" style="text-decoration:none;">Pattern recognition techniques for Boson Sampling validation</a></li> 
   
