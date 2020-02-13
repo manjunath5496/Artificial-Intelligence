@@ -3144,7 +3144,56 @@ Content-Based Image Retrieval</a></li>
 <ul>
 <li><strong><a title="Nick Bostrom" href="https://en.wikipedia.org/wiki/Nick_Bostrom">Nick Bostrom</a></strong></li>
 </ul>
-<p>&nbsp;</p>
+<hr>
+</br>
+<p><strong>Publications:</strong></p>
+
+<ul>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(439).pdf" style="text-decoration:none;">A Robust Layered Control System for a Mobile Robot </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(440).pdf" style="text-decoration:none;">A Robot that Walks; Emergent Behavior from a Carefully Evolved Network </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(441).pdf" style="text-decoration:none;"> Building Brains for Bodies</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(442).pdf" style="text-decoration:none;">The Intelligent Room Project </a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(443).pdf" style="text-decoration:none;">From Earwigs to Humans </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(444).pdf" style="text-decoration:none;">Model-Based Three-Dimensional Interpretations of Two-Dimensional Images</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(445).pdf" style="text-decoration:none;">Intelligence Without Reason</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(446).pdf" style="text-decoration:none;">Challenges for Complete Creature Architectures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(447).pdf" style="text-decoration:none;">The Cog Project: Building a Humanoid Robot</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(448).pdf" style="text-decoration:none;">The Role of Learning in Autonomous Robots</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(449).pdf" style="text-decoration:none;"> Elephants Don't Play Chess</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(450).pdf" style="text-decoration:none;">Fast, Cheap And Out Of Control: A Robot Invasion Of The Solar System</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(451).pdf" style="text-decoration:none;">Visually-Guided Obstacle Avoidance in Unstructured Environments </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(452).pdf" style="text-decoration:none;">Alternative Essences of Intelligence </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(453).pdf" style="text-decoration:none;">How to Build Complete Creatures Rather than Isolated Cognitive Simulators</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(454).pdf" style="text-decoration:none;">Technologies for Human/Humanoid Natural Interactions</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(455).pdf" style="text-decoration:none;">Humanoid Robots: A New Kind of Tool</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(456).pdf" style="text-decoration:none;">Learning to Coordinate Behaviors</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(457).pdf" style="text-decoration:none;">The relationship between matter and life</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(458).pdf" style="text-decoration:none;">From robot dreams to reality</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(459).pdf" style="text-decoration:none;">New Approaches to Robotics </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(460).pdf" style="text-decoration:none;">Prospects for Human Level Intelligence for Humanoid Robots</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(461).pdf" style="text-decoration:none;">Artificial Life and Real Robots</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(462).pdf" style="text-decoration:none;">Intelligence without representation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(463).pdf" style="text-decoration:none;">Small Planetary Rovers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(464).pdf" style="text-decoration:none;">Integrated Systems Based on Behaviors</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(465).pdf" style="text-decoration:none;">The whole iguana</a></li>
+   
+
+ 
+</ul>
+
+</br>
 <ul>
 <li><strong><a title="David Ferrucci" href="https://en.wikipedia.org/wiki/David_Ferrucci">David Ferrucci</a></strong>&nbsp;&ndash; principal investigator who led the team that developed the Watson computer at IBM.</li>
 <li><strong><a title="Andrew Ng" href="https://en.wikipedia.org/wiki/Andrew_Ng">Andrew Ng</a>&nbsp;</strong>&ndash; Director of the Stanford Artificial Intelligence Lab. He founded the&nbsp;<a title="Google Brain" href="https://en.wikipedia.org/wiki/Google_Brain">Google Brain</a>&nbsp;project at&nbsp;<a title="Google" href="https://en.wikipedia.org/wiki/Google">Google</a>, which developed very large scale artificial&nbsp;<a title="Neural network" href="https://en.wikipedia.org/wiki/Neural_network">neural networks</a>&nbsp;using&nbsp;<a title="Google" href="https://en.wikipedia.org/wiki/Google">Google</a>'s distributed compute infrastructure.&nbsp;He is also co-founder of Coursera, a massive open online course (MOOC) education platform, with Daphne Koller.</li>
