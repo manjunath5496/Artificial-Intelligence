@@ -3117,8 +3117,23 @@ representation</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(422).pdf">Illustrative Language Understanding:
 Large-Scale Visual Grounding with Image Search</a></li>
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(423).pdf">Neural Networks for Machine Learning</a></li>
-
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(424).pdf">How Learning Can Guide Evolution</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(425).pdf">Classical and Bayesian Inference in Neuroimaging: Theory</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(426).pdf">Boltzmann machines: Constraint satisfaction networks that learn</a></li>
  
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(427).pdf">Deep Belief Networks for phone recognition</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(428).pdf">Feudal Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(429).pdf">Using Very Deep Autoencoders for
+Content-Based Image Retrieval</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(430).pdf">Glove-Talk: a neural network interface between a data-glove and a speech synthesizer</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(431).pdf">On the importance of initialization and momentum in deep learning</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(432).pdf">Deep Belief Nets</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(433).pdf">Parallel visual computation</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(434).pdf">How Neural Networks Learn from Experience</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(435).pdf">Semantic Hashing</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(436).pdf">NeuroAnimator: Fast Neural Network Emulation and Control of Physics-Based Models</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(437).pdf">Acoustic Modeling using Deep Belief Networks</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(438).pdf">The wake-sleep algorithm for unsupervised neural networks</a></li> 
 </ul>
 </br>
 <ul>
