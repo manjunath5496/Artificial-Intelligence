@@ -2902,6 +2902,13 @@ by A.P. Dawid)</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(396).pdf" style="text-decoration:none;"> Twilight Zones and Cornerstones: A Gnat Robot Double Feature</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(397).pdf" style="text-decoration:none;"> Planning Is Just A Way Of Avoiding Figuring Out What To Do Next</a></li>
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(398).pdf" style="text-decoration:none;"> Cambrian Intelligence: The Early History of the New AI</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(399).pdf" style="text-decoration:none;"> Robotics Research: Results of the 12th International Symposium ISRR</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(400).pdf" style="text-decoration:none;">The Artificial Life Route To Artificial Intelligence: Building Embodied, Situated Agents</a></li>
+  
  
 </ul>
 
