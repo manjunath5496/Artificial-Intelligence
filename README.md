@@ -2912,9 +2912,36 @@ by A.P. Dawid)</a></li>
  
 </ul>
 
+</br>
 
-
-
+<h4><span id="1990s" class="mw-headline">(1990s)</span></h4>
+<ul>
+<li><strong><a title="Yoshua Bengio" href="https://en.wikipedia.org/wiki/Yoshua_Bengio">Yoshua Bengio</a></strong></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong><a title="Hugo de Garis" href="https://en.wikipedia.org/wiki/Hugo_de_Garis">Hugo de Garis</a></strong>&nbsp;&ndash; known for his research on the use of genetic algorithms to evolve neural networks using three-dimensional cellular automata inside field programmable gate arrays.</li>
+<li><strong><a title="Geoffrey Hinton" href="https://en.wikipedia.org/wiki/Geoffrey_Hinton">Geoffrey Hinton</a></strong></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong><a title="Yann LeCun" href="https://en.wikipedia.org/wiki/Yann_LeCun">Yann LeCun</a></strong>&nbsp;- Chief AI Scientist at&nbsp;<a title="Facebook" href="https://en.wikipedia.org/wiki/Facebook">Facebook AI Research</a>&nbsp;and founding director of the&nbsp;<a class="mw-redirect" title="NYU Center for Data Science" href="https://en.wikipedia.org/wiki/NYU_Center_for_Data_Science">NYU Center for Data Science</a></li>
+<li><strong><a title="Ray Kurzweil" href="https://en.wikipedia.org/wiki/Ray_Kurzweil">Ray Kurzweil</a>&nbsp;</strong>&ndash; developed optical character recognition (OCR), text-to-speech synthesis, and speech recognition systems. He has also authored multiple books on artificial intelligence and its potential promise and peril. In December 2012 Kurzweil was hired by Google in a full-time director of engineering position to "work on new projects involving machine learning and language processing".&nbsp;Google co-founder&nbsp;<strong><a title="Larry Page" href="https://en.wikipedia.org/wiki/Larry_Page">Larry Page</a></strong>&nbsp;and Kurzweil agreed on a one-sentence job description: "to bring natural language understanding to Google".</li>
+</ul>
+<h4><span id="2000s_on" class="mw-headline">(2000s)</span></h4>
+<ul>
+<li><strong><a title="Nick Bostrom" href="https://en.wikipedia.org/wiki/Nick_Bostrom">Nick Bostrom</a></strong></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong><a title="David Ferrucci" href="https://en.wikipedia.org/wiki/David_Ferrucci">David Ferrucci</a></strong>&nbsp;&ndash; principal investigator who led the team that developed the Watson computer at IBM.</li>
+<li><strong><a title="Andrew Ng" href="https://en.wikipedia.org/wiki/Andrew_Ng">Andrew Ng</a>&nbsp;</strong>&ndash; Director of the Stanford Artificial Intelligence Lab. He founded the&nbsp;<a title="Google Brain" href="https://en.wikipedia.org/wiki/Google_Brain">Google Brain</a>&nbsp;project at&nbsp;<a title="Google" href="https://en.wikipedia.org/wiki/Google">Google</a>, which developed very large scale artificial&nbsp;<a title="Neural network" href="https://en.wikipedia.org/wiki/Neural_network">neural networks</a>&nbsp;using&nbsp;<a title="Google" href="https://en.wikipedia.org/wiki/Google">Google</a>'s distributed compute infrastructure.&nbsp;He is also co-founder of Coursera, a massive open online course (MOOC) education platform, with Daphne Koller.</li>
+<li><strong><a title="Peter Norvig" href="https://en.wikipedia.org/wiki/Peter_Norvig">Peter Norvig</a>&nbsp;</strong>&ndash; co-author, with Stuart Russell, of&nbsp;<em>Artificial Intelligence: A Modern Approach</em>, now the leading college text in the field. He is also Director of Research at Google, Inc.</li>
+<li><strong><a title="Marc Raibert" href="https://en.wikipedia.org/wiki/Marc_Raibert">Marc Raibert</a></strong>&nbsp;&ndash; founder of Boston Dynamics, developer of hopping, walking, and running robots.</li>
+<li><strong><a title="Stuart J. Russell" href="https://en.wikipedia.org/wiki/Stuart_J._Russell">Stuart J. Russell</a></strong>&nbsp;&ndash; co-author, with Peter Norvig, of&nbsp;<em>Artificial Intelligence: A Modern Approach</em>, now the leading college text in the field.</li>
+<li><strong><a title="Murray Shanahan" href="https://en.wikipedia.org/wiki/Murray_Shanahan">Murray Shanahan</a></strong>&nbsp;&ndash; author of&nbsp;<em>The Technological Singularity</em>, a primer on superhuman intelligence.</li>
+</ul>
 
 
 
