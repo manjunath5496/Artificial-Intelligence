@@ -2476,29 +2476,29 @@ HASP/SIAP Case Study  </a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(128).pdf" style="text-decoration:none;">Confounding and collapsibility in causal inference</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(129).pdf" style="text-decoration:none;">Deep Learning Phase Segregation</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(129).pdf" style="text-decoration:none;">Graphs, Causality, and Structural Equation Models</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(130).pdf" style="text-decoration:none;">Learning architectures based on quantum entanglement: a simple matrix product state algorithm for image recognition </a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(130).pdf" style="text-decoration:none;">Finding Minimal D-separators </a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(131).pdf" style="text-decoration:none;">Bridging Many-Body Quantum Physics and Deep Learning via Tensor Networks </a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(131).pdf" style="text-decoration:none;">Why there is no statistical test for confounding, why many think there is, and why they are almost right </a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(132).pdf" style="text-decoration:none;">Quantum algorithms for training Gaussian Processes </a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(132).pdf" style="text-decoration:none;">Testing regression models with fewer regressors</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(133).pdf" style="text-decoration:none;">Matrix Product Operators for Sequence to Sequence Learning </a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(133).pdf" style="text-decoration:none;">Probabilities Of Causation: Three Counterfactual Interpretations And Their Identification</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(134).pdf" style="text-decoration:none;">Protection against Cloning for Deep Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(134).pdf" style="text-decoration:none;">Statistics, Causality, and Graphs</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(135).pdf" style="text-decoration:none;">Barren plateaus in quantum neural network training landscapes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(135).pdf" style="text-decoration:none;">Simpson's paradox: An anatomy</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(136).pdf" style="text-decoration:none;">Learning quantum models from quantum or classical data</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(137).pdf" style="text-decoration:none;">Towards Quantum Machine Learning with Tensor Networks</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(138).pdf" style="text-decoration:none;">A note on state preparation for quantum machine learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(139).pdf" style="text-decoration:none;">Circuit-centric quantum classifiers</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(140).pdf" style="text-decoration:none;">Classical Verification of Quantum Computations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(136).pdf" style="text-decoration:none;">Reasoning with Cause and Effect</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(137).pdf" style="text-decoration:none;">Reasoning with Cause and Effect (Transcript of lecture given at IJCAI-99, Stockholm, Sweden, on 4 August 1999)</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(138).pdf" style="text-decoration:none;">Causes and explanations: A structural-model approach &minus; Part I:  Causes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(139).pdf" style="text-decoration:none;">Causes and explanations: A structural-model approach &minus; Part I:  Causes (Technical Report)</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(140).pdf" style="text-decoration:none;">Causes and explanations: A structural-model approach &minus; Part II:  Causes</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(141).pdf" style="text-decoration:none;"> Smallest Neural Network to Learn the Ising Criticality</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(142).pdf" style="text-decoration:none;">Quantum Machine Learning Matrix Product States</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(141).pdf" style="text-decoration:none;"> Causes and explanations: A structural-model approach &minus; Part II:  Causes (Technical Report)</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(142).pdf" style="text-decoration:none;">Instrumentality Tests Revisited</a></li>                             
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(143).pdf" style="text-decoration:none;">The Loss Surface of XOR Artificial Neural Networks</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(144).pdf" style="text-decoration:none;">Complex energy landscapes in spiked-tensor and simple glassy models: ruggedness, arrangements of local minima and phase transitions</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(145).pdf" style="text-decoration:none;">Machine learning of phase transitions in the percolation and XY models</a></li>
