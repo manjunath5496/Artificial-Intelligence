@@ -2752,7 +2752,7 @@ by A.P. Dawid)</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(285).pdf" style="text-decoration:none;">Identification and Overidentification of Linear Structural Equation Models (Appendix to paper forthcoming in Neural Information Processing Systems (NIPS) Conference, Advances in Neural Information Processing Systems, Curran Associates, Inc., 2016.)</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(286).pdf" style="text-decoration:none;">Recovering Causal Eects from Selection Bias</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(286).pdf" style="text-decoration:none;">Recovering Causal Effects from Selection Bias</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(287).pdf" style="text-decoration:none;">Comment on Ding and Miratrix: "To Adjust or Not to Adjust?"</a></li>   
   
@@ -2815,7 +2815,22 @@ by A.P. Dawid)</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(320).pdf" style="text-decoration:none;">The Limitations Of Opaque Learning Machines</a></li>
 
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(321).pdf" style="text-decoration:none;">A Simultaneous Discover-Identify Approach to Causal Inference in Linear Models</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(322).pdf" style="text-decoration:none;">Generalizing Experimental Results by Leveraging Knowledge of Mechanisms</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(323).pdf" style="text-decoration:none;">Searching for an Optimal Path in a Tree with Random Costs</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(316).pdf" style="text-decoration:none;">Causal and Counterfactual Inference (Forthcoming section in The Handbook of Rationality)</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(317).pdf" style="text-decoration:none;">On the interpretation of do(x)</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(318).pdf" style="text-decoration:none;">Telling and Re-telling History: The case for a whiggish account of the history of causation</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(319).pdf" style="text-decoration:none;">Unit Selection Based on Counterfactual Logic</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(320).pdf" style="text-decoration:none;">The Limitations Of Opaque Learning Machines</a></li>
  
  
  </ul>
