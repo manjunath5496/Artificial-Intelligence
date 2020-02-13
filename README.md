@@ -3084,7 +3084,43 @@ by A.P. Dawid)</a></li>
 <li><strong><a title="Hugo de Garis" href="https://en.wikipedia.org/wiki/Hugo_de_Garis">Hugo de Garis</a></strong>&nbsp;&ndash; known for his research on the use of genetic algorithms to evolve neural networks using three-dimensional cellular automata inside field programmable gate arrays.</li>
 <li><strong><a title="Geoffrey Hinton" href="https://en.wikipedia.org/wiki/Geoffrey_Hinton">Geoffrey Hinton</a></strong></li>
 </ul>
-<p>&nbsp;</p>
+<hr>
+</br>
+<p><strong>Publications:</strong></p>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(401).pdf">Who Said What: Modeling Individual Labelers Improves Classification</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(402).pdf">CvxNet: Learnable Convex Decomposition</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(403).pdf">Detecting and Diagnosing Adversarial Images with Class-Conditional Capsule Reconstructions</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(404).pdf">Cerberus: A Multi-headed Derenderer</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(405).pdf">Deep learning</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(406).pdf">Similarity of Neural Network Representations Revisited</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(407).pdf">Stacked Capsule Autoencoders</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(408).pdf">Dynamic Routing Between Capsules</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(409).pdf">A Fast Learning Algorithm for Deep Belief Nets</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(410).pdf">When Does Label Smoothing Help?</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(411).pdf">Learning Energy-Based Models of
+High-Dimensional Data</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(412).pdf">Layer Normalization</a></li>
+ 
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(413).pdf">Matrix Capsules with EM Routing</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(414).pdf">Lookahead Optimizer: k steps forward, 1 step back</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(415).pdf">To Recognize Shapes, First
+Learn to Generate Images</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(416).pdf">Learning multiple layers of
+representation</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(417).pdf">Reducing the Dimensionality of Data with Neural Networks</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(418).pdf">Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(419).pdf">Using FastWeights to Attend to the Recent Past</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(420).pdf">Large scale distributed neural network training through online distillation</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(421).pdf">Where do features come from?</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(422).pdf">Illustrative Language Understanding:
+Large-Scale Visual Grounding with Image Search</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(423).pdf">Neural Networks for Machine Learning</a></li>
+
+ 
+</ul>
+</br>
 <ul>
 <li><strong><a title="Yann LeCun" href="https://en.wikipedia.org/wiki/Yann_LeCun">Yann LeCun</a></strong>&nbsp;- Chief AI Scientist at&nbsp;<a title="Facebook" href="https://en.wikipedia.org/wiki/Facebook">Facebook AI Research</a>&nbsp;and founding director of the&nbsp;<a class="mw-redirect" title="NYU Center for Data Science" href="https://en.wikipedia.org/wiki/NYU_Center_for_Data_Science">NYU Center for Data Science</a></li>
 <li><strong><a title="Ray Kurzweil" href="https://en.wikipedia.org/wiki/Ray_Kurzweil">Ray Kurzweil</a>&nbsp;</strong>&ndash; developed optical character recognition (OCR), text-to-speech synthesis, and speech recognition systems. He has also authored multiple books on artificial intelligence and its potential promise and peril. In December 2012 Kurzweil was hired by Google in a full-time director of engineering position to "work on new projects involving machine learning and language processing".&nbsp;Google co-founder&nbsp;<strong><a title="Larry Page" href="https://en.wikipedia.org/wiki/Larry_Page">Larry Page</a></strong>&nbsp;and Kurzweil agreed on a one-sentence job description: "to bring natural language understanding to Google".</li>
