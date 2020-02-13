@@ -2531,74 +2531,74 @@ by A.P. Dawid)</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(160).pdf" style="text-decoration:none;">Causal Inference in Statistics: A Gentle Introduction</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(161).pdf" style="text-decoration:none;">Quantum generative adversarial networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(161).pdf" style="text-decoration:none;">A General Identification Condition for Causal Effects</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(162).pdf" style="text-decoration:none;">Quantum generative adversarial learning</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(163).pdf" style="text-decoration:none;">Supervised learning with quantum enhanced feature spaces</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(162).pdf" style="text-decoration:none;">A New Identification Condition for Recursive Models With Correlated Errors</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(163).pdf" style="text-decoration:none;">A Graphical Criterion for the Identification of Causal Effects in Linear Models</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(164).pdf" style="text-decoration:none;">Multiparameter optimisation of a magneto-optical trap using deep learning</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(164).pdf" style="text-decoration:none;">A New Characterization of the Experimental Implications of Causal Bayesian Networks</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(165).pdf" style="text-decoration:none;">Neural networks as Interacting Particle Systems: Asymptotic convexity of the Loss Landscape and Universal Scaling of the Approximation Error</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(165).pdf" style="text-decoration:none;">Causality and Counterfactuals in the Situation Calculus</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(166).pdf" style="text-decoration:none;">Optimal universal learning machines for quantum state discrimination</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(166).pdf" style="text-decoration:none;">Strategies for Determining Causes of Events</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(167).pdf" style="text-decoration:none;">Quantum artificial intelligence to simulate many body quantum systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(167).pdf" style="text-decoration:none;">Generalized Instrumental Variables</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(168).pdf" style="text-decoration:none;">Identifying topological order via unsupervised machine learning</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(169).pdf" style="text-decoration:none;">Physically optimizing inference</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(170).pdf" style="text-decoration:none;">Universal discriminative quantum neural networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(171).pdf" style="text-decoration:none;">Quantum classification of the MNIST dataset via Slow Feature Analysis</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(172).pdf" style="text-decoration:none;">Entropy and mutual information in models of deep neural networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(173).pdf" style="text-decoration:none;">Deep Learning Topological Invariants of Band Insulators</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(168).pdf" style="text-decoration:none;">Qualitative MDPs and POMDPs - An Order of Magnitude Approximation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(169).pdf" style="text-decoration:none;">On the Testable Implications of Causal Models with Hidden Variables</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(170).pdf" style="text-decoration:none;">Reply to Woodward</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(171).pdf" style="text-decoration:none;">Studies in Causal Reasoning and Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(172).pdf" style="text-decoration:none;">Comments on Neuberg's Review of Causality</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(173).pdf" style="text-decoration:none;">Clarifying the Usage of Structural Models for Commonsense Causal Reasoning</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(174).pdf" style="text-decoration:none;">Bayesian Quantum Circuit</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(175).pdf" style="text-decoration:none;">Machine learning many-body localization: Search for the elusive nonergodic metal</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(176).pdf" style="text-decoration:none;">Automated discovery of characteristic features of phase transitions in many-body localization</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(174).pdf" style="text-decoration:none;">LAYERWIDTH: Analysis of a New Metric for Directed Acyclic Graphs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(175).pdf" style="text-decoration:none;">Graphical Methods for Identification in Structural Equation Models</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(176).pdf" style="text-decoration:none;">Modeling and Solving Sequential Decision Problems with Uncertainty and Partial Information</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(177).pdf" style="text-decoration:none;">Adversarial quantum circuit learning for pure state approximation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(177).pdf" style="text-decoration:none;">Faster Heuristic Search Algorithms for Planning with Uncertainty and Full Feedback</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(178).pdf" style="text-decoration:none;">Machine learning of quantum phase transitions</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(179).pdf" style="text-decoration:none;">Universal Statistics of Fisher Information in Deep Neural Networks: Mean Field Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(178).pdf" style="text-decoration:none;">GPT Meets PSR</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(179).pdf" style="text-decoration:none;">Labeled RTDP: Improving the Convergence of Real-Time Dynamic Programming</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(180).pdf" style="text-decoration:none;">Machine-learning Skyrmions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(180).pdf" style="text-decoration:none;">Robustness of Causal Claims</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(181).pdf" style="text-decoration:none;">Analytic continuation via 'domain-knowledge free' machine learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(182).pdf" style="text-decoration:none;">Supervised learning with generalized tensor networks </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(183).pdf" style="text-decoration:none;">Continuous-variable quantum neural networks </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(181).pdf" style="text-decoration:none;">Identifiability of Path-Specific Effects (In Proceedings of International Joint Conference on Artificial Intelligence, Edinburgh, Schotland, 357-363, August 2005)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(182).pdf" style="text-decoration:none;">Identifiability of Path-Specific Effects (Shortened version to appear In Proceedings of International Joint Conference on Artificial Intelligence, Edinburgh, Schotland, 2005)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(183).pdf" style="text-decoration:none;">What's in a translation rule?</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(184).pdf" style="text-decoration:none;">Decoherence in a quantum neural network </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(184).pdf" style="text-decoration:none;">Influence Diagrams &minus; Historical and Personal Perspectives </a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(185).pdf" style="text-decoration:none;">Quantum Kitchen Sinks: An algorithm for machine learning on near-term quantum computers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(185).pdf" style="text-decoration:none;">Identification of Joint Interventional Distributions in Recursive Semi-Markovian Causal Models</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(186).pdf" style="text-decoration:none;">Quantum Codes from Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(186).pdf" style="text-decoration:none;">A Characterization of Interventional Distributions in Semi-Markovian Causal Models</a></li>
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(187).pdf" style="text-decoration:none;">Artificial Quantum Neural Network: quantum neurons, logical elements and tests of convolutional nets</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(187).pdf" style="text-decoration:none;">Appendum to Identification of Conditional Interventional Distributions</a></li>
                              
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(188).pdf" style="text-decoration:none;">A Universal Training Algorithm for Quantum Deep Learning </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(188).pdf" style="text-decoration:none;">Identification of Conditional Interventional Distributions</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(189).pdf" style="text-decoration:none;">Optimization of neural networks via finite-value quantum fluctuations</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(190).pdf" style="text-decoration:none;">Adversarial training of quantum Born machine </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(189).pdf" style="text-decoration:none;">Two journeys into human reasoning</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(190).pdf" style="text-decoration:none;">Causal Diagrams </a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(191).pdf" style="text-decoration:none;">Interpretable Machine Learning for Inferring the Phase Boundaries in a Non-equilibrium System  </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(191).pdf" style="text-decoration:none;">Graphical Condition for Identication in Recursive SEM  </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(192).pdf" style="text-decoration:none;">Benchmarking Neural Networks For Quantum Computations</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(192).pdf" style="text-decoration:none;">What Counterfactuals Can Be Tested</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(193).pdf" style="text-decoration:none;">Symmetries and many-body excited states with neural-network quantum states</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(193).pdf" style="text-decoration:none;">Bounds on Direct Effects in the Presence of Confounded Intermediate Variables</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(194).pdf" style="text-decoration:none;">Neural networks as "hidden" variable models for quantum systems </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(194).pdf" style="text-decoration:none;">Complete Identification Methods for the Causal Hierarchy </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(195).pdf" style="text-decoration:none;">Recurrent neural networks running on quantum spins: memory accuracy and capacity</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(195).pdf" style="text-decoration:none;">The Mathematics of Causal Inference in Statistics</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(196).pdf" style="text-decoration:none;">TherML: Thermodynamics of Machine Learning</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(196).pdf" style="text-decoration:none;">The Mathematics of Causal Relations</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(197).pdf" style="text-decoration:none;">The fundamentals of quantum machine learning</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(197).pdf" style="text-decoration:none;">Dormant Independence</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(198).pdf" style="text-decoration:none;">An introductory example of machine learning enhanced global optimization</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(198).pdf" style="text-decoration:none;">Dormant Independence (Shorter version to appear in AAAI-08)</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(199).pdf" style="text-decoration:none;">Self-learning Monte Carlo method with Behler-Parrinello neural networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(199).pdf" style="text-decoration:none;">Reviews Symposium</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(200).pdf" style="text-decoration:none;">Many-body (de)localization in large quantum chains</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(200).pdf" style="text-decoration:none;">Confounding Equivalence in Causal Inference</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(201).pdf" style="text-decoration:none;">irbasis: Open-source database and software for intermediate-representation basis functions of imaginary-time Green's function </a></li> 
   
