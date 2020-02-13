@@ -2998,7 +2998,7 @@ by A.P. Dawid)</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(43).pdf" style="text-decoration:none;">Why Does Unsupervised Pre-training Help Deep Learning?</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(44).pdf" style="text-decoration:none;">Understanding the difficulty of training deep feedforward neural networks</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(45).pdf" style="text-decoration:none;">Deep Sparse Rectier Neural Networks</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(45).pdf" style="text-decoration:none;">Deep Sparse Rectifier Neural Networks</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(46).pdf" style="text-decoration:none;">No Unbiased Estimator of the Variance of K-Fold Cross-Validation</a></li> 
                              
