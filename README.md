@@ -1275,8 +1275,8 @@
 
 </br></br>
 
-<img class="alignnone size-full wp-image-933 jetpack-lazy-image jetpack-lazy-image--handled" src="batman.png" width="800" height="442" data-recalc-dims="1" srcset="batman.png" data-lazy-loaded="1" sizes="(max-width: 800px) 100vw, 800px">
-
+<img class="alignnone size-full wp-image-933 jetpack-lazy-image jetpack-lazy-image--handled" src="batman.png" width="548" height="591" data-recalc-dims="1" srcset="batman.png" data-lazy-loaded="1" sizes="(max-width: 800px) 100vw, 800px">
+<p><strong>Batman Movie Script Written By AI After Watching 1000 Hours Footage:</strong> it's insane, hilarious and downright incredible.</p>
 </br></br>
 
 
