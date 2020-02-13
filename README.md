@@ -3149,45 +3149,45 @@ Content-Based Image Retrieval</a></li>
 <p><strong>Publications:</strong></p>
 
 <ul>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(439).pdf" style="text-decoration:none;">A Robust Layered Control System for a Mobile Robot </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(440).pdf" style="text-decoration:none;">A Robot that Walks; Emergent Behavior from a Carefully Evolved Network </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(439).pdf" style="text-decoration:none;">How Hard is Artificial Intelligence? Evolutionary Arguments and Selection Effects</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(440).pdf" style="text-decoration:none;">Observer-Relative Chances In Anthropic Reasoning? </a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(441).pdf" style="text-decoration:none;"> Building Brains for Bodies</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(442).pdf" style="text-decoration:none;">The Intelligent Room Project </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(441).pdf" style="text-decoration:none;"> The Doomsday Argument, Adam & Eve, UN<sup>++</sup>, and Quantum Joe</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(442).pdf" style="text-decoration:none;">The Doomsday Argument is Alive and Kicking</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(443).pdf" style="text-decoration:none;">From Earwigs to Humans </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(444).pdf" style="text-decoration:none;">Model-Based Three-Dimensional Interpretations of Two-Dimensional Images</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(445).pdf" style="text-decoration:none;">Intelligence Without Reason</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(446).pdf" style="text-decoration:none;">Challenges for Complete Creature Architectures</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(447).pdf" style="text-decoration:none;">The Cog Project: Building a Humanoid Robot</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(448).pdf" style="text-decoration:none;">The Role of Learning in Autonomous Robots</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(443).pdf" style="text-decoration:none;">The Ethics of Artificial Intelligence </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(444).pdf" style="text-decoration:none;">Cognitive Enhancement: Methods, Ethics, Regulatory Challenges</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(445).pdf" style="text-decoration:none;">Converging Cognitive Enhancements</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(446).pdf" style="text-decoration:none;">Drugs can be used to treat more than disease</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(447).pdf" style="text-decoration:none;">Embryo Selection for Cognitive Enhancement: Curiosity or Game-changer?</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(448).pdf" style="text-decoration:none;">Existential Risk Prevention as a Global Priority</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(449).pdf" style="text-decoration:none;"> Elephants Don't Play Chess</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(450).pdf" style="text-decoration:none;">Fast, Cheap And Out Of Control: A Robot Invasion Of The Solar System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(449).pdf" style="text-decoration:none;"> Quantity of experience: brain-duplication and degrees of consciousness</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(450).pdf" style="text-decoration:none;">Where Are They? Why I Hope the Search for Extraterrestrial Life Finds Nothing</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(451).pdf" style="text-decoration:none;">Visually-Guided Obstacle Avoidance in Unstructured Environments </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(452).pdf" style="text-decoration:none;">Alternative Essences of Intelligence </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(453).pdf" style="text-decoration:none;">How to Build Complete Creatures Rather than Isolated Cognitive Simulators</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(454).pdf" style="text-decoration:none;">Technologies for Human/Humanoid Natural Interactions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(451).pdf" style="text-decoration:none;">Infinite Ethics  </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(452).pdf" style="text-decoration:none;">Information Hazards: A Typology of Potential Harms from Knowledge</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(453).pdf" style="text-decoration:none;">The Mysteries of Self-Locating Belief and Anthropic Reasoning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(454).pdf" style="text-decoration:none;">The Meta-Newcomb Problem</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(455).pdf" style="text-decoration:none;">Humanoid Robots: A New Kind of Tool</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(456).pdf" style="text-decoration:none;">Learning to Coordinate Behaviors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(455).pdf" style="text-decoration:none;">Astronomical Waste: The Opportunity Cost of Delayed Technological Development</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(456).pdf" style="text-decoration:none;">In Defense of Posthuman Dignity</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(457).pdf" style="text-decoration:none;">The relationship between matter and life</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(458).pdf" style="text-decoration:none;">From robot dreams to reality</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(457).pdf" style="text-decoration:none;">What is a Singleton?</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(458).pdf" style="text-decoration:none;">How long before superintelligence?</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(459).pdf" style="text-decoration:none;">New Approaches to Robotics </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(460).pdf" style="text-decoration:none;">Prospects for Human Level Intelligence for Humanoid Robots</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(461).pdf" style="text-decoration:none;">Artificial Life and Real Robots</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(462).pdf" style="text-decoration:none;">Intelligence without representation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(459).pdf" style="text-decoration:none;">Thinking Inside the Box: Controlling and Using an Oracle AI</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(460).pdf" style="text-decoration:none;">Pascal's mugging</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(461).pdf" style="text-decoration:none;">Are You Living in a Computer Simulation? </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(462).pdf" style="text-decoration:none;">The Reversal Test: Eliminating Status Quo Bias in Applied Ethics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(463).pdf" style="text-decoration:none;">Small Planetary Rovers</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(464).pdf" style="text-decoration:none;">Integrated Systems Based on Behaviors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(463).pdf" style="text-decoration:none;">The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(464).pdf" style="text-decoration:none;">Sleeping Beauty and Self-Location: A Hybrid Model</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(465).pdf" style="text-decoration:none;">The whole iguana</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(465).pdf" style="text-decoration:none;">Why We Need Friendly AI </a></li>
    
 
  
