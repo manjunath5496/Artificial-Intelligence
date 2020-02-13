@@ -2918,8 +2918,168 @@ by A.P. Dawid)</a></li>
 <ul>
 <li><strong><a title="Yoshua Bengio" href="https://en.wikipedia.org/wiki/Yoshua_Bengio">Yoshua Bengio</a></strong></li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<hr>
+</br>
+<p><strong>Publications:</strong></p>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(1).pdf" style="text-decoration:none;">Deep Learning of Representations: Looking Forward</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(2).pdf" style="text-decoration:none;">Visualizing Higher-Layer Features of a Deep Network</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(3).pdf" style="text-decoration:none;">Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(4).pdf" style="text-decoration:none;">Contractive Auto-Encoders: Explicit Invariance During Feature Extraction</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(5).pdf" style="text-decoration:none;">Practical Recommendations for Gradient-Based Training of Deep Architectures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(6).pdf" style="text-decoration:none;">Representation Learning: A Review and New Perspectives</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(7).pdf" style="text-decoration:none;">Theano: new features and speed improvements</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(8).pdf" style="text-decoration:none;"> High-dimensional sequence transduction </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(9).pdf" style="text-decoration:none;">Maxout Networks</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(10).pdf" style="text-decoration:none;">Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(11).pdf" style="text-decoration:none;">How to Construct Deep Recurrent Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(12).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(13).pdf" style="text-decoration:none;">On the Properties of Neural Machine Translation: Encoder–Decoder Approaches</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(14).pdf" style="text-decoration:none;">How transferable are features in deep neural networks?</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(15).pdf" style="text-decoration:none;">Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(16).pdf" style="text-decoration:none;">FitNets: Hints for Thin Deep Nets</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(17).pdf" style="text-decoration:none;">Gated Feedback Recurrent Neural Networks</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(18).pdf" style="text-decoration:none;">Show, Attend and Tell: Neural Image Caption Generation with Visual Attention</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(19).pdf" style="text-decoration:none;">End-to-end attention-based large vocabulary speech recognition</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(20).pdf" style="text-decoration:none;">Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or -1</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(21).pdf" style="text-decoration:none;">The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(22).pdf" style="text-decoration:none;">Inference for the Generalization Error</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(23).pdf" style="text-decoration:none;">A Structured Self-attentive Sentence Embedding</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(24).pdf" style="text-decoration:none;">Graph Attention Networks</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(25).pdf" style="text-decoration:none;">Curriculum Learning</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(26).pdf" style="text-decoration:none;">Learning Structured Embeddings of Knowledge Bases</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(27).pdf" style="text-decoration:none;">Out-of-Sample Extensions for LLE, Isomap, MDS, Eigenmaps, and Spectral Clustering</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(28).pdf" style="text-decoration:none;">Algorithms for Hyper-Parameter Optimization</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(29).pdf" style="text-decoration:none;">On the Number of Linear Regions of Deep Neural Networks</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(30).pdf" style="text-decoration:none;">Generative Adversarial Nets</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(31).pdf" style="text-decoration:none;">BinaryConnect: Training Deep Neural Networks with binary weights during propagations</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(32).pdf" style="text-decoration:none;">Attention-Based Models for Speech Recognition</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(33).pdf" style="text-decoration:none;">Building End-to-End Dialogue Systems: Using Generative Hierarchical Neural Network Models</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(34).pdf" style="text-decoration:none;">A Neural Probabilistic Language Model</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(35).pdf" style="text-decoration:none;">Deep Learning of Representations for Unsupervised and Transfer Learning</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(36).pdf" style="text-decoration:none;">Scaling Learning Algorithms towards AI</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(37).pdf" style="text-decoration:none;">Random Search for Hyper-Parameter Optimization</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(38).pdf" style="text-decoration:none;">Gradient Flow in Recurrent Nets: the Difficulty of Learning Long-Term Dependencies</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(39).pdf" style="text-decoration:none;">Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(40).pdf" style="text-decoration:none;">Convergence Properties of the K-Means Algorithms</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(41).pdf" style="text-decoration:none;">Deep Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(42).pdf" style="text-decoration:none;">An Empirical Evaluation of Deep Architectures on Problems with Many Factors of Variation</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(43).pdf" style="text-decoration:none;">Why Does Unsupervised Pre-training Help Deep Learning?</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(44).pdf" style="text-decoration:none;">Understanding the difficulty of training deep feedforward neural networks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(45).pdf" style="text-decoration:none;">Deep Sparse Rectier Neural Networks</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(46).pdf" style="text-decoration:none;">No Unbiased Estimator of the Variance of K-Fold Cross-Validation</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(47).pdf" style="text-decoration:none;">Hierarchical Probabilistic Neural Network Language Model</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(48).pdf" style="text-decoration:none;">Extracting and Composing Robust Features with Denoising Autoencoders</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(49).pdf" style="text-decoration:none;">Classification using Discriminative Restricted Boltzmann Machines</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(50).pdf" style="text-decoration:none;">Exploring Strategies for Training Deep Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(51).pdf" style="text-decoration:none;">Gradient Based Learning Applied to Document Recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(52).pdf" style="text-decoration:none;">Convolutional networks for images, speech, and time series</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(53).pdf" style="text-decoration:none;">Word representations: A simple and general method for semi-supervised learning </a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(54).pdf" style="text-decoration:none;">On Using Very Large Target Vocabulary for Neural Machine Translation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(55).pdf" style="text-decoration:none;">Representational Power of Restricted Boltzmann Machines and Deep Belief Networks</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(56).pdf" style="text-decoration:none;">Unsupervised Feature Learning and Deep Learning: A Review and New Perspectives </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(57).pdf" style="text-decoration:none;">Using Recurrent Neural Networks for Slot Filling in Spoken Language Understanding </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(58).pdf" style="text-decoration:none;">Theano: A CPU and GPU Math Compiler in Python</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(59).pdf" style="text-decoration:none;">Learning long-term dependencies with gradient descent is difficult</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(60).pdf" style="text-decoration:none;">Learning Deep Architectures for AI</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(61).pdf" style="text-decoration:none;">A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(62).pdf" style="text-decoration:none;">Kernel Matching Pursuit</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(63).pdf" style="text-decoration:none;">Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(64).pdf" style="text-decoration:none;">Markovian Models for Sequential Data</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(67).pdf" style="text-decoration:none;">Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(68).pdf" style="text-decoration:none;">What Regularized Auto-Encoders Learn from the Data Generating Distribution</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(69).pdf" style="text-decoration:none;">Advances in Optimizing Recurrent Networks</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(70).pdf" style="text-decoration:none;">A Semantic Matching Energy Function for Learning with Multi-relational Data</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(71).pdf" style="text-decoration:none;">An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(72).pdf" style="text-decoration:none;">Training deep neural networks with low precision multiplications</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(73).pdf" style="text-decoration:none;">A Recurrent Latent Variable Model for Sequential Data</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(74).pdf" style="text-decoration:none;">Unsupervised Generative Modeling Using Matrix Product States</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(75).pdf" style="text-decoration:none;">Identifying Product Order with Restricted Boltzmann Machines</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(76).pdf" style="text-decoration:none;">Machine learning and artificial intelligence in the quantum domain</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(77).pdf" style="text-decoration:none;">Learning Disordered Topological Phases by Statistical Recovery of Symmetry</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(78).pdf" style="text-decoration:none;">Restricted-Boltzmann-Machine Learning for Solving Strongly Correlated Quantum Systems</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(79).pdf" style="text-decoration:none;">Quantum Autoencoders via Quantum Adders with Genetic Algorithms</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(80).pdf" style="text-decoration:none;">Generalized Quantum Reinforcement Learning with Quantum Technologies</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(81).pdf" style="text-decoration:none;">Combining Machine Learning and Physics to Understand Glassy Systems</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(82).pdf" style="text-decoration:none;">Enhanced Quantum Synchronization via Quantum Machine Learning</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(83).pdf" style="text-decoration:none;">Learning hard quantum distributions with variational autoencoders</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(84).pdf" style="text-decoration:none;">Mean-field theory of input dimensionality reduction in unsupervised deep neural networks</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(85).pdf" style="text-decoration:none;">Neural Networks Quantum States, String-Bond States and chiral topological states</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(86).pdf" style="text-decoration:none;">Machine Learning by Two-Dimensional Hierarchical Tensor Networks: A Quantum Information Theoretic Perspective on Deep Architectures</a></li>
+
+
+ 
+ 
+ </ul>
+
+</br>
+
 <ul>
 <li><strong><a title="Hugo de Garis" href="https://en.wikipedia.org/wiki/Hugo_de_Garis">Hugo de Garis</a></strong>&nbsp;&ndash; known for his research on the use of genetic algorithms to evolve neural networks using three-dimensional cellular automata inside field programmable gate arrays.</li>
 <li><strong><a title="Geoffrey Hinton" href="https://en.wikipedia.org/wiki/Geoffrey_Hinton">Geoffrey Hinton</a></strong></li>
