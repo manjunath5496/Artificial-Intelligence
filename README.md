@@ -2889,7 +2889,6 @@ by A.P. Dawid)</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(388).pdf" style="text-decoration:none;">The whole iguana</a></li>
    
 
-  
 </ul>
 
 
