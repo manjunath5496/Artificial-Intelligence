@@ -2895,6 +2895,14 @@ by A.P. Dawid)</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(392).pdf" style="text-decoration:none;">Sensing and Manipulating Built-For-Human Environments</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(393).pdf" style="text-decoration:none;">Symbolic Error Analysis and Robot Planning</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(394).pdf" style="text-decoration:none;">Achieving Artificial Intelligence Through Building Robots</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(395).pdf" style="text-decoration:none;"> A Robot That Walks; Emergent Behaviors from a Carefully Evolved Network?</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(396).pdf" style="text-decoration:none;"> Twilight Zones and Cornerstones: A Gnat Robot Double Feature</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(397).pdf" style="text-decoration:none;"> Planning Is Just A Way Of Avoiding Figuring Out What To Do Next</a></li>
+ 
 </ul>
 
 
