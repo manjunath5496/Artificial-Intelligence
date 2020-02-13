@@ -2513,23 +2513,23 @@ by A.P. Dawid)</a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(150).pdf" style="text-decoration:none;">Parameter Identification: A New Perspective (Second Draft)</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(151).pdf" style="text-decoration:none;">Differentiable Learning of Quantum Circuit Born Machine </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(151).pdf" style="text-decoration:none;">Bayesian Networks (Technical Report)</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(152).pdf" style="text-decoration:none;">Optimizing a Polynomial Function on a Quantum Simulator</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(153).pdf" style="text-decoration:none;">Classicalization Clearly: Quantum Transition into States of Maximal Memory Storage Capacity</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(154).pdf" style="text-decoration:none;">Method to solve quantum few-body problems with artificial neural networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(152).pdf" style="text-decoration:none;">Exogeneity and Superexogeneity: A No-tear Perspective</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(153).pdf" style="text-decoration:none;">On Two Pseudo-Paradoxes in Bayesian Analysis</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(154).pdf" style="text-decoration:none;">Causal Discovery from Changes</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(155).pdf" style="text-decoration:none;">A sequential sampling strategy for extreme event statistics in nonlinear dynamical systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(155).pdf" style="text-decoration:none;">Bayesian Networks, Causal Inference and Knowledge Discovery</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(156).pdf" style="text-decoration:none;">Learning non-Higgsable gauge groups in 4D F-theory</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(157).pdf" style="text-decoration:none;">A Simple Quantum Neural Net with a Periodic Activation Function</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(158).pdf" style="text-decoration:none;">Quantum codes from classical graphical models</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(156).pdf" style="text-decoration:none;">Causal Inference in the Health Sciences: A Conceptual Introduction</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(157).pdf" style="text-decoration:none;">Comments on Seeing and Doing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(158).pdf" style="text-decoration:none;">Comments on Nozer Singpurwalla's "On Causality and Causal Mechanisms"</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(159).pdf" style="text-decoration:none;">Machine learning assisted readout of trapped-ion qubits </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(159).pdf" style="text-decoration:none;">Bayesianism and Causality, or, Why I am Only a Half-Bayesian </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(160).pdf" style="text-decoration:none;">Probing Hidden Spin Order with Interpretable Machine Learning</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(160).pdf" style="text-decoration:none;">Causal Inference in Statistics: A Gentle Introduction</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(161).pdf" style="text-decoration:none;">Quantum generative adversarial networks</a></li>
  
