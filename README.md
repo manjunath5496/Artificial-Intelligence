@@ -2856,7 +2856,7 @@ by A.P. Dawid)</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(366).pdf" style="text-decoration:none;">From Earwigs to Humans </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(367).pdf" style="text-decoration:none;">A Progress Report on Machines to Learn to Translate Languages and Retrieve Information</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(367).pdf" style="text-decoration:none;">Model-Based Three-Dimensional Interpretations of Two-Dimensional Images</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(368).pdf" style="text-decoration:none;">Intelligence Without Reason</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(369).pdf" style="text-decoration:none;">Challenges for Complete Creature Architectures</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(370).pdf" style="text-decoration:none;">The Cog Project: Building a Humanoid Robot</a></li>
@@ -2888,7 +2888,13 @@ by A.P. Dawid)</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(388).pdf" style="text-decoration:none;">The whole iguana</a></li>
    
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(389).pdf" style="text-decoration:none;">A Subdivision Algorithm in Configuration Space for Findpath with Rotation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(390).pdf" style="text-decoration:none;">Planning Collision-Free Motions for Pick-and-Place Operations</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(391).pdf" style="text-decoration:none;">The Behavior Language; User's Guide</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(392).pdf" style="text-decoration:none;">Sensing and Manipulating Built-For-Human Environments</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(393).pdf" style="text-decoration:none;">Symbolic Error Analysis and Robot Planning</a></li>
 </ul>
 
 
