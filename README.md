@@ -2836,7 +2836,61 @@ by A.P. Dawid)</a></li>
  </ul>
 
 
+</br>
 
+
+<ul>
+<li><strong><a title="Rodney Brooks" href="https://en.wikipedia.org/wiki/Rodney_Brooks">Rodney Brooks</a>&nbsp;</strong></li>
+</ul>
+
+<hr>
+</br>
+<p><strong>Publications:</strong></p>
+
+<ul>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(362).pdf" style="text-decoration:none;">A Robust Layered Control System for a Mobile Robot </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(363).pdf" style="text-decoration:none;">A Robot that Walks; Emergent Behavior from a Carefully Evolved Network </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(364).pdf" style="text-decoration:none;"> Building Brains for Bodies</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(365).pdf" style="text-decoration:none;">The Intelligent Room Project </a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(366).pdf" style="text-decoration:none;">From Earwigs to Humans </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(367).pdf" style="text-decoration:none;">A Progress Report on Machines to Learn to Translate Languages and Retrieve Information</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(368).pdf" style="text-decoration:none;">Intelligence Without Reason</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(369).pdf" style="text-decoration:none;">Challenges for Complete Creature Architectures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(370).pdf" style="text-decoration:none;">The Cog Project: Building a Humanoid Robot</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(371).pdf" style="text-decoration:none;">The Role of Learning in Autonomous Robots</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(372).pdf" style="text-decoration:none;"> Elephants Don't Play Chess</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(373).pdf" style="text-decoration:none;">Fast, Cheap And Out Of Control: A Robot Invasion Of The Solar System</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(374).pdf" style="text-decoration:none;">Visually-Guided Obstacle Avoidance in Unstructured Environments </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(375).pdf" style="text-decoration:none;">Alternative Essences of Intelligence </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(376).pdf" style="text-decoration:none;">How to Build Complete Creatures Rather than Isolated Cognitive Simulators</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(377).pdf" style="text-decoration:none;">Technologies for Human/Humanoid Natural Interactions</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(378).pdf" style="text-decoration:none;">Humanoid Robots: A New Kind of Tool</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(379).pdf" style="text-decoration:none;">Learning to Coordinate Behaviors</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(380).pdf" style="text-decoration:none;">The relationship between matter and life</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(381).pdf" style="text-decoration:none;">From robot dreams to reality</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(382).pdf" style="text-decoration:none;">New Approaches to Robotics </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(383).pdf" style="text-decoration:none;">Prospects for Human Level Intelligence for Humanoid Robots</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(384).pdf" style="text-decoration:none;">Artificial Life and Real Robots</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(385).pdf" style="text-decoration:none;">Intelligence without representation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(386).pdf" style="text-decoration:none;">Small Planetary Rovers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(387).pdf" style="text-decoration:none;">Integrated Systems Based on Behaviors</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(388).pdf" style="text-decoration:none;">The whole iguana</a></li>
+   
+
+  
+</ul>
 
 
 
