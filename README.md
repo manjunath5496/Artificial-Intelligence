@@ -1275,6 +1275,13 @@
 
 </br>
 
+<img class="alignnone size-full wp-image-933 jetpack-lazy-image jetpack-lazy-image--handled" src="https://i0.wp.com/techgrabyte.com/wp-content/uploads/2019/08/Batman-Movie-Script-Written-By-AI-After-Watching-1000-Hours-Footage-3.jpg?resize=800%2C442&amp;ssl=1" alt="Batman Movie Script Written By AI After Watching 1000 Hours Footage" width="800" height="442" data-recalc-dims="1" srcset="https://i0.wp.com/techgrabyte.com/wp-content/uploads/2019/08/Batman-Movie-Script-Written-By-AI-After-Watching-1000-Hours-Footage-3.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/techgrabyte.com/wp-content/uploads/2019/08/Batman-Movie-Script-Written-By-AI-After-Watching-1000-Hours-Footage-3.jpg?resize=300%2C166&amp;ssl=1 300w, https://i0.wp.com/techgrabyte.com/wp-content/uploads/2019/08/Batman-Movie-Script-Written-By-AI-After-Watching-1000-Hours-Footage-3.jpg?resize=768%2C424&amp;ssl=1 768w, https://i0.wp.com/techgrabyte.com/wp-content/uploads/2019/08/Batman-Movie-Script-Written-By-AI-After-Watching-1000-Hours-Footage-3.jpg?resize=1024%2C566&amp;ssl=1 1024w, https://i0.wp.com/techgrabyte.com/wp-content/uploads/2019/08/Batman-Movie-Script-Written-By-AI-After-Watching-1000-Hours-Footage-3.jpg?resize=640%2C354&amp;ssl=1 640w" data-lazy-loaded="1" sizes="(max-width: 800px) 100vw, 800px">
+
+</br>
+
+
+
+
 <h2 id ="design">Applications of Artificial Intelligence </h2>
 
 <ul>
