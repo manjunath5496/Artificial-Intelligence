@@ -3050,28 +3050,28 @@ by A.P. Dawid)</a></li>
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(73).pdf" style="text-decoration:none;">A Recurrent Latent Variable Model for Sequential Data</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(74).pdf" style="text-decoration:none;">Unsupervised Generative Modeling Using Matrix Product States</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(75).pdf" style="text-decoration:none;">Identifying Product Order with Restricted Boltzmann Machines</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(76).pdf" style="text-decoration:none;">Machine learning and artificial intelligence in the quantum domain</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(74).pdf" style="text-decoration:none;">Hierarchical Multiscale Recurrent Neural Networks</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(75).pdf" style="text-decoration:none;">Plug and Play Generative Networks: Conditional Iterative Generation of Images in Latent Space</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(76).pdf" style="text-decoration:none;">A Parallel Mixture of SVMs for Very Large Scale Problems</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(77).pdf" style="text-decoration:none;">Learning Disordered Topological Phases by Statistical Recovery of Symmetry</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(77).pdf" style="text-decoration:none;">Semi-supervised Learning by Entropy Minimization</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(78).pdf" style="text-decoration:none;">Restricted-Boltzmann-Machine Learning for Solving Strongly Correlated Quantum Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(79).pdf" style="text-decoration:none;">Quantum Autoencoders via Quantum Adders with Genetic Algorithms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(78).pdf" style="text-decoration:none;">Greedy Layer-Wise Training of Deep Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(79).pdf" style="text-decoration:none;">Generalized Denoising Auto-Encoders as Generative Models</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(80).pdf" style="text-decoration:none;">Generalized Quantum Reinforcement Learning with Quantum Technologies</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(80).pdf" style="text-decoration:none;">Boosting Neural Networks</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(81).pdf" style="text-decoration:none;">Combining Machine Learning and Physics to Understand Glassy Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(82).pdf" style="text-decoration:none;">Enhanced Quantum Synchronization via Quantum Machine Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(81).pdf" style="text-decoration:none;">The Difficulty of Training Deep Architectures and the Effect of Unsupervised Pre-Training</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(82).pdf" style="text-decoration:none;">An Input Output HMM Architecture</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(83).pdf" style="text-decoration:none;">Learning hard quantum distributions with variational autoencoders</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(84).pdf" style="text-decoration:none;">Mean-field theory of input dimensionality reduction in unsupervised deep neural networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(83).pdf" style="text-decoration:none;">Input/Output HMMs for Sequence Processing</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(84).pdf" style="text-decoration:none;">Object Recognition with Gradient-Based Learning</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(85).pdf" style="text-decoration:none;">Neural Networks Quantum States, String-Bond States and chiral topological states</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(86).pdf" style="text-decoration:none;">Machine Learning by Two-Dimensional Hierarchical Tensor Networks: A Quantum Information Theoretic Perspective on Deep Architectures</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(85).pdf" style="text-decoration:none;">On the difficulty of training recurrent neural networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/rb(86).pdf" style="text-decoration:none;">Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations</a></li>
 
 
  
