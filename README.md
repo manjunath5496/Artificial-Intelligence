@@ -2499,18 +2499,19 @@ HASP/SIAP Case Study  </a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(141).pdf" style="text-decoration:none;"> Causes and explanations: A structural-model approach &minus; Part II:  Causes (Technical Report)</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(142).pdf" style="text-decoration:none;">Instrumentality Tests Revisited</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(143).pdf" style="text-decoration:none;">The Loss Surface of XOR Artificial Neural Networks</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(144).pdf" style="text-decoration:none;">Complex energy landscapes in spiked-tensor and simple glassy models: ruggedness, arrangements of local minima and phase transitions</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(145).pdf" style="text-decoration:none;">Machine learning of phase transitions in the percolation and XY models</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(146).pdf" style="text-decoration:none;">Neural network decoder for topological color codes with circuit level noise</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(143).pdf" style="text-decoration:none;">A Calculus for Causal Relevance</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(144).pdf" style="text-decoration:none;">The Logic of Counterfactuals in Causal Inference (Discussion of 'Causal Inference without Counterfactuals'
+by A.P. Dawid)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(145).pdf" style="text-decoration:none;">Pearl: Comment</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(146).pdf" style="text-decoration:none;">Probabilities of causation: Bounds and identification</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(147).pdf" style="text-decoration:none;">Variational quantum simulation of imaginary time evolution with applications in chemistry and beyond</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(147).pdf" style="text-decoration:none;">Probabilities of causation: Bounds and identification (Technical Report)</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(148).pdf" style="text-decoration:none;">Strawberry Fields: A Software Platform for Photonic Quantum Computing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(148).pdf" style="text-decoration:none;">Direct and Indirect Effects(In Proceedings of the American Statistical Association Joint Statistical Meetings, Minneapolis, MN: MIRA Digital Publishing, 1572-1581, 2005)</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(149).pdf" style="text-decoration:none;">Supervised machine learning algorithms based on generalized Gibbs ensembles</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(149).pdf" style="text-decoration:none;">Direct and Indirect Effects (In Proceedings of the Seventeenth Conference on Uncertainy in Artificial Intelligence, San Francisco, CA: Morgan Kaufmann, 411, 20, 2001.)</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(150).pdf" style="text-decoration:none;">Hierarchical quantum classifiers</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(150).pdf" style="text-decoration:none;">Parameter Identification: A New Perspective (Second Draft)</a></li> 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(151).pdf" style="text-decoration:none;">Differentiable Learning of Quantum Circuit Born Machine </a></li>
 
