@@ -2438,43 +2438,43 @@ HASP/SIAP Case Study  </a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(109).pdf" style="text-decoration:none;">Probabilistic Evaluation of Sequential Plans from Causal Models with Hidden Variables</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(110).pdf" style="text-decoration:none;">Causation, action, and counterfactuals</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(110).pdf" style="text-decoration:none;">Causation, action, and counterfactuals (Technical Report)</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(111).pdf" style="text-decoration:none;">Taking gradients through experiments: LSTMs and memory proximal policy optimization for black-box quantum control</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(111).pdf" style="text-decoration:none;">Causation, action, and counterfactuals</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(112).pdf" style="text-decoration:none;">Reinforcement Learning with Neural Networks for Quantum Feedback</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(112).pdf" style="text-decoration:none;">Testing Identifiability of Causal Effects</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(113).pdf" style="text-decoration:none;">Learning DNFs under product distributions via μ–biased quantum Fourier sampling</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(113).pdf" style="text-decoration:none;">Counterfactuals and Policy Analysis in Structural Models</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(114).pdf" style="text-decoration:none;">Inferring relevant features: from QFT to PCA</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(115).pdf" style="text-decoration:none;">Quantum Variational Autoencoder</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(114).pdf" style="text-decoration:none;">Graphical Models for Probabilistic and Causal Reasoning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(115).pdf" style="text-decoration:none;">Structural and Probabilistic Causality</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(116).pdf" style="text-decoration:none;">The Mean-Field Approximation: Information Inequalities, Algorithms, and Complexity</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(116).pdf" style="text-decoration:none;">Covariate Selection: A Simple Solution To a Long-Standing Problem</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(117).pdf" style="text-decoration:none;">Deep neural decoders for near term fault-tolerant experiments</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(117).pdf" style="text-decoration:none;">Axioms of causal relevance (Long Technical Report)</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(118).pdf" style="text-decoration:none;">Advantages of versatile neural-network decoding for topological codes</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(118).pdf" style="text-decoration:none;">Axioms of causal relevance (Technical Report)</a></li>  
    
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(119).pdf" style="text-decoration:none;">Online Learning of Quantum States</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(119).pdf" style="text-decoration:none;">A clinician's tool for analyzing non-compliance</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(120).pdf" style="text-decoration:none;">Parameter diagnostics of phases and phase transition learning by neural networks</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(120).pdf" style="text-decoration:none;">Identifying Independencies in Causal Graphs with Feedback</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(121).pdf" style="text-decoration:none;">Universal Quantum Control through Deep Reinforcement Learning</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(121).pdf" style="text-decoration:none;">TETRAD and SEM</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(122).pdf" style="text-decoration:none;">Energy-entropy competition and the effectiveness of stochastic gradient descent in machine learning </a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(122).pdf" style="text-decoration:none;">On the Foundation of Structural Equation Models or When Can We Give Causal Interpretation to Structural Coefficients? </a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(123).pdf" style="text-decoration:none;">Thermodynamics of Restricted Boltzmann Machines and Related Learning Dynamics</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(123).pdf" style="text-decoration:none;">Bayesian Networks</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(124).pdf" style="text-decoration:none;">Measurement-based adaptation protocol with quantum reinforcement learning</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(124).pdf" style="text-decoration:none;">The Art and Science of Cause and Effect</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(125).pdf" style="text-decoration:none;">Vulnerability of Deep Learning </a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(125).pdf" style="text-decoration:none;">The New Challenge: From a Century of Statistics to the Age of Causation</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(126).pdf" style="text-decoration:none;">Comparing Dynamics: Deep Neural Networks versus Glassy Systems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(126).pdf" style="text-decoration:none;">An Axiomatic Characterization of Causal Counterfactuals</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(127).pdf" style="text-decoration:none;">Extrapolating quantum observables with machine learning: Inferring multiple phase transitions from properties of a single phase</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(127).pdf" style="text-decoration:none;">Causal Diagrams for Epidemiologic Research</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(128).pdf" style="text-decoration:none;">A high-bias, low-variance introduction to Machine Learning for physicists</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(128).pdf" style="text-decoration:none;">Confounding and collapsibility in causal inference</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(129).pdf" style="text-decoration:none;">Deep Learning Phase Segregation</a></li>   
    
