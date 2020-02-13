@@ -3197,6 +3197,37 @@ Content-Based Image Retrieval</a></li>
 <ul>
 <li><strong><a title="David Ferrucci" href="https://en.wikipedia.org/wiki/David_Ferrucci">David Ferrucci</a></strong>&nbsp;&ndash; principal investigator who led the team that developed the Watson computer at IBM.</li>
 <li><strong><a title="Andrew Ng" href="https://en.wikipedia.org/wiki/Andrew_Ng">Andrew Ng</a>&nbsp;</strong>&ndash; Director of the Stanford Artificial Intelligence Lab. He founded the&nbsp;<a title="Google Brain" href="https://en.wikipedia.org/wiki/Google_Brain">Google Brain</a>&nbsp;project at&nbsp;<a title="Google" href="https://en.wikipedia.org/wiki/Google">Google</a>, which developed very large scale artificial&nbsp;<a title="Neural network" href="https://en.wikipedia.org/wiki/Neural_network">neural networks</a>&nbsp;using&nbsp;<a title="Google" href="https://en.wikipedia.org/wiki/Google">Google</a>'s distributed compute infrastructure.&nbsp;He is also co-founder of Coursera, a massive open online course (MOOC) education platform, with Daphne Koller.</li>
+ </ul>
+ 
+ <hr>
+</br>
+<p><strong>Lecture Notes:</strong></p>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(1).pdf">01 and 02: Introduction, Regression Analysis and Gradient Descent</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(2).pdf">03: Linear Algebra - review</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(3).pdf">04: Linear Regression with Multiple Variables</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(3a).pdf">05: Octave</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(4).pdf">06: Logistic Regression</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(5).pdf">07: Regularization</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(6).pdf">08: Neural Networks - Representation</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(7).pdf">09: Neural Networks - Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(8).pdf">10: Advice for applying machine learning techniques</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(9).pdf">11: Machine Learning System Design</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(10).pdf">12: Support Vector Machines</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(11).pdf">13: Clustering</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(12).pdf">14: Dimensionality Reduction</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(13).pdf">15: Anomaly Detection</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(14).pdf">16: Recommender Systems</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(15).pdf">17: Large Scale Machine Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(16).pdf">18: Application Example - Photo OCR</a></li>
+<li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(17).pdf">Understanding Andrew Ng's Machine Learning Course &ndash; Notes and codes</a></li>
+</ul>
+</br>
+ 
+ 
+ 
+ <ul>
 <li><strong><a title="Peter Norvig" href="https://en.wikipedia.org/wiki/Peter_Norvig">Peter Norvig</a>&nbsp;</strong>&ndash; co-author, with Stuart Russell, of&nbsp;<em>Artificial Intelligence: A Modern Approach</em>, now the leading college text in the field. He is also Director of Research at Google, Inc.</li>
 <li><strong><a title="Marc Raibert" href="https://en.wikipedia.org/wiki/Marc_Raibert">Marc Raibert</a></strong>&nbsp;&ndash; founder of Boston Dynamics, developer of hopping, walking, and running robots.</li>
 <li><strong><a title="Stuart J. Russell" href="https://en.wikipedia.org/wiki/Stuart_J._Russell">Stuart J. Russell</a></strong>&nbsp;&ndash; co-author, with Peter Norvig, of&nbsp;<em>Artificial Intelligence: A Modern Approach</em>, now the leading college text in the field.</li>
