@@ -1273,11 +1273,11 @@
 </ul>
 <p>The threat of AI-charged job loss is spreading (AI and automation will eliminate the most mundane tasks). No matter what industry you&rsquo;re in, AI-powered bots (which can answer common questions and point users to FAQs and knowledge base articles) and software are taking a crack at it. Artificial intelligence seems to be ringing the death sound of a bell for all manner of jobs, tasks, chores and activities. From hospitality, to customer service, to home assistants, no job feels safe. Naturally, this has made people worried about the future. But is Artificial intelligence ready to take over our jobs, or even likely to do so ever? <strong>Prevalent AI- charged failures</strong> would suggest not.</p>
 
-</br>
+</br></br>
 
-<img class="alignnone size-full wp-image-933 jetpack-lazy-image jetpack-lazy-image--handled" src="https://i0.wp.com/techgrabyte.com/wp-content/uploads/2019/08/Batman-Movie-Script-Written-By-AI-After-Watching-1000-Hours-Footage-3.jpg?resize=800%2C442&amp;ssl=1" alt="Batman Movie Script Written By AI After Watching 1000 Hours Footage" width="800" height="442" data-recalc-dims="1" srcset="https://i0.wp.com/techgrabyte.com/wp-content/uploads/2019/08/Batman-Movie-Script-Written-By-AI-After-Watching-1000-Hours-Footage-3.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/techgrabyte.com/wp-content/uploads/2019/08/Batman-Movie-Script-Written-By-AI-After-Watching-1000-Hours-Footage-3.jpg?resize=300%2C166&amp;ssl=1 300w, https://i0.wp.com/techgrabyte.com/wp-content/uploads/2019/08/Batman-Movie-Script-Written-By-AI-After-Watching-1000-Hours-Footage-3.jpg?resize=768%2C424&amp;ssl=1 768w, https://i0.wp.com/techgrabyte.com/wp-content/uploads/2019/08/Batman-Movie-Script-Written-By-AI-After-Watching-1000-Hours-Footage-3.jpg?resize=1024%2C566&amp;ssl=1 1024w, https://i0.wp.com/techgrabyte.com/wp-content/uploads/2019/08/Batman-Movie-Script-Written-By-AI-After-Watching-1000-Hours-Footage-3.jpg?resize=640%2C354&amp;ssl=1 640w" data-lazy-loaded="1" sizes="(max-width: 800px) 100vw, 800px">
+<img class="alignnone size-full wp-image-933 jetpack-lazy-image jetpack-lazy-image--handled" src="batman.png" width="800" height="442" data-recalc-dims="1" srcset="batman.png" data-lazy-loaded="1" sizes="(max-width: 800px) 100vw, 800px">
 
-</br>
+</br></br>
 
 
 
