@@ -2706,9 +2706,9 @@ by A.P. Dawid)</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(259).pdf" style="text-decoration:none;">Structural Counterfactuals: A Brief Introduction</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(260).pdf" style="text-decoration:none;">Comment: Understanding Simpson's Paradox</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(261).pdf" style="text-decoration:none;">Quantum Convolutional Neural Networks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(261).pdf" style="text-decoration:none;">On the Testability of Models with Missing Data</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(262).pdf" style="text-decoration:none;">Quantum Neural Network and Soft Quantum Computing</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(262).pdf" style="text-decoration:none;">The Mathematics of Causal Inference</a></li> 
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/jea(263).pdf" style="text-decoration:none;">Learning multiple order parameters with interpretable machines</a></li> 
 
