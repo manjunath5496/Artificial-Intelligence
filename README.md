@@ -3384,11 +3384,11 @@ Content-Based Image Retrieval</a></li>
 </ul>
 
   </br>
- <ul>
-<li><strong><a title="Peter Norvig" href="https://en.wikipedia.org/wiki/Peter_Norvig">Peter Norvig</a>&nbsp;</strong>&ndash; co-author, with Stuart Russell, of&nbsp;<em>Artificial Intelligence: A Modern Approach</em>, now the leading college text in the field. He is also Director of Research at Google, Inc.</li>
-<li><strong><a title="Marc Raibert" href="https://en.wikipedia.org/wiki/Marc_Raibert">Marc Raibert</a></strong>&nbsp;&ndash; founder of Boston Dynamics, developer of hopping, walking, and running robots.</li>
-<li><strong><a title="Stuart J. Russell" href="https://en.wikipedia.org/wiki/Stuart_J._Russell">Stuart J. Russell</a></strong>&nbsp;&ndash; co-author, with Peter Norvig, of&nbsp;<em>Artificial Intelligence: A Modern Approach</em>, now the leading college text in the field.</li>
-<li><strong><a title="Murray Shanahan" href="https://en.wikipedia.org/wiki/Murray_Shanahan">Murray Shanahan</a></strong>&nbsp;&ndash; author of&nbsp;<em>The Technological Singularity</em>, a primer on superhuman intelligence.</li>
+<ul>
+<li><strong><a title="Peter Norvig" href="https://en.wikipedia.org/wiki/Peter_Norvig" rel="nofollow">Peter Norvig</a>&nbsp;</strong>&ndash; co-author, with Stuart Russell, of<a title="Artificial Intelligence: A Modern Approach" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(5).pdf">&nbsp;<em>Artificial Intelligence: A Modern Approach</em></a>, now the leading college text in the field. He is also Director of Research at Google, Inc.</li>
+<li><strong><a title="Marc Raibert" href="https://en.wikipedia.org/wiki/Marc_Raibert" rel="nofollow">Marc Raibert</a></strong>&nbsp;&ndash; founder of Boston Dynamics, developer of hopping, walking, and running robots.</li>
+<li><strong><a title="Stuart J. Russell" href="https://en.wikipedia.org/wiki/Stuart_J._Russell" rel="nofollow">Stuart J. Russell</a></strong>&nbsp;&ndash; co-author, with Peter Norvig, of&nbsp;<em>Artificial Intelligence: A Modern Approach</em>, now the leading college text in the field.</li>
+<li><strong><a title="Murray Shanahan" href="https://en.wikipedia.org/wiki/Murray_Shanahan" rel="nofollow">Murray Shanahan</a></strong>&nbsp;&ndash; author of <a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(466).pdf">The Technological Singularity</a>, a primer on superhuman intelligence.</li>
 </ul>
 
 
