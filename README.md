@@ -1279,10 +1279,10 @@
 </header>
 <div class="entry-content">
 <div class="code-block code-block-4">&nbsp;Comedian and writer Keaton Patti forced an A.I. bot to watch over 1,000 hours of Batman movies and then asked it o write a Batman movie of its own. Here is the first page:</div>
-</div>
+</div></br>
 <img class="alignnone size-full wp-image-933 jetpack-lazy-image jetpack-lazy-image--handled" src="batman.png" width="548" height="591" data-recalc-dims="1" srcset="batman.png" data-lazy-loaded="1" sizes="(max-width: 800px) 100vw, 800px">
 
-</br></br>
+</br>
 
 
 
