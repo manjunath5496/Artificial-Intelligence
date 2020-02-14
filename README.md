@@ -23,7 +23,8 @@
 <li class="toclevel-1 tocsection-15"><a href="#scholars">Artificial Intelligence Researchers and Scholars</a></li>
 <li class="toclevel-1 tocsection-16"><a href="#view"> Philosophical Views On AI</a></li>
 <li class="toclevel-1 tocsection-17"><a href="#model"> Top 10 Most Popular AI Models</a></li>
-<li class="toclevel-1 tocsection-17"><a href="#award"> Competitions and awards</a></li>
+<li class="toclevel-1 tocsection-18"><a href="#award"> Competitions and awards</a></li>
+<li class="toclevel-1 tocsection-19"><a href="#projects"> AI projects</a></li>
 </ul>
 
 
@@ -3811,6 +3812,30 @@ Content-Based Image Retrieval</a></li>
 <ul>
 <li><a title="Loebner Prize" href="https://en.wikipedia.org/wiki/Loebner_Prize">Loebner Prize</a>&nbsp;</li>
 </ul>
+</br>
+
+
+<h2><span id="projects" class="mw-headline">AI projects</span></h2>
+
+<ul>
+<li><a title="Automated Mathematician" href="https://en.wikipedia.org/wiki/Automated_Mathematician">Automated Mathematician</a>&nbsp;(1977)&nbsp;</li>
+<li><a title="Allen (robot)" href="https://en.wikipedia.org/wiki/Allen_(robot)">Allen (robot)</a>&nbsp;(late 1980s)&nbsp;</li>
+<li><a title="Open Mind Common Sense" href="https://en.wikipedia.org/wiki/Open_Mind_Common_Sense">Open Mind Common Sense</a>&nbsp;(1999)&nbsp;</li>
+<li><a title="Mindpixel" href="https://en.wikipedia.org/wiki/Mindpixel">Mindpixel</a>&nbsp;(2000)&nbsp;</li>
+<li><a title="CALO" href="https://en.wikipedia.org/wiki/CALO">Cognitive Assistant that Learns and Organizes</a>&nbsp;(2003)&nbsp;</li>
+<li><a title="Blue Brain Project" href="https://en.wikipedia.org/wiki/Blue_Brain_Project">Blue Brain Project</a>&nbsp;(2005) &ndash; attempt to create a synthetic brain by reverse-engineering the mammalian brain down to the molecular level.</li>
+<li><a class="mw-redirect" title="Google DeepMind" href="https://en.wikipedia.org/wiki/Google_DeepMind">Google DeepMind</a>&nbsp;(2011)&nbsp;</li>
+<li><a title="Human Brain Project" href="https://en.wikipedia.org/wiki/Human_Brain_Project">Human Brain Project</a>&nbsp;(2013)&nbsp;</li>
+<li><a class="mw-redirect" title="IBM Watson Group" href="https://en.wikipedia.org/wiki/IBM_Watson_Group">IBM Watson Group</a>&nbsp;(2014) &ndash; business unit created around&nbsp;<a title="Watson (computer)" href="https://en.wikipedia.org/wiki/Watson_(computer)">Watson</a>, to further its development and deploy marketable applications or services based on it.</li>
+</ul>
+
+
+
+
+
+
+
+
 
 
 
