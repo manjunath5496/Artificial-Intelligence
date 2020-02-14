@@ -1274,9 +1274,14 @@
 <p>The threat of AI-charged job loss is spreading (AI and automation will eliminate the most mundane tasks). No matter what industry you&rsquo;re in, AI-powered bots (which can answer common questions and point users to FAQs and knowledge base articles) and software are taking a crack at it. Artificial intelligence seems to be ringing the death sound of a bell for all manner of jobs, tasks, chores and activities. From hospitality, to customer service, to home assistants, no job feels safe. Naturally, this has made people worried about the future. But is Artificial intelligence ready to take over our jobs, or even likely to do so ever? <strong>Prevalent AI- charged failures</strong> would suggest not.</p>
 
 </br></br>
-
+<header class="entry-header">
+<h2 class="entry-title">A.I. Bot Writes Hilarious Batman Movie Script:</h2>
+</header>
+<div class="entry-content">
+<div class="code-block code-block-4">&nbsp;Comedian and writer Keaton Patti forced an A.I. bot to watch over 1,000 hours of Batman movies and then asked it o write a Batman movie of its own. Here is the first page:</div>
+</div>
 <img class="alignnone size-full wp-image-933 jetpack-lazy-image jetpack-lazy-image--handled" src="batman.png" width="548" height="591" data-recalc-dims="1" srcset="batman.png" data-lazy-loaded="1" sizes="(max-width: 800px) 100vw, 800px">
-<p><strong>Batman Movie Script Written By AI After Watching 1000 Hours Footage:</strong> it's insane, hilarious and downright incredible.</p>
+
 </br></br>
 
 
