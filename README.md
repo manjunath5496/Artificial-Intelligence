@@ -3644,8 +3644,10 @@ Content-Based Image Retrieval</a></li>
 <li><a title="Jack Ma, left, debates AI—and the future of humanity—with Elon Musk" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(471).pdf">Jack Ma, left, debates AI — and the future of humanity — with Elon Musk</a></li>
  <li><a title="What Artificial Intelligence Can and Can't Do Right Now" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(472).pdf">What Artificial Intelligence Can and Can't Do Right Now — Andrew Ng</a></li>
 </ul>
-
-
+</br>
+<h2 id="model"><strong>Top 10 Most Popular AI Models</strong></h2>
+<hr>
+</br>
 
 <ul>
 <li><a title="Linear regression" href="https://en.wikipedia.org/wiki/Linear_regression"><strong>Linear regression</strong></a> (<a title="Linear regression" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(482).pdf">PDF</a>)</li>
