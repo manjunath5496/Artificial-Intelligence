@@ -3396,7 +3396,247 @@ Content-Based Image Retrieval</a></li>
 
 <h2><span id="view" class="mw-headline"> Philosophical Views On AI</span></h2>
 
-
+<ul>
+<li>In 1956,&nbsp;<a title="Herbert A. Simon" href="https://en.wikiquote.org/wiki/Herbert_A._Simon">Herb Simon</a>... predicted that within ten years computers would beat the world chess champion, compose "aesthetically satisfying" original music, and prove new mathematical theorems. It took forty years, not ten, but all these goals were achieved&mdash;and within a few years of each other! The music composed by&nbsp;<a class="extiw" title="w:David Cope" href="https://en.wikipedia.org/wiki/David_Cope">David Cope's</a>&nbsp;programs cannot be distinguished... from that composed by Mozart, Beethoven, and Bach. In 1976, a computer was used in the proof of the long-unsolved "<a class="extiw" title="w:Four color theorem" href="https://en.wikipedia.org/wiki/Four_color_theorem#Proof_by_computer">four color problem</a>."
+<ul>
+<li>Michael J. Beeson, "The Mechanization of Mathematics," in&nbsp;<em>Alan Turing: Life and Legacy of a Great Thinker</em>&nbsp;(2004)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>We refer to the question: What sort of creature man's next successor in the supremacy of the earth is likely to be. We have often heard this debated; but it appears to us that we are ourselves creating our own successors; we are daily adding to the beauty and delicacy of their physical organisation we are daily giving them greater power and supplying by all sorts of ingenious contrivances that self-regulating, self-acting power, which will be to them what intellect has been to the human race. In the course of ages we shall find ourselves the inferior race. Inferior in power, inferior in that moral quality of self-control, we shall look up to them as the acme of all that the best and wisest man can ever dare to aim at. No evil passions, no jealousy, no avarice, no impure desires will disturb the serene might of those glorious creatures. Sin, shame, and sorrow will have no place among them. Their minds will be in a state of perpetual calm, the contentment of a spirit that knows no wants, is disturbed by no regrets. Ambition will never torture them. Ingratitude will never cause them the uneasiness of a moment. The guilty conscience, the hope deferred, the pains of exile, the insolence of office, and the spurns that patient merit of the unworthy takes&mdash;these will be entirely unknown to them.
+<ul>
+<li><a title="Samuel Butler (novelist)" href="https://en.wikiquote.org/wiki/Samuel_Butler_(novelist)">Samuel Butler</a>, "<a class="external text" href="https://en.wikipedia.org/wiki/Darwin_among_the_Machines" rel="nofollow">Darwin among the Machines</a>"&nbsp;<em><a class="extiw" title="w:The Press" href="https://en.wikipedia.org/wiki/The_Press">The Press</a></em>, (June 13, 1863)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>"There is no security"&mdash;to quote his own words&mdash;"against the ultimate development of mechanical consciousness, in the fact of machines possessing little consciousness now. A mollusc has not much consciousness. Reflect upon the extraordinary advance which machines have made during the last few hundred years, and note how slowly the animal and vegetable kingdoms are advancing. The more highly organized machines are creatures not so much of yesterday, as of the last five minutes, so to speak, in comparison with past time.
+<ul>
+<li><a title="Samuel Butler (novelist)" href="https://en.wikiquote.org/wiki/Samuel_Butler_(novelist)">Samuel Butler</a>,&nbsp;<em><a class="external text" href="https://en.wikipedia.org/wiki/Erewhon" rel="nofollow">Erewhon: Or, Over the Range</a></em>&nbsp;(1872)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>&ldquo;<em>Either</em>,&rdquo; he proceeds, &ldquo;a great deal of action that has been called purely mechanical and unconscious must be admitted to contain more elements of consciousness than has been allowed hitherto (and in this case germs of consciousness will be found in many actions of the higher machines)&mdash;<em>Or</em>&nbsp;(assuming the theory of evolution but at the same time denying the consciousness of vegetable and crystalline action) the race of man has descended from things which had no consciousness at all. In this case there is no&nbsp;<em>&agrave; priori</em>&nbsp;improbability in the descent of conscious (and more than conscious) machines from those which now exist, except that which is suggested by the apparent absence of anything like a reproductive system in the mechanical kingdom.
+<ul>
+<li>Samuel Butler,&nbsp;<em>Erewhon: Or, Over the Range</em>&nbsp;(1872)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>&ldquo;Herein lies our danger. For many seem inclined to acquiesce in so dishonourable a future. They say that although man should become to the machines what the horse and dog are to us, yet that he will continue to exist, and will probably be better off in a state of domestication under the beneficent rule of the machines than in his present wild condition. We treat our domestic animals with much kindness. We give them whatever we believe to be the best for them; and there can be no doubt that our use of meat has increased their happiness rather than detracted from it. In like manner there is reason to hope that the machines will use us kindly, for their existence will be in a great measure dependent upon ours; they will rule us with a rod of iron, but they will not eat us; they will not only require our services in the reproduction and education of their young, but also in waiting upon them as servants; in gathering food for them, and feeding them; in restoring them to health when they are sick; and in either burying their dead or working up their deceased members into new forms of mechanical existence.
+<ul>
+<li>Samuel Butler,&nbsp;<em>Erewhon: Or, Over the Range</em>&nbsp;(1872)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>The power of custom is enormous, and so gradual will be the change, that man's sense of what is due to himself will be at no time rudely shocked; our bondage will steal upon us noiselessly and by imperceptible approaches; nor will there ever be such a clashing of desires between man and the machines as will lead to an encounter between them. Among themselves the machines will war eternally, but they will still require man as the being through whose agency the struggle will be principally conducted. In point of fact there is no occasion for anxiety about the future happiness of man so long as he continues to be in any way profitable to the machines; he may become the inferior race, but he will be infinitely better off than he is now. Is it not then both absurd and unreasonable to be envious of our benefactors? And should we not be guilty of consummate folly if we were to reject advantages which we cannot obtain otherwise, merely because they involve a greater gain to others than to ourselves?<br />&ldquo;With those who can argue in this way I have nothing in common. I shrink with as much horror from believing that my race can ever be superseded or surpassed, as I should do from believing that even at the remotest period my ancestors were other than human beings. Could I believe that ten hundred thousand years ago a single one of my ancestors was another kind of being to myself, I should lose all self-respect, and take no further pleasure or interest in life. I have the same feeling with regard to my descendants, and believe it to be one that will be felt so generally that the country will resolve upon putting an immediate stop to all further mechanical progress, and upon destroying all improvements that have been made for the last three hundred years. I would not urge more than this. We may trust ourselves to deal with those that remain, and though I should prefer to have seen the destruction include another two hundred years, I am aware of the necessity for compromising, and would so far sacrifice my own individual convictions as to be content with three hundred. Less than this will be insufficient.&rdquo;
+<ul>
+<li><a title="Samuel Butler (novelist)" href="https://en.wikiquote.org/wiki/Samuel_Butler_(novelist)">Samuel Butler</a>,&nbsp;<em><a class="external text" href="https://en.wikipedia.org/wiki/Erewhon" rel="nofollow">Erewhon: Or, Over the Range</a></em>&nbsp;(1872)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong>T-101</strong>: The Skynet funding bill is passed. The system goes on-line August 4th, 1997. Human decisions are removed from strategic defense. Skynet begins to learn, at a geometric rate. It becomes self-aware at 2:14 a.m. eastern time, August 29. In a panic, they try to pull the plug.
+<ul>
+<li><a class="mw-disambig" title="James Cameron" href="https://en.wikiquote.org/wiki/James_Cameron">James Cameron</a>, William Wisher&nbsp;<a class="mw-redirect" title="Terminator 2: Judgement Day" href="https://en.wikiquote.org/wiki/Terminator_2:_Judgement_Day">Terminator 2: Judgement Day</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>The ability to interact with a computer presence like you would a human assistant is becoming increasingly feasible.
+<ul>
+<li><a title="Vint Cerf" href="https://en.wikiquote.org/wiki/Vint_Cerf">Vint Cerf</a>, a "father of the internet," in "Your Life: Vinton Cerf" interview by David Frank in&nbsp;<em>AARP Bulletin</em>&nbsp;(December 2016, Vol. 57, No. 10, p. 30.)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>It may be that our role on this planet is not to worship God but to create him.
+<ul>
+<li><a title="Arthur C. Clarke" href="https://en.wikiquote.org/wiki/Arthur_C._Clarke">Arthur C. Clarke</a>&nbsp;<a class="external text" href="http://www.clarkefoundation.org/sample-page/sir-arthurs-quotations/" rel="nofollow">clarkefoundation.org</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>The question of whether a computer is playing chess, or doing long division, or translating Chinese, is like the question of whether robots can murder or airplanes can fly -- or people; after all, the "flight" of the Olympic long jump champion is only an order of magnitude short of that of the chicken champion (so I'm told). These are questions of decision, not fact; decision as to whether to adopt a certain metaphoric extension of common usage.
+<ul>
+<li><a title="Noam Chomsky" href="https://en.wikiquote.org/wiki/Noam_Chomsky">Noam Chomsky</a>&nbsp;(1996)&nbsp;<em>Powers and Prospects</em></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>I have grown accustomed to the disrespect expressed by some of the participants for their colleagues in the other disciplines. "Why, Dan," ask the people in artificial intelligence, "do you waste your time conferring with those&nbsp;<a class="mw-redirect" title="Neuroscientist" href="https://en.wikiquote.org/wiki/Neuroscientist">neuroscientists</a>? They wave their hands about 'information processing' and worry about&nbsp;<em>where</em>&nbsp;it happens, and which neurotransmitters are involved, but they haven't a clue about the computational requirements of higher cognitive functions." "Why," ask the neuroscientists, "do you waste your time on the fantasies of artificial intelligence? They just invent whatever machinery they want, and say unpardonably ignorant things about the brain." The cognitive psychologists, meanwhile, are accused of concocting models with&nbsp;<em>neither</em>&nbsp;biological plausibility&nbsp;<em>nor</em>&nbsp;proven computational powers; the anthropologists wouldn't know a model if they saw one, and the philosophers, as we all know, just take in each other's laundry, warning about confusions they themselves have created, in an arena bereft of both data and empirically testable theories.&nbsp;<strong>With so many idiots working on the problem, no wonder consciousness is still a mystery.</strong>&nbsp;All these charges are true, and more besides, but I have yet to encounter any idiots. Mostly the theorists I have drawn from strike me as very smart people &ndash; even brilliant people, with the arrogance and impatience that often comes with brilliance &ndash; but with limited perspectives and agendas, trying to make progress on the hard problems by taking whatever shortcuts they can see, while deploring other people's shortcuts. No one can keep all the problems and details clear, including me, and everyone has to mumble, guess and handwave about large parts of the problem.
+<ul>
+<li><a title="Daniel Dennett" href="https://en.wikiquote.org/wiki/Daniel_Dennett">Daniel Dennett</a>&nbsp;(1991)&nbsp;<em><a class="extiw" title="w:Consciousness Explained" href="https://en.wikipedia.org/wiki/Consciousness_Explained">Consciousness Explained</a></em></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>What often happens is that an engineer has an idea of how the brain works (in his opinion) and then designs a machine that behaves that way. This new machine may in fact work very well. But, I must warn you that that does not tell us anything about how the brain actually works, nor is it necessary to ever really know that, in order to make a computer very capable. It is not necessary to understand the way birds flap their wings and how the feathers are designed in order to make a flying machine. It is not necessary to understand the lever system in the legs of a cheetah...in order to make an automobile with wheels that go very fast.&nbsp;<strong>It is</strong>&nbsp;therefore&nbsp;<strong>not necessary to imitate the behavior of Nature in detail in order to engineer a device which can in many respects surpass Nature's abilities.</strong>
+<ul>
+<li><a title="Richard Feynman" href="https://en.wikiquote.org/wiki/Richard_Feynman">Richard Feynman</a>, "Computing Machines in the Future,"&nbsp;<em><a class="extiw" title="w:The Pleasure of Finding Things Out" href="https://en.wikipedia.org/wiki/The_Pleasure_of_Finding_Things_Out">The Pleasure of Finding Things Out</a></em>&nbsp;(1999)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Autonomy, that&rsquo;s the bugaboo, where your AI&rsquo;s are concerned. My guess, Case, you&rsquo;re going in there to cut the hard-wired shackles that keep this baby from getting any smarter. And I can&rsquo;t see how you&rsquo;d distinguish, say, between a move the parent company makes, and some move the AI makes on its own, so that&rsquo;s maybe where the confusion comes in.&rdquo; Again the nonlaugh. &ldquo;See, those things, they can work real hard, buy themselves time to write cookbooks or whatever, but the minute, I mean the nanosecond, that one starts figuring out ways to make itself smarter, Turing&rsquo;ll wipe it. Nobody trusts those fuckers, you know that. Every AI ever built has an electromagnetic shotgun wired to its forehead.
+<ul>
+<li><a title="William Gibson" href="https://en.wikiquote.org/wiki/William_Gibson">William Gibson</a>&nbsp;<em><a class="mw-redirect" title="Neuromancer" href="https://en.wikiquote.org/wiki/Neuromancer">Neuromancer</a></em>&nbsp;p.126</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Recent researchers in artificial intelligence and computational methods use the term swarm intelligence to name collective and distributed techniques of problem solving without centralized control or provision of a global model. &hellip; the intelligence of the swarm is based fundamentally on communication. &hellip; the member of the multitude do not have to become the same or renounce their creativity in order to communicate and cooperate with each other. They remain different in terms of race, sex, sexuality and so forth. We need to understand, then, is the collective intelligence that can emerge from the communication and cooperation of such varied multiplicity.
+<ul>
+<li><a class="mw-redirect" title="Michael Hardt" href="https://en.wikiquote.org/wiki/Michael_Hardt">Michael Hardt</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Antonio Negri" href="https://en.wikiquote.org/wiki/Antonio_Negri">Antonio Negri</a>&nbsp;(2004),&nbsp;<em>Multitude</em>, pp. 91-92</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>The development of full artificial intelligence could spell the end of the human race. We cannot quite know what will happen if a machine exceeds our own intelligence, so we can't know if we'll be infinitely helped by it, or ignored by it and sidelined, or conceivably destroyed by it.
+<ul>
+<li><a title="Stephen Hawking" href="https://en.wikiquote.org/wiki/Stephen_Hawking">Stephen Hawking</a>&nbsp;<a class="external text" title="Stephen Hawking warns artificial intelligence could end mankind" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(467).pdf" rel="nofollow"><em>BBC</em>, Dec 2 2014</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>A computer program written by researchers at Argonne National Laboratory in Illinois has come up with a major mathematical proof that would have been called creative if a human had thought of it. In doing so, the computer has, for the first time, got a toehold into&nbsp;<a title="Pure mathematics" href="https://en.wikiquote.org/wiki/Pure_mathematics">pure mathematics</a>, a field described by its practitioners as more of an art form than a science. ...<a class="extiw" title="w:William McCune" href="https://en.wikipedia.org/wiki/William_McCune">Dr. McCune's</a>&nbsp;proof concerns a conjecture that is the very epitome of pure mathematics. ...His computer program proved that&nbsp;<a class="extiw" title="w:Robbins algebra" href="https://en.wikipedia.org/wiki/Robbins_algebra">a set of three equations</a>&nbsp;is equivalent to a&nbsp;<a class="extiw" title="w:Boolean algebra" href="https://en.wikipedia.org/wiki/Boolean_algebra">Boolean algebra</a>...
+<ul>
+<li><a class="extiw" title="wikipedia:Gina Kolata" href="https://en.wikipedia.org/wiki/Gina_Kolata">Gina Kolata</a>,&nbsp;<a class="external text" href="https://www.nytimes.com/1996/12/10/science/with-major-math-proof-brute-computers-show-flash-of-reasoning-power.html" rel="nofollow">"With Major Math Proof, Brute Computers Show Flash of Reasoning Power,"</a>&nbsp;<em>The New York Times</em>&nbsp;(Dec 10, 1996)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>My timeline is computers will be at human levels, such as you can have a human relationship with them, 15 years from now.</li>
+</ul>
+<dl>
+<dd>When I say about human levels, I'm talking about emotional intelligence. The ability to tell a joke, to be funny, to be romantic, to be loving, to be sexy, that is the cutting edge of human intelligence, that is not a sideshow.
+<ul>
+<li><a title="Ray Kurzweil" href="https://en.wikiquote.org/wiki/Ray_Kurzweil">Ray Kurzweil</a>,&nbsp;<a class="external text" href="http://www.cnbc.com/2014/06/11/computers-will-be-like-humans-by-2029-googles-ray-kurzweil.html" rel="nofollow"><em>Computers Will Be Like Humans By 2029 Google Ray Kurzweil</em>, CNBC, (2015/06/11)</a></li>
+</ul>
+</dd>
+</dl>
+<ul>
+<li>As more and more&nbsp;<a class="mw-selflink selflink">artificial intelligence</a>&nbsp;is entering into the world, more and more emotional intelligence must enter into&nbsp;<a title="Leadership" href="https://en.wikiquote.org/wiki/Leadership">leadership</a>.
+<ul>
+<li><a title="Amit Ray" href="https://en.wikiquote.org/wiki/Amit_Ray">Amit Ray</a>,&nbsp;<a class="external text" href="https://books.google.com/books/about/Compassionate_Artificial_Intelligence.html?id=wZt7DwAAQBAJ&amp;redir_esc=y" rel="nofollow"><em>Compassionate Artificial Intelligence: Frameworks and Algorithms</em>&nbsp;(2018)</a>.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Any aeai&nbsp;<em>[A.I., artificial intelligence]</em>&nbsp;smart enough to pass a&nbsp;<a class="extiw" title="w:Turing test" href="https://en.wikipedia.org/wiki/Turing_test">Turing test</a>&nbsp;is smart enough to know to fail it.
+<ul>
+<li><a title="Ian McDonald" href="https://en.wikiquote.org/wiki/Ian_McDonald">Ian McDonald</a>&nbsp;(2006)&nbsp;<em>River of Gods</em>. p. 42</li>
+</ul>
+</li>
+</ul>
+<div class="thumb tright">&nbsp;</div>
+<ul>
+<li>Artificial intelligence is the science of making machines do things that would require intelligence if done by men
+<ul>
+<li><a title="Marvin Minsky" href="https://en.wikiquote.org/wiki/Marvin_Minsky">Marvin Minsky</a>&nbsp;(1968) quoted by: Blay Whitby (1996)&nbsp;<em>Reflections on Artificial Intelligence</em>. p. 20</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>A century ago, we had essentially no way to start to explain how thinking works. Then psychologists like&nbsp;<a title="Sigmund Freud" href="https://en.wikiquote.org/wiki/Sigmund_Freud">Sigmund Freud</a>&nbsp;and&nbsp;<a title="Jean Piaget" href="https://en.wikiquote.org/wiki/Jean_Piaget">Jean Piaget</a>&nbsp;produced their theories about child development. Somewhat later, on the mechanical side, mathematicians like&nbsp;<a title="Kurt G&ouml;del" href="https://en.wikiquote.org/wiki/Kurt_G%C3%B6del">Kurt G&ouml;del</a>&nbsp;and&nbsp;<a title="Alan Turing" href="https://en.wikiquote.org/wiki/Alan_Turing">Alan Turing</a>&nbsp;began to reveal the hitherto unknown range of what machines could be made to do. These two streams of thought began to merge only in the 1940s, when&nbsp;<a class="mw-redirect" title="Warren McCulloch" href="https://en.wikiquote.org/wiki/Warren_McCulloch">Warren McCulloch</a>&nbsp;and&nbsp;<a class="extiw" title="w:Walter Pitts" href="https://en.wikipedia.org/wiki/Walter_Pitts">Walter Pitts</a>&nbsp;began to show how machines might be made to see, reason, and remember. Research in the modern science of Artificial Intelligence started only in the 1950's, stimulated by the invention of modern computers. This inspired a flood of new ideas about how machines could do what only minds had done previously.
+<ul>
+<li><a title="Marvin Minsky" href="https://en.wikiquote.org/wiki/Marvin_Minsky">Marvin Minsky</a>,&nbsp;<em>The Society of Mind</em>&nbsp;(1988)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>The pace of progress in artificial intelligence (I'm not referring to narrow AI) is incredibly fast," wrote Musk in a private email .</li>
+<li>Unless you have direct exposure to groups like Deepmind, you have no idea how fast &mdash; it is growing at a pace close to exponential.
+<ul>
+<li><a class="extiw" title="w:Elon Musk" href="https://en.wikipedia.org/wiki/Elon_Musk">Elon Musk</a>&nbsp;<a class="external text" href="http://www.mirror.co.uk/news/technology-science/technology/everybody-working-artificial-intelligence-knows-6759244" rel="nofollow">Everbody Working Artificial Intelligence Knows Terminator Scenario</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Everybody in AI is very familiar with this idea - they call it the&nbsp;<a class="extiw" title="w:Terminator" href="https://en.wikipedia.org/wiki/Terminator">Terminator</a>&nbsp;scenario.
+<ul>
+<li>Dr. Ian Pearson&nbsp;<a class="external free" href="http://www.mirror.co.uk/news/technology-science/technology/everybody-working-artificial-intelligence-knows-6759244" rel="nofollow">http://www.mirror.co.uk/news/technology-science/technology/everybody-working-artificial-intelligence-knows-6759244</a>&nbsp;Everbody Working Artificial Intelligence Knows Terminator Scenario]</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>A year spent in artificial intelligence is enough to make one believe in God.
+<ul>
+<li><a title="Alan Perlis" href="https://en.wikiquote.org/wiki/Alan_Perlis">Alan Perlis</a>&nbsp;(1982)&nbsp;<em>Epigrams on Programming</em>. nr.79</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Can those who believe the computer is "an embodiment of mind" really not tell the difference between so poorly a caricature and the true original?
+<ul>
+<li><a title="Theodore Roszak (scholar)" href="https://en.wikiquote.org/wiki/Theodore_Roszak_(scholar)">Theodore Roszak</a>,&nbsp;<em>The Gendered Atom</em>&nbsp;(1999)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>There is probably no more abused a term in the&nbsp;<a title="History of philosophy" href="https://en.wikiquote.org/wiki/History_of_philosophy">history of philosophy</a>&nbsp;than &ldquo;representation,&rdquo; and my use of this term differs both from its use in traditional philosophy and from its use in contemporary&nbsp;<a title="Cognitive psychology" href="https://en.wikiquote.org/wiki/Cognitive_psychology">cognitive psychology</a>&nbsp;and artificial intelligence.... The sense of &ldquo;representation&rdquo; in question is meant to be entirely exhausted by the analogy with speech acts: the sense of &ldquo;represent&rdquo; in which a belief represents its conditions of satisfaction is the same sense in which a statement represents its conditions of satisfaction. To say that a belief is a representation is simply to say that it has a propositional content and a psychological mode.
+<ul>
+<li><a title="John Searle" href="https://en.wikiquote.org/wiki/John_Searle">John Searle</a>&nbsp;(1983)&nbsp;<em>Intentionality: An Essay in the Philosophy of Mind</em>. p. 12</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>We define a semantic network as "the collection of all the relationships that concepts have to other concepts, to percepts, to procedures, and to motor mechanisms" of the knowledge".
+<ul>
+<li><a title="John F. Sowa" href="https://en.wikiquote.org/wiki/John_F._Sowa">John F. Sowa</a>&nbsp;(1984)&nbsp;<em>Conceptual Structures</em>. p. 76</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>In joint scientific efforts extending over twenty years, initially in collaboration with&nbsp;<a class="extiw" title="w:Cliff Shaw" href="https://en.wikipedia.org/wiki/Cliff_Shaw">J. C. Shaw</a>&nbsp;at the RAND Corporation, and subsequently with numerous faculty and student colleagues at Carnegie-Mellon University, they have made basic contributions to artificial intelligence, the psychology of human cognition, and list processing.
+<ul>
+<li>1975&nbsp;<a class="extiw" title="w:Turing Award" href="https://en.wikipedia.org/wiki/Turing_Award">Turing Award</a>&nbsp;Citation awarded jointly to&nbsp;<a title="Allen Newell" href="https://en.wikiquote.org/wiki/Allen_Newell">Allen Newell</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Herbert Simon" href="https://en.wikiquote.org/wiki/Herbert_Simon">Herbert Simon</a>.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+<ul>
+<li><a title="Alan Turing" href="https://en.wikiquote.org/wiki/Alan_Turing">Alan Turing</a>&nbsp;<em>Computing Machinery and Intelligence</em>&nbsp;(1950)&nbsp;</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>My son was one of a kind. You are the first of a kind. David?
+<ul>
+<li>Hobby,&nbsp;<a title="A.I. Artificial Intelligence" href="https://en.wikiquote.org/wiki/A.I._Artificial_Intelligence">A.I. Artificial Intelligence</a>&nbsp;by Ian Watson and Brian Aldiss.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+<ul>
+<li><a title="Terry Winograd" href="https://en.wikiquote.org/wiki/Terry_Winograd">Terry Winograd</a>&nbsp;(1991)&nbsp;<a class="external text" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(468).pdf" rel="nofollow">"Thinking Machines: Can there be? Are we?"</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else.
+<ul>
+<li><a title="Eliezer Yudkowsky" href="https://en.wikiquote.org/wiki/Eliezer_Yudkowsky">Eliezer Yudkowsky</a>&nbsp;(2006) in&nbsp;<em><a class="external text" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(469).pdf" rel="nofollow">Artificial Intelligence as a Positive and Negative Factor in Global Risk</a></em>, August 2006</li>
+</ul>
+</li>
+<li>When AI takes on a human shape, that&rsquo;s where we see biases. We should not forget that this technology can take on any form we choose for it, and I&rsquo;d personally prefer that its incarnations not take place on the surface of the female body.
+<ul>
+<li>Emily L. Spratt, "<a class="external text" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(470).pdf" rel="nofollow">Considering gender in the age of AICAN, the unhuman artist,</a>"&nbsp;Topical Cream (March 21, 2019)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>When you&rsquo;re fundraising, it&rsquo;s AI / When you&rsquo;re hiring, it&rsquo;s ML / When you&rsquo;re implementing, it&rsquo;s linear regression / When you&rsquo;re debugging, it&rsquo;s printf()
+<dl>
+<dd><a class="extiw" title="wikipedia:Baron Schwartz" href="https://en.wikipedia.org/wiki/Baron_Sc%E2%80%8Bhwartz">Baron Schwartz</a>,&nbsp;<em>Twitter</em>,&nbsp;<a class="external text" href="https://twitter.com/xaprb/status/930674776317849600" rel="nofollow">12:52 AM - 15 Nov 2017</a>&nbsp;</dd>
+</dl>
+</li>
+</ul>
 
 
 
