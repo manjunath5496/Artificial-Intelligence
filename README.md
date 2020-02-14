@@ -1373,7 +1373,7 @@
 <li><a title="Automatic image annotation" href="https://en.wikipedia.org/wiki/Automatic_image_annotation">Automatic image annotation</a>&nbsp;</li>
 </ul>
 </li>
-<li><a class="new" title="Named-entity extraction (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Named-entity_extraction&amp;action=edit&amp;redlink=1">Named-entity extraction</a>&nbsp;
+ <li><b>Named-entity extraction</b> : feature automatically aims to extract phrases from plain text that correpond to entities.</li>
 <ul>
 <li><a class="mw-redirect" title="Coreference resolution" href="https://en.wikipedia.org/wiki/Coreference_resolution">Coreference resolution</a>&nbsp;</li>
 <li><a title="Named-entity recognition" href="https://en.wikipedia.org/wiki/Named-entity_recognition">Named-entity recognition</a>&nbsp;</li>
