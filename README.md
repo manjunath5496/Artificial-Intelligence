@@ -3647,5 +3647,16 @@ Content-Based Image Retrieval</a></li>
 
 
 
-
+<ul>
+<li><a title="Linear regression" href="https://en.wikipedia.org/wiki/Linear_regression"><strong>Linear regression</strong></a> (<a title="Linear regression" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(482).pdf">PDF</a>)</li>
+<li><a title="Logistic regression" href="https://en.wikipedia.org/wiki/Logistic_regression">Logistic regression</a>&nbsp;(<a title="Logistic regression" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(476).pdf">PDF</a>)</li>
+<li><a title="Linear discriminant analysis" href="https://en.wikipedia.org/wiki/Linear_discriminant_analysis">Linear discriminant analysis</a>&nbsp;(<a title="Linear discriminant analysis" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(473).pdf">PDF</a>)</li>
+<li><a title="Decision trees" href="https://en.wikipedia.org/wiki/Decision_tree"><strong>Decision trees</strong></a> (<a title=" Decision trees" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(479).pdf">PDF</a>)</li>
+<li><a title="Naive Bayes" href="https://en.wikipedia.org/wiki/Naive_Bayes_classifier">Naive Bayes</a>&nbsp;(<a title=" Naive Bayes" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(474).pdf">PDF</a>)</li>
+<li><a title="K-Nearest Neighbors" href="https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm">K-Nearest Neighbors</a>&nbsp;(<a title="K-Nearest Neighbors" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(480).pdf">PDF</a>)</li>
+<li><a title="Learning vector quantization" href="https://en.wikipedia.org/wiki/Learning_vector_quantization">Learning vector quantization</a>&nbsp;(<a title="Learning vector quantization" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(481).pdf">PDF</a>)</li>
+<li><a title="Support vector machines" href="https://en.wikipedia.org/wiki/Support-vector_machine">Support vector machines</a> (<a title="Support vector machines" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(477).pdf">PDF</a>)</li>
+<li>Bagging and <a title="random forest" href="https://en.wikipedia.org/wiki/Random_forest">random forest</a> (<a title="Bagging and random forest" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(475).pdf">PDF</a>)</li>
+<li><a title="Deep neural networks" href="https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks">Deep neural networks</a>&nbsp;(<a title="Deep neural networks" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(478).pdf">PDF</a>)</li>
+</ul>
 
