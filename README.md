@@ -21,6 +21,7 @@
 <li class="toclevel-1 tocsection-11"><a href="#fiction">Artificial Intelligence in Science Fiction</a></li>
 <li class="toclevel-1 tocsection-14"><a href="#publications">List of Important Publications in AI</a></li>
 <li class="toclevel-1 tocsection-15"><a href="#scholars">Artificial Intelligence Researchers and Scholars</a></li>
+<li class="toclevel-1 tocsection-16"><a href="#view"> Philosophical Views On AI</a></li>
 </ul>
 
 
@@ -3391,8 +3392,9 @@ Content-Based Image Retrieval</a></li>
 <li><strong><a title="Murray Shanahan" href="https://en.wikipedia.org/wiki/Murray_Shanahan" rel="nofollow">Murray Shanahan</a></strong>&nbsp;&ndash; author of <a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(466).pdf">The Technological Singularity</a>, a primer on superhuman intelligence.</li>
 </ul>
 
+</br>
 
-
+<h2><span id="view" class="mw-headline"> Philosophical Views On AI</span></h2>
 
 
 
