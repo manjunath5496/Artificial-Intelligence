@@ -3645,8 +3645,7 @@ Content-Based Image Retrieval</a></li>
  <li><a title="What Artificial Intelligence Can and Can't Do Right Now" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(472).pdf">What Artificial Intelligence Can and Can't Do Right Now — Andrew Ng</a></li>
 </ul>
 </br>
-<h2 id="model"><strong>Top 10 Most Popular AI Models</strong></h2>
-<hr>
+<h2 id="model"><strong>Top 10 Most Popular AI Models (<a title="Top 10 Most Popular AI Models" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(483).pdf">PDF</a>)</strong></h2>
 </br>
 
 <ul>
