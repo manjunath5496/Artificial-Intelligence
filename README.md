@@ -3236,9 +3236,154 @@ Content-Based Image Retrieval</a></li>
 <li><a href="https://github.com/manjunath5496/Data-Science-Study-Materials/blob/master/ngl(17).pdf">Understanding Andrew Ng's Machine Learning Course &ndash; Notes and codes</a></li>
 </ul>
 </br>
- 
- 
- 
+
+<p><strong>Publications:</strong></p>
+
+
+<ul>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(1).pdf">Robust textual inference via learning and abductive reasoning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(2).pdf">Efficient L<sub>1</sub>&nbsp;Regularized Logistic Regression</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(3).pdf">A Fast Data Collection and Augmentation Procedure for Object Recognition</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(4).pdf">Learning Grasp Strategies with Partial Shape Information</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(5).pdf">Make3D: Depth Perception from a Single Still Image</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(6).pdf">Applying Online Search Techniques to Continuous-State Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(7).pdf">Semantic Taxonomy Induction from Heterogenous Evidence</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(8).pdf">Learning Word Vectors for Sentiment Analysis</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(9).pdf">Apprenticeship Learning for Helicopter Control</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(10).pdf">An Analysis of Single-Layer Networks in Unsupervised Feature Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(11).pdf">Spam Deobfuscation using a Hidden Markov Model</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(12).pdf">groupTime: Preference-Based Group Scheduling</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(13).pdf">An Experimental and Theoretical Comparison of Model Selection Methods</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(14).pdf">Preventing "Overfitting" of Cross-Validation data</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(15).pdf">Discriminative Learning of Markov Random Fields for Segmentation of 3D Scan Data</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(16).pdf">A dynamic Bayesian network model for autonomous 3d reconstruction from a single indoor image</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(17).pdf">A Steiner tree approach to efficient object detection</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(18).pdf">Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(19).pdf">Integrating Visual and Range Data for Robotic Object Detection</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(20).pdf">Robust textual inference via graph matching</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(21).pdf">Solving the Problem of Cascading Errors: Approximate Bayesian Inference for Linguistic Annotation Pipelines</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(22).pdf">Learning to Merge Word Senses</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(23).pdf">Cheap and Fast&mdash;But is it Good? Evaluating Non-Expert Annotations for Natural Language Tasks</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(24).pdf">Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(25).pdf">Semantic Compositionality through Recursive Matrix-Vector Spaces</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(26).pdf">Autonomous Helicopter Tracking and Localization Using a Self-Surveying Camera Array</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(27).pdf">Learning 3-D Scene Structure from a Single Still Image</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(28).pdf">3-D Reconstruction from Sparse Views using Monocular Vision</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(29).pdf">Text Detection and Character Recognition in Scene Images with Unsupervised Feature Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(30).pdf">Algorithms for inverse reinforcement learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(31).pdf">Convergence rates of the Voting Gibbs classifier, with application to Bayesian feature selection</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(32).pdf">Apprenticeship Learning via Inverse Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(33).pdf">Feature selection, L<sub>1</sub>&nbsp;vs. L<sub>2</sub>&nbsp;regularization, and rotational invariance</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(34).pdf">Learning Random Walk Models for Inducing Word Dependency Distributions</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(35).pdf">Online and Batch Learning of Pseudo-Metrics</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(36).pdf">Exploration and Apprenticeship Learning in Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(37).pdf">High Speed Obstacle Avoidance using Monocular Vision and Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(38).pdf">Constructing Informative Priors using Transfer Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(39).pdf">Using Inaccurate Models in Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(40).pdf">Using Inaccurate Models in Reinforcement Learning (Extended Version)</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(41).pdf">Learning for Control from Multiple Demonstrations</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(42).pdf">Space-indexed Dynamic Programming: Learning to Follow Trajectories</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(43).pdf">Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(44).pdf">Large-scale Deep Unsupervised Learning using Graphics Processors</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(45).pdf">A majorization-minimization algorithm for (multiple) hyperparameter learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(46).pdf">Near-Bayesian Exploration in Polynomial Time</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(47).pdf">Regularization and Feature Selection in Least-Squares Temporal Difference Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(48).pdf">Parsing Natural Scenes and Natural Language with Recursive Neural Networks</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(49).pdf">Building High-level Features Using Large Scale Unsupervised Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(50).pdf">On Feature Selection: Learning with Exponentially many Irrelevant Features as Training Examples</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(51).pdf">Improving Text Classification by Shrinkage in a Hierarchy of Classes</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(52).pdf">End-to-End Text Recognition with Convolutional Neural Networks</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(53).pdf">Quadruped Robot Obstacle Negotiation via Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(54).pdf">A Control Architecture for Quadruped Locomotion Over Rough Terrain</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(55).pdf">High-Accuracy 3D Sensing for Mobile Manipulation: Improving Object Detection and Door Opening</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(56).pdf">Learning 3-D Object Orientation from Images</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(57).pdf">Learning Sound Location from a Single Microphone</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(58).pdf">Reactive Grasping Using Optical Proximity Sensors</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(59).pdf">Stereo Vision and Terrain Modeling for Quadruped Robots</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(60).pdf">Task-Space Trajectories via Cubic Spline Optimization</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(61).pdf">A Probabilistic Approach to Mixed Open-loop and Closed-loop Control, with Application to Extreme Autonomous Driving</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(62).pdf">Learning to grasp objects with multiple contact points</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(63).pdf">Multi-Camera Object Detection for Robotics</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(64).pdf">Autonomous Operation of Novel Elevators for Robot Navigation</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(65).pdf">Autonomous Sign Reading for Semantic Mapping</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(66).pdf">Grasping with Application to an Autonomous Checkout Robot</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(67).pdf">A Low-cost Compliant 7-DOF Robotic Manipulator</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(68).pdf">ROS: an open-source Robot Operating System</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(69).pdf">Link Analysis, Eigenvectors and Stability</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(70).pdf">Depth Estimation using Monocular and Stereo Cues</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(71).pdf">Exponential Family Sparse Coding with Applications to Self-taught Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(72).pdf">A sparse sampling algorithm for near-optimal planning in large Markov decision processes</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(73).pdf">3-D Depth Reconstruction from a Single Still Image</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(74).pdf">Robotic Grasping of Novel Objects using Vision</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(75).pdf">Autonomous Helicopter Aerobatics through Apprenticeship Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(76).pdf">Apprenticeship Learning for Motion Planning with Application to Parking Lot Navigation</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(77).pdf">Joint calibration of multiple sensors</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(78).pdf">Scalable Learning for Object Detection with GPU Hardware</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(79).pdf">Grasping Novel Objects with Depth Segmentation</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(80).pdf">Low-cost Accelerometers for Robotic Manipulator Perception</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(81).pdf">Have we met? MDP Based Speaker ID for Robot Dialogue</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(82).pdf">Autonomous inverted helicopter flight via reinforcement learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(83).pdf">Learning to Grasp Novel Objects using Vision</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(84).pdf">Autonomous Autorotation of an RC Helicopter</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(85).pdf">Automatic Single-Image 3d Reconstructions of Indoor Manhattan World Scenes</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(86).pdf">A Vision-based System for Grasping Novel Objects in Cluttered Environments</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(87).pdf">Latent Dirichlet Allocation (Extended Version)</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(88).pdf">Learning Factor Graphs in Polynomial Time and Sample Complexity</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(89).pdf">An Experimental and Theoretical Comparison of Model Selection Methods</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(90).pdf">On Discriminative vs. Generative Classifiers: A comparison of logistic regression and Naive Bayes</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(91).pdf">Latent Dirichlet Allocation</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(92).pdf">On Spectral Clustering: Analysis and an algorithm</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(93).pdf">Distance metric learning, with application to clustering with side-information</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(94).pdf">Policy search by dynamic programming</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(95).pdf">Classification with Hybrid Generative/Discriminative Models</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(96).pdf">Learning first-order Markov models for control</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(97).pdf">Learning syntactic patterns for automatic hypernym discovery</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(98).pdf">Online Bounds for Bayesian Algorithms</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(99).pdf">Stable adaptive control with online learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(100).pdf">Fast Gaussian Process Regression using KD-Trees</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(101).pdf">Learning vehicular dynamics, with application to modeling helicopters</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(102).pdf">On Local Rewards and Scaling Distributed Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(103).pdf">Learning Depth from Single Monocular Images</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(104).pdf">Transfer learning for text classification</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(105).pdf">Hierarchical Apprenticeship Learning, with Application to Quadruped Locomotion</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(106).pdf">Efficient multiple hyperparameter learning for log-linear models</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(107).pdf">Sparse deep belief net model for visual area V2</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(108).pdf">Unsupervised feature learning for audio classification using convolutional deep belief networks</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(109).pdf">Measuring Invariances in Deep Networks</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(110).pdf">Energy Disaggregation via Discriminative Sparse Coding</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(111).pdf">Tiled convolutional neural networks</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(112).pdf">Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(113).pdf">ICA with Reconstruction Cost for Efficient Overcomplete Feature Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(114).pdf">Selecting Receptive Fields in Deep Networks</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(115).pdf">Sparse Filtering</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(116).pdf">Unsupervised learning models of primary cortical receptive fields and receptive field plasticity</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(117).pdf">Policy Search via Density Estimation</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(118).pdf">Approximate Planning in Large POMDPs via Reusable Trajectories</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(119).pdf">Approximate inference algorithms for two-layer Bayesian networks</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(120).pdf">An Analysis of Single-Layer Networks in Unsupervised Feature Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(121).pdf">Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(122).pdf">A Probabilistic Model for SemanticWord Vectors</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(123).pdf">On Random Weights and Unsupervised Feature Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(124).pdf">Theorem 2.2: Near-optimality of optimal circular input for full convolution</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(125).pdf">Applying Online-search to Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(126).pdf">From Uncertainty to Belief: Inferring the Specification Within</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(127).pdf">Make3D: Learning 3D Scene Structure from a Single Still Image</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(128).pdf">Approximate planning in large POMDPs via reusable trajectories</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(129).pdf">Learning to Open New Doors</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(130).pdf">Discriminative Training of Kalman Filters</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(131).pdf">Learning Omnidirectional Path Following Using Dimensionality Reduction</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(132).pdf">Policy Search via the Signed Derivative</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(133).pdf">Policy invariance under reward transformations: Theory and application to reward shaping</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(134).pdf">Stable Algorithms for Link Analysis</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(135).pdf">Contextual Search and Name Disambiguation in Email Using Graphs</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(136).pdf">Data-Intensive Question Answering</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(137).pdf">PEGASUS: A policy search method for large MDPs and POMDPs</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(138).pdf">Learning Factor Graphs in Polynomial Time and Sample Complexity</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(139).pdf">Shift-Invariant Sparse Coding for Audio Classification</a></li>
+<li><a href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(140).pdf">An Information-Theoretic Analysis of Hard and Soft Assignment Methods for Clustering</a></li>
+</ul>
+
+  </br>
  <ul>
 <li><strong><a title="Peter Norvig" href="https://en.wikipedia.org/wiki/Peter_Norvig">Peter Norvig</a>&nbsp;</strong>&ndash; co-author, with Stuart Russell, of&nbsp;<em>Artificial Intelligence: A Modern Approach</em>, now the leading college text in the field. He is also Director of Research at Google, Inc.</li>
 <li><strong><a title="Marc Raibert" href="https://en.wikipedia.org/wiki/Marc_Raibert">Marc Raibert</a></strong>&nbsp;&ndash; founder of Boston Dynamics, developer of hopping, walking, and running robots.</li>
