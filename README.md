@@ -23,6 +23,7 @@
 <li class="toclevel-1 tocsection-15"><a href="#scholars">Artificial Intelligence Researchers and Scholars</a></li>
 <li class="toclevel-1 tocsection-16"><a href="#view"> Philosophical Views On AI</a></li>
 <li class="toclevel-1 tocsection-17"><a href="#model"> Top 10 Most Popular AI Models</a></li>
+<li class="toclevel-1 tocsection-17"><a href="#award"> Competitions and awards</a></li>
 </ul>
 
 
@@ -3800,4 +3801,18 @@ Content-Based Image Retrieval</a></li>
 <li>Bagging and <a title="random forest" href="https://en.wikipedia.org/wiki/Random_forest">random forest</a> (<a title="Bagging and random forest" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(475).pdf">PDF</a>)</li>
 <li><a title="Deep neural networks" href="https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks">Deep neural networks</a>&nbsp;(<a title="Deep neural networks" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(478).pdf">PDF</a>)</li>
 </ul>
+
+</br>
+
+
+<h2><span id="award" class="mw-headline">Competitions and awards</span></h2>
+
+<p><a title="Competitions and prizes in artificial intelligence" href="https://en.wikipedia.org/wiki/Competitions_and_prizes_in_artificial_intelligence">Competitions and prizes in artificial intelligence</a></p>
+<ul>
+<li><a title="Loebner Prize" href="https://en.wikipedia.org/wiki/Loebner_Prize">Loebner Prize</a>&nbsp;</li>
+</ul>
+
+
+
+
 
