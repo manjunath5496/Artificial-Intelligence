@@ -22,6 +22,7 @@
 <li class="toclevel-1 tocsection-14"><a href="#publications">List of Important Publications in AI</a></li>
 <li class="toclevel-1 tocsection-15"><a href="#scholars">Artificial Intelligence Researchers and Scholars</a></li>
 <li class="toclevel-1 tocsection-16"><a href="#view"> Philosophical Views On AI</a></li>
+<li class="toclevel-1 tocsection-17"><a href="#model"> Top 10 Most Popular AI Models</a></li>
 </ul>
 
 
