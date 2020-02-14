@@ -3390,6 +3390,144 @@ Content-Based Image Retrieval</a></li>
 <li><strong><a title="Peter Norvig" href="https://en.wikipedia.org/wiki/Peter_Norvig" rel="nofollow">Peter Norvig</a>&nbsp;</strong>&ndash; co-author, with Stuart Russell, of<a title="Artificial Intelligence: A Modern Approach" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(5).pdf">&nbsp;<em>Artificial Intelligence: A Modern Approach</em></a>, now the leading college text in the field. He is also Director of Research at Google, Inc.</li>
 <li><strong><a title="Marc Raibert" href="https://en.wikipedia.org/wiki/Marc_Raibert" rel="nofollow">Marc Raibert</a></strong>&nbsp;&ndash; founder of Boston Dynamics, developer of hopping, walking, and running robots.</li>
 <li><strong><a title="Stuart J. Russell" href="https://en.wikipedia.org/wiki/Stuart_J._Russell" rel="nofollow">Stuart J. Russell</a></strong>&nbsp;&ndash; co-author, with Peter Norvig, of&nbsp;<em>Artificial Intelligence: A Modern Approach</em>, now the leading college text in the field.</li>
+ </ul>
+ 
+ </br>
+
+<p><strong>Publications:</strong></p>
+ <hr> 
+ <ul>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(1).pdf">Probabilistic Model-Based Approach for Heart Beat Detection</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(2).pdf">State Abstraction for Programmable Reinforcement Learning Agents</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(3).pdf">Concurrent Hierarchical Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(4).pdf">Global seismic monitoring: A Bayesian approach</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(5).pdf">Metaphysics of Planning Domain Descriptions</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(6).pdf">A Nearly-Black-Box Online Algorithm for Joint Parameter and State Estimation in Temporal Models</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(7).pdf">Robust Multi-Agent Reinforcement Learning via Minimax Deep Deterministic Policy Gradient</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(8).pdf">Vertically Integrated Seismological Analysis II: Inference</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(9).pdf">Vertically Integrated Seismological Analysis I: Modeling</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(10).pdf">Bayesian Inference for Signal-Based Seismic Monitoring</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(11).pdf">Optimal composition of real-time systems</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(12).pdf">Rationality and Intelligence</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(13).pdf">Object Identification: A Bayesian Analysis with Application to Traffic Surveillance.</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(14).pdf">Online Bagging and Boosting</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(15).pdf">Approximate Inference for Infinite Contingent Bayesian Networks</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(16).pdf">Why are DBNs sparse?</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(17).pdf">Dynamic Scaled Sampling for Deterministic Constraints</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(18).pdf">Signal-based Bayesian Seismic Monitoring</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(19).pdf">The Physics of Text: Ontological Realism in Information Extraction</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(20).pdf">NET-VISA: Network Processing Vertically Integrated Seismic Analysis</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(21).pdf">The Ultimate Pilot Program</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(22).pdf">Unifying Logic and Probability</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(23).pdf">Markov Chain Monte Carlo Data Association for General Multiple Target Tracking Problems</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(24).pdf">Handwriting and Gestures in the Air, Recognizing on the Fly</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(25).pdf">Learning agents for uncertain environments (extended abstract)</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(26).pdf">Adversarial Training for Relation Extraction</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(27).pdf">Bayesian Networks</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(28).pdf">Analogy by Similarity</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(29).pdf">Machine Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(30).pdf">On Some Tractable Cases of Logical Filtering</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(31).pdf">Angelic Semantics for High-Level Actions</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(32).pdf">Exploiting Belief State Structure in Graph Search</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(33).pdf">Angelic Hierarchical Planning: Optimal and Online Algorithms</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(34).pdf">Combined Task and Motion Planning for Mobile Manipulation</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(35).pdf">Using Classical Planners for Tasks with Continuous Operators in Robotics</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(36).pdf">Bayesian Relational Memory for Semantic Visual Navigation</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(37).pdf">The Extended Parameter Filter</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(38).pdf">Efficient Cooperative Inverse Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(39).pdf">An Efficient, Generalized Bellman Update For Cooperative Inverse Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(40).pdf">Discrete-Continuous Mixtures in Probabilistic Programming: Generalized Semantics and Inference Algorithms</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(41).pdf">Policy invariance under reward transformations: Theory and application to reward shaping</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(42).pdf">Combined Task and Motion Planning Through an Extensible Planner-Independent Interface Layer</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(43).pdf">Identity Uncertainty</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(44).pdf">Approximate inference for first-order probabilistic languages</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(45).pdf">Logical Filtering</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(46).pdf">BLOG: Probabilistic Models with Unknown Objects</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(47).pdf">Concurrent Hierarchical Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(48).pdf">Efficient belief-state AND&ndash;OR search, with application to Kriegspiel</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(49).pdf">Writing Stratagus-playing Agents in Concurrent ALisp</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(50).pdf">Bounded Intention Planning</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(51).pdf">Markovian State and Action Abstractions for MDPs via Hierarchical MCTS</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(52).pdf">Swift: Compiled Inference for Probabilistic Programming Languages</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(53).pdf">Efficient Reinforcement Learning with Hierarchies of Machines by Leveraging Internal Transitions</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(54).pdf">Should Robots be Obedient?</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(55).pdf">The Off-Switch Game</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(56).pdf">Provably beneficial artificial intelligence</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(57).pdf">Planning Using Multiple Execution Architectures</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(58).pdf">Local learning in probabilistic networks with hidden variables</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(59).pdf">The BATmobile: Towards a Bayesian Automated Taxi</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(60).pdf">Rationality and Intelligence</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(61).pdf">Approximating Optimal Policies for Partially Observable Stochastic Domains</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(62).pdf">Convergence of reinforcement learning with general function approximators</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(63).pdf">Tracking many objects with many sensors</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(64).pdf">Unifying Logic and Probability: A New Dawn for AI?</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(65).pdf">Provably bounded optimal agents</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(66).pdf">Experimental Comparisons of Online and Batch Versions of Bagging and Boosting</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(67).pdf">Adversarial Policies: Attacking Deep Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(68).pdf">Statistical Visual Language Models for Ink Parsing</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(69).pdf">Temporal Logical Filtering &ndash; Preliminary Results</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(70).pdf">Computational Intelligence</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(71).pdf">Metareasoning</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(72).pdf">Algorithms for inverse reinforcement learning</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(73).pdf">Q-Decomposition for Reinforcement Learning Agents</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(74).pdf">Probabilistic modeling of sensor artifacts in critical care</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(75).pdf">Bayesian Treaty Monitoring: Preliminary Report</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(76).pdf">Machine Learning at the CTBTO. Testing and evaluation of the False Events Identification (FEI) and Vertically Integrated Seismic Association (VISA) project</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(77).pdf">Analyst Evaluation of NET-VISA (Network Processing Vertically Integrated Seismic Analysis) at the CTBTO</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(78).pdf">Progress in Signal-Based Bayesian Monitoring</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(79).pdf">Model Based Probabilistic Inference for Intensive Care Medicine</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(80).pdf">Programmable Reinforcement Learning Agents</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(81).pdf">Identity Uncertainty and Citation Matching</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(82).pdf">Distance metric learning, with application to clustering with side-information</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(83).pdf">A Hierarchical Bayesian Markovian Model for Motifs in Biopolymer Sequences</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(84).pdf">Probabilistic detection of short events, with application to critical care monitoring</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(85).pdf">Global seismic monitoring as probabilistic inference</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(86).pdf">Multilinear Dynamical Systems for Tensor Time Series</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(87).pdf">Combined State and Parameter Estimation of Human Intracranial Hemodynamics</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(88).pdf">Gaussian Process Random Fields</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(89).pdf">Inverse Reward Design</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(90).pdf">Learning Plannable Representations with Causal InfoGAN</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(91).pdf">Meta-Learning MCMC Proposals</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(92).pdf">Negotiable Reinforcement Learning for Pareto Optimal Sequential Decision-Making</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(93).pdf">Extending Bayesian Networks to the Open-Universe Case</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(94).pdf">Rationality and Intelligence: A Brief Update</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(95).pdf">Speeding Up HAM Learning with Internal Transitions</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(96).pdf">Provably Beneficial Artificial Intelligence</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(97).pdf">Cooperative Inverse Reinforcement Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(98).pdf">Should we fear supersmart robots?</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(99).pdf">Rao-Blackwellised Particle Filtering for Dynamic Bayesian Networks</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(100).pdf">Machine learning for Comprehensive Nuclear-Test-Ban Treaty monitoring</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(101).pdf">First-Order Probabilistic Models for Information Extraction</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(102).pdf">BLOG: Relational Modeling with Unknown Objects</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(103).pdf">Anytime Lifted Belief Propagation</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(104).pdf">BLOG: ProbabilisticModels with Unknown Objects</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(105).pdf">First-Order Models for POMDPs</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(106).pdf">Uncertain observation times</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(107).pdf">State Abstraction for Programmable Reinforcement Learning Agents</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(108).pdf">Angelic Semantics for High-Level Actions</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(109).pdf">Angelic Hierarchical Planning: Optimal and Online Algorithms (Revised)</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(110).pdf">Markov Chain Monte Carlo Data Association for Multiple-Target Tracking</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(111).pdf">Variational MCMC</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(112).pdf">Decayed MCMC Filtering</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(113).pdf">A generalized mean field algorithm for variational inference in exponential families</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(114).pdf">Efficient Gradient Estimation for Motor Control Learning</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(115).pdf">Graph partition strategies for generalized mean field inference</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(116).pdf">General-Purpose MCMC Inference over Relational Structures</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(117).pdf">A Compact, Hierarchically Optimal Q-function Decomposition</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(118).pdf">Improving Gradient Estimation by Incorporating Sensor Data</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(119).pdf">Gibbs Sampling in Open-Universe Stochastic Languages</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(120).pdf">RAPID: A Reachable Anytime Planner for Imprecisely-sensed Domains</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(121).pdf">A temporally abstracted Viterbi algorithm</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(122).pdf">Selecting Computations: Theory and Applications</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(123).pdf">Fast Gaussian Process Posteriors with Product Trees</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(124).pdf">First-Order Open-Universe POMDPs</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(125).pdf">Multitasking: Efficient Optimal Planning for Bandit Superprocesses</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(126).pdf">A Smart-Dumb/Dumb-Smart Algorithm for Efficient Split-Merge MCMC</a></li>
+<li><a href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(127).pdf">Image Segmentation in Video Sequences: A Probabilistic Approach</a></li>
+</ul>
+ 
+ </br>
+ <ul>
 <li><strong><a title="Murray Shanahan" href="https://en.wikipedia.org/wiki/Murray_Shanahan" rel="nofollow">Murray Shanahan</a></strong>&nbsp;&ndash; author of <a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(466).pdf">The Technological Singularity</a>, a primer on superhuman intelligence.</li>
 </ul>
 
