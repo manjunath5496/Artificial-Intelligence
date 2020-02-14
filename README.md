@@ -3643,6 +3643,7 @@ Content-Based Image Retrieval</a></li>
 <ul>
 <li><a title="Jack Ma, left, debates AI—and the future of humanity—with Elon Musk" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(471).pdf">Jack Ma, left, debates AI — and the future of humanity — with Elon Musk</a></li>
  <li><a title="What Artificial Intelligence Can and Can't Do Right Now" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(472).pdf">What Artificial Intelligence Can and Can't Do Right Now — Andrew Ng</a></li>
+  <li><a title="John McCarthy's frequently asked questions about AI" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(484).pdf">John McCarthy's frequently asked questions about AI</a></li>
 </ul>
 </br>
 <h2 id="model"><strong>Top 10 Most Popular AI Models (<a title="Top 10 Most Popular AI Models" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(483).pdf">PDF</a>)</strong></h2>
