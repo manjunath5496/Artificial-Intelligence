@@ -3504,6 +3504,45 @@ Content-Based Image Retrieval</a></li>
   </br>
 <ul>
 <li><strong><a title="Peter Norvig" href="https://en.wikipedia.org/wiki/Peter_Norvig" rel="nofollow">Peter Norvig</a>&nbsp;</strong>&ndash; co-author, with Stuart Russell, of<a title="Artificial Intelligence: A Modern Approach" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(5).pdf">&nbsp;<em>Artificial Intelligence: A Modern Approach</em></a>, now the leading college text in the field. He is also Director of Research at Google, Inc.</li>
+ </ul>
+ 
+ 
+
+</br>
+<p><strong>Publications:</strong></p>
+ <hr>
+ </br>
+ 
+ <ul>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(486).pdf">Deep Learning with Dynamic Computation Graphs</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(487).pdf">A Study in Lexical Network Theory</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(488).pdf">A Survey of Current Practice and Teaching of AI</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(489).pdf">The Unreasonable
+Effectiveness of Data</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(490).pdf">Google's Hybrid Approach to Research</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(491).pdf">Six Problems for Story Understanders</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(492).pdf">Inference In Text Understanding</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(493).pdf">Natural Language Corpus Data</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(494).pdf">A Unified Theory of Inference for Text Understanding</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(495).pdf">Design Patterns in Dynamic Programming</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(496).pdf">The Making of the Gettysburg PowerPoint Presentation</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(497).pdf">Building a Large Lexicon with Lexical Network Theory</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(498).pdf">LISP &minus; a Language for Internet Scripting and Programming</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(499).pdf">Internet-Scale Data Analysis</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(500).pdf">Teach Yourself Programming in Ten Years</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(501).pdf">Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(502).pdf">Marker Passing as a Weak Method
+for Text lnferencing</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(503).pdf">SILK - a playful blend of Scheme and Java</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(504).pdf">Techniques for automatic memoization with applications to context-free parsing</a></li>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(505).pdf">Verbmobil: A Translation System for Face-to-Face Dialog</a></li>
+
+</ul> 
+ 
+ 
+ 
+ </br>
+ <ul>
 <li><strong><a title="Marc Raibert" href="https://en.wikipedia.org/wiki/Marc_Raibert" rel="nofollow">Marc Raibert</a></strong>&nbsp;&ndash; founder of Boston Dynamics, developer of hopping, walking, and running robots.</li>
 <li><strong><a title="Stuart J. Russell" href="https://en.wikipedia.org/wiki/Stuart_J._Russell" rel="nofollow">Stuart J. Russell</a></strong>&nbsp;&ndash; co-author, with Peter Norvig, of&nbsp;<em>Artificial Intelligence: A Modern Approach</em>, now the leading college text in the field.</li>
  </ul>
