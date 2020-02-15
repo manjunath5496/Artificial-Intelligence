@@ -4072,6 +4072,12 @@ for Text lnferencing</a></li>
  <li><a title="What Artificial Intelligence Can and Can't Do Right Now" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(472).pdf">What Artificial Intelligence Can and Can't Do Right Now — Andrew Ng</a></li>
   <li><a title="John McCarthy's frequently asked questions about AI" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(484).pdf">John McCarthy's frequently asked questions about AI</a></li>
   <li><a title="How to Stop Superhuman A.I. Before It Stops Us" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(485).pdf">How to Stop Superhuman A.I. Before It Stops Us — Stuart Russell</a></li>
+ 
+   <li><a title="Scientists and investors warn on AI" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(506).pdf">Scientists and investors warn on AI</a></li>
+    <li><a title="Top 9 ethical issues in artificial intelligence" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(507).pdf">Top 9 ethical issues in artificial intelligence</a></li>
+ 
+<li><a title="Open Letter on Artificial Intelligence" href="https://en.wikipedia.org/wiki/Open_Letter_on_Artificial_Intelligence">Open Letter on Artificial Intelligence</a></li>
+ 
 </ul>
 </br>
 <h2 id="model"><strong>Top 10 Most Popular AI Models (<a title="Top 10 Most Popular AI Models" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(483).pdf">PDF</a>)</strong></h2>
