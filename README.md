@@ -11,7 +11,7 @@
  <li class="toclevel-1 tocsection-15"><a href="#History">What is Artificial Intelligence?</a></li>
  
  <li class="toclevel-1 tocsection-7"><a href="#Outline"><span class="toctext">Types of Artificial Intelligence</span></a></li> 
-  
+   <li class="toclevel-1 tocsection-2"><a href="#approach"><span class="toctext">Approaches to AI</span></a></li> 
 <li class="toclevel-1 tocsection-1"><a href="#timeline">Timeline of Artificial Intelligence</a></li>
 <li class="toclevel-1 tocsection-2"><a href="#firstHeading"><span class="toctext">Glossary of Artificial Intelligence</span></a></li>
 <li class="toclevel-1 tocsection-3"><a href="#Branches"><span class="toctext">The Most Significant Failures When Al Turned Rogue, Causing Disastrous Results</span></a></li>
@@ -88,6 +88,75 @@
 </ul>
 </br>
 
+
+
+
+<h2><span id="approach" class="mw-headline">Approaches to AI</span></h2>
+<ul>
+<li><a title="Artificial intelligence" href="https://en.wikipedia.org/wiki/Artificial_intelligence#Symbolic">Symbolic AI</a>&nbsp;&ndash; When access to digital computers became possible in the middle 1950s, AI research began to explore the possibility that human intelligence could be reduced to symbol manipulation.</li>
+<li>Interpretational AI - Inputs such as words are used to identify the abstract representations of the things (like, but not limited to: objects, characteristics and actions) that words are intending to describe within natural language.
+<ul>
+<li><a class="mw-redirect" title="GOFAI" href="https://en.wikipedia.org/wiki/GOFAI">Good Old Fashioned AI</a>&nbsp;</li>
+</ul>
+</li>
+<li><a class="mw-redirect" title="Sub-symbolic" href="https://en.wikipedia.org/wiki/Sub-symbolic">Sub-symbolic</a>&nbsp;
+<ul>
+<li><a title="Artificial intelligence" href="https://en.wikipedia.org/wiki/Artificial_intelligence#Cybernetics_and_brain_simulation">Early cybernetics and brain simulation</a>&nbsp;</li>
+<li><a class="mw-redirect" title="Behavior based AI" href="https://en.wikipedia.org/wiki/Behavior_based_AI">Behavior based AI</a>&nbsp;
+<ul>
+<li><a title="Subsumption architecture" href="https://en.wikipedia.org/wiki/Subsumption_architecture">Subsumption architecture</a>&nbsp;</li>
+</ul>
+</li>
+<li><a title="Nouvelle AI" href="https://en.wikipedia.org/wiki/Nouvelle_AI">Nouvelle AI</a>&nbsp;</li>
+<li><a title="Soft computing" href="https://en.wikipedia.org/wiki/Soft_computing">Soft computing</a>&nbsp;
+<ul>
+<li><a title="Computational creativity" href="https://en.wikipedia.org/wiki/Computational_creativity">Computational creativity</a>&nbsp;</li>
+<li><a title="Machine learning" href="https://en.wikipedia.org/wiki/Machine_learning">Machine learning</a>
+<ul>
+<li><a title="Neural network" href="https://en.wikipedia.org/wiki/Neural_network">Neural networks</a>&nbsp;
+<ul>
+<li><a title="Hybrid neural network" href="https://en.wikipedia.org/wiki/Hybrid_neural_network">Hybrid neural network</a>&nbsp;</li>
+<li><a title="Recurrent neural network" href="https://en.wikipedia.org/wiki/Recurrent_neural_network">Recurrent neural network</a>&nbsp;</li>
+<li><a title="Perceptron" href="https://en.wikipedia.org/wiki/Perceptron">Perceptron</a></li>
+</ul>
+</li>
+<li><a class="mw-redirect" title="Support Vector Machine" href="https://en.wikipedia.org/wiki/Support_Vector_Machine">Support Vector Machines</a>&nbsp;(SVM)</li>
+</ul>
+</li>
+<li><a class="mw-redirect" title="Fuzzy system" href="https://en.wikipedia.org/wiki/Fuzzy_system">Fuzzy systems</a>&nbsp;</li>
+<li><a title="Evolutionary computation" href="https://en.wikipedia.org/wiki/Evolutionary_computation">Evolutionary computation</a>, including:
+<ul>
+<li><a title="Evolutionary algorithm" href="https://en.wikipedia.org/wiki/Evolutionary_algorithm">Evolutionary algorithms</a>&nbsp;
+<ul>
+<li><a title="Genetic algorithm" href="https://en.wikipedia.org/wiki/Genetic_algorithm">Genetic algorithm</a>&nbsp;</li>
+<li><a title="Differential evolution" href="https://en.wikipedia.org/wiki/Differential_evolution">Differential evolution</a></li>
+</ul>
+</li>
+<li><a title="Metaheuristic" href="https://en.wikipedia.org/wiki/Metaheuristic">Metaheuristic</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Swarm Intelligence" href="https://en.wikipedia.org/wiki/Swarm_Intelligence">Swarm Intelligence</a>
+<ul>
+<li><a class="mw-redirect" title="Ant colony optimization" href="https://en.wikipedia.org/wiki/Ant_colony_optimization">Ant colony optimization</a></li>
+<li><a title="Particle swarm optimization" href="https://en.wikipedia.org/wiki/Particle_swarm_optimization">Particle swarm optimization</a></li>
+</ul>
+</li>
+<li><a title="BELBIC" href="https://en.wikipedia.org/wiki/BELBIC">Brain Emotional Learning Based Intelligent Controller</a>&nbsp;</li>
+</ul>
+</li>
+<li><a title="Probability" href="https://en.wikipedia.org/wiki/Probability">Probabilistic</a>&nbsp;methods including:
+<ul>
+<li><a title="Bayesian network" href="https://en.wikipedia.org/wiki/Bayesian_network">Bayesian network</a></li>
+<li><a title="Hidden Markov model" href="https://en.wikipedia.org/wiki/Hidden_Markov_model">Hidden Markov model</a></li>
+<li><a title="Kalman filter" href="https://en.wikipedia.org/wiki/Kalman_filter">Kalman filter</a></li>
+</ul>
+</li>
+<li><a title="Chaos theory" href="https://en.wikipedia.org/wiki/Chaos_theory">Chaos theory</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a title="Artificial intelligence" href="https://en.wikipedia.org/wiki/Artificial_intelligence#Statistical">Statistical AI</a>&nbsp;</li>
+</ul>
+
+</br>
 <div id="toc" class="toc">
 <h2 id ="timeline">Timeline of Artificial Intelligence</h2>
   </br>
