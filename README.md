@@ -22,7 +22,7 @@
 <li class="toclevel-1 tocsection-14"><a href="#publications">List of Important Publications in AI</a></li>
 <li class="toclevel-1 tocsection-9"><a href="#philosophy"> Philosophy Of Artificial Intelligence</a></li>
 <li class="toclevel-1 tocsection-15"><a href="#scholars">Artificial Intelligence Researchers and Scholars</a></li>
-<li class="toclevel-1 tocsection-16"><a href="#view"> Philosophical Views On AI</a></li>
+<li class="toclevel-1 tocsection-16"><a href="#view"> Perspectives On AI</a></li>
 <li class="toclevel-1 tocsection-17"><a href="#model"> Top 10 Most Popular AI Models</a></li>
 <li class="toclevel-1 tocsection-18"><a href="#award"> Competitions and awards</a></li>
 <li class="toclevel-1 tocsection-19"><a href="#projects"> AI projects</a></li>
@@ -3580,7 +3580,7 @@ Content-Based Image Retrieval</a></li>
 
 </br>
 
-<h2><span id="view" class="mw-headline"> Philosophical Views On AI</span></h2>
+<h2><span id="view" class="mw-headline"> Perspectives On AI</span></h2>
 
 <ul>
 <li>In 1956,&nbsp;<a title="Herbert A. Simon" href="https://en.wikiquote.org/wiki/Herbert_A._Simon">Herb Simon</a>... predicted that within ten years computers would beat the world chess champion, compose "aesthetically satisfying" original music, and prove new mathematical theorems. It took forty years, not ten, but all these goals were achieved&mdash;and within a few years of each other! The music composed by&nbsp;<a class="extiw" title="w:David Cope" href="https://en.wikipedia.org/wiki/David_Cope">David Cope's</a>&nbsp;programs cannot be distinguished... from that composed by Mozart, Beethoven, and Bach. In 1976, a computer was used in the proof of the long-unsolved "<a class="extiw" title="w:Four color theorem" href="https://en.wikipedia.org/wiki/Four_color_theorem#Proof_by_computer">four color problem</a>."
