@@ -3702,20 +3702,20 @@ for Text lnferencing</a></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(4).pdf" style="text-decoration:none;">High-Level Robot Control Through Logic</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(5).pdf" style="text-decoration:none;">How Well Do Oscillator Models Capture the Behaviour of Biological Neurons?</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(6).pdf" style="text-decoration:none;">STDP Produces Robust Oscillatory Architectures That Exhibit Precise Collective Synchronization</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(7).pdf" style="text-decoration:none;">Quantum Boltzmann Machine</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(7).pdf" style="text-decoration:none;">A Circumscriptive Calculus of Events</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(8).pdf" style="text-decoration:none;"> Machine learning phases of matter </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(9).pdf" style="text-decoration:none;">Exponential Machines</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(8).pdf" style="text-decoration:none;"> Perception as Abduction: Turning Sensor Data Into Meaningful Representation </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(9).pdf" style="text-decoration:none;">A Spiking Neuron Model of Cortical Broadcast and Competition</a></b></li>
   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(10).pdf" style="text-decoration:none;">Supervised Learning With Quantum-Inspired Tensor Networks </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(11).pdf" style="text-decoration:none;">Discovering Phase Transitions with Unsupervised Learning</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(12).pdf" style="text-decoration:none;">Solving the Quantum Many-Body Problem with Artificial Neural Networks</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(13).pdf" style="text-decoration:none;">Learning Thermodynamics with Boltzmann Machines</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(10).pdf" style="text-decoration:none;">Supplementary Note on "A Spiking Neuron Model of Cortical Broadcast and Competition" </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(11).pdf" style="text-decoration:none;">Representing Continuous Change in The Event Calculus</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(12).pdf" style="text-decoration:none;">Reasoning about Discontinuities in the Event Calculus</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(13).pdf" style="text-decoration:none;">High-Level Robot Control Through Logic</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(14).pdf" style="text-decoration:none;">Machine learning quantum phases of matter beyond the fermion sign problem</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(14).pdf" style="text-decoration:none;">Event Calculus Planning Revisited</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(15).pdf" style="text-decoration:none;">Why does deep and cheap learning work so well?</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(15).pdf" style="text-decoration:none;">The Event Calculus Explained</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(16).pdf" style="text-decoration:none;">Low-Rank Tensor Networks for Dimensionality Reduction and Large-Scale Optimization Problems: Perspectives and Challenges PART 1</a></b></li>
 
