@@ -26,8 +26,7 @@
 <li class="toclevel-1 tocsection-17"><a href="#model"> Top 10 Most Popular AI Models</a></li>
 <li class="toclevel-1 tocsection-18"><a href="#award"> Competitions and awards</a></li>
 <li class="toclevel-1 tocsection-19"><a href="#projects"> AI projects</a></li>
-
-
+<li class="toclevel-1 tocsection-19"><a href="#future"> AI and the Future</a></li>
 
 
 
@@ -3873,8 +3872,40 @@ Content-Based Image Retrieval</a></li>
 <li><a title="Human Brain Project" href="https://en.wikipedia.org/wiki/Human_Brain_Project">Human Brain Project</a>&nbsp;(2013)&nbsp;</li>
 <li><a class="mw-redirect" title="IBM Watson Group" href="https://en.wikipedia.org/wiki/IBM_Watson_Group">IBM Watson Group</a>&nbsp;(2014) &ndash; business unit created around&nbsp;<a title="Watson (computer)" href="https://en.wikipedia.org/wiki/Watson_(computer)">Watson</a>, to further its development and deploy marketable applications or services based on it.</li>
 </ul>
+</br>
 
 
+<h2><span id="future" class="mw-headline">AI and the Future</span></h2>
+
+<p><a title="Artificial general intelligence" href="https://en.wikipedia.org/wiki/Artificial_general_intelligence">Artificial general intelligence</a>&nbsp;(Strong AI) &ndash; hypothetical artificial intelligence that matches or exceeds human intelligence &mdash; an intelligent machine that could perform intellectual tasks at least as well as a human.</p>
+<ul>
+<li>Aspects or features
+<ul>
+<li><a title="Self-replicating machine" href="https://en.wikipedia.org/wiki/Self-replicating_machine">Self-replicating machines</a>&nbsp;&ndash; smart computers and robots would be able to make more of themselves, in a geometric progression or via mass production. Or smart programs may be uploaded into hardware existing at the time (because linear architecture of sufficient speeds could be used to emulate massively parallel analog systems such as human brains).</li>
+<li><a class="mw-redirect" title="Recursive self improvement" href="https://en.wikipedia.org/wiki/Recursive_self_improvement">Recursive self improvement</a>&nbsp;(aka seed AI) &ndash; speculative ability of strong artificial intelligence to reprogram itself to make itself even more intelligent. The more intelligent it got, the more capable it would be of further improving itself, in successively more rapid iterations, potentially resulting in an intelligence explosion leading to the emergence of a superintelligence.</li>
+<li><a title="Group mind (science fiction)" href="https://en.wikipedia.org/wiki/Group_mind_(science_fiction)">Hive mind</a>&nbsp;</li>
+<li><a title="Swarm intelligence" href="https://en.wikipedia.org/wiki/Swarm_intelligence#In_popular_culture">Robot swarm</a>&nbsp;</li>
+</ul>
+</li>
+<li><a title="Technological singularity" href="https://en.wikipedia.org/wiki/Technological_singularity">Technological singularity</a>&nbsp;&ndash; the development of strong AI may cause an intelligence explosion in which greater-than-human intelligence emerges, radically changing civilization, and perhaps even human nature. The TS has been identified by&nbsp;<a href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence#CITEREFBerglas2012">Berglas (2012)</a>&nbsp;and others to be an existential risk.
+<ul>
+<li><a title="Singularitarianism" href="https://en.wikipedia.org/wiki/Singularitarianism">Singularitarianism</a>&nbsp;</li>
+<li><a title="Human enhancement" href="https://en.wikipedia.org/wiki/Human_enhancement">Human enhancement</a>&nbsp;&ndash; humans may be enhanced, either by the efforts of AI or by merging with it.
+<ul>
+<li><a title="Transhumanism" href="https://en.wikipedia.org/wiki/Transhumanism">Transhumanism</a>&nbsp;&ndash; philosophy of human transformation</li>
+<li><a title="Posthumanism" href="https://en.wikipedia.org/wiki/Posthumanism">Posthumanism</a>&nbsp;&ndash; people may survive, but not be recognizable in comparison to present modern-day humans.
+<ul>
+<li><a title="Cyborg" href="https://en.wikipedia.org/wiki/Cyborg">Cyborgs</a>&nbsp;</li>
+<li><a title="Mind uploading" href="https://en.wikipedia.org/wiki/Mind_uploading">Mind uploading</a>&nbsp;</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="mw-redirect" title="Intelligence explosion" href="https://en.wikipedia.org/wiki/Intelligence_explosion">Intelligence explosion</a>&nbsp;&ndash; through recursive self-improvement and self-replication, the magnitude of intelligent machinery could achieve superintelligence, surpassing human ability to resist it.</li>
+<li><a title="Superintelligence" href="https://en.wikipedia.org/wiki/Superintelligence">Superintelligence</a>&nbsp;&ndash; AI may grow to such an advanced state to become as proportionately superior to humans as humans are to ants. Theoretically, there would be little humans could do to prevent such an intelligence from reaching its goals.</li>
+</ul>
 
 
 
