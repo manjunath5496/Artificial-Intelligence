@@ -3694,105 +3694,102 @@ for Text lnferencing</a></li>
 <ul>
 
                         
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(1).pdf" style="text-decoration:none;">Metastable Chimera States in Community-Structured Oscillator Networks</a></b></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(1).pdf" style="text-decoration:none;">Metastable Chimera States in Community-Structured Oscillator Networks</a></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(2).pdf" style="text-decoration:none;">An attempt to formalise a non-trivial benchmark problem in common sense reasoning</a></b></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(2).pdf" style="text-decoration:none;">An attempt to formalise a non-trivial benchmark problem in common sense reasoning</a></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(3).pdf" style="text-decoration:none;">Modeling the Neural Basis of Cognitive Integration and Consciousness</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(4).pdf" style="text-decoration:none;">High-Level Robot Control Through Logic</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(5).pdf" style="text-decoration:none;">How Well Do Oscillator Models Capture the Behaviour of Biological Neurons?</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(6).pdf" style="text-decoration:none;">STDP Produces Robust Oscillatory Architectures That Exhibit Precise Collective Synchronization</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(7).pdf" style="text-decoration:none;">A Circumscriptive Calculus of Events</a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(3).pdf" style="text-decoration:none;">Modeling the Neural Basis of Cognitive Integration and Consciousness</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(4).pdf" style="text-decoration:none;">High-Level Robot Control Through Logic</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(5).pdf" style="text-decoration:none;">How Well Do Oscillator Models Capture the Behaviour of Biological Neurons?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(6).pdf" style="text-decoration:none;">STDP Produces Robust Oscillatory Architectures That Exhibit Precise Collective Synchronization</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(7).pdf" style="text-decoration:none;">A Circumscriptive Calculus of Events</a></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(8).pdf" style="text-decoration:none;"> Perception as Abduction: Turning Sensor Data Into Meaningful Representation </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(9).pdf" style="text-decoration:none;">A Spiking Neuron Model of Cortical Broadcast and Competition</a></b></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(8).pdf" style="text-decoration:none;"> Perception as Abduction: Turning Sensor Data Into Meaningful Representation </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(9).pdf" style="text-decoration:none;">A Spiking Neuron Model of Cortical Broadcast and Competition</a></li>
   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(10).pdf" style="text-decoration:none;">Supplementary Note on "A Spiking Neuron Model of Cortical Broadcast and Competition" </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(11).pdf" style="text-decoration:none;">Representing Continuous Change in The Event Calculus</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(12).pdf" style="text-decoration:none;">Reasoning about Discontinuities in the Event Calculus</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(13).pdf" style="text-decoration:none;">High-Level Robot Control Through Logic</a></b></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(10).pdf" style="text-decoration:none;">Supplementary Note on "A Spiking Neuron Model of Cortical Broadcast and Competition" </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(11).pdf" style="text-decoration:none;">Representing Continuous Change in The Event Calculus</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(12).pdf" style="text-decoration:none;">Reasoning about Discontinuities in the Event Calculus</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(13).pdf" style="text-decoration:none;">High-Level Robot Control Through Logic</a></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(14).pdf" style="text-decoration:none;">Event Calculus Planning Revisited</a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(14).pdf" style="text-decoration:none;">Event Calculus Planning Revisited</a></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(15).pdf" style="text-decoration:none;">The Event Calculus Explained</a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(15).pdf" style="text-decoration:none;">The Event Calculus Explained</a></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(16).pdf" style="text-decoration:none;">Low-Rank Tensor Networks for Dimensionality Reduction and Large-Scale Optimization Problems: Perspectives and Challenges PART 1</a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(16).pdf" style="text-decoration:none;">Using Reactive Rules to Guide a Forward-Chaining Planner</a></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(17).pdf" style="text-decoration:none;">Machine Learning Phases of Strongly Correlated Fermions</a></b></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(17).pdf" style="text-decoration:none;">What Sort of Computation Mediates Best between Perception and Action?</a></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(18).pdf" style="text-decoration:none;">By-passing the Kohn-Sham equations with machine learning</a></b></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(18).pdf" style="text-decoration:none;">The Partial Information Decomposition of Generative Neural Network Models</a></li> 
 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(19).pdf" style="text-decoration:none;">Pure density functional for strong correlations and the thermodynamic limit from machine learning</a></b></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(19).pdf" style="text-decoration:none;">Evolutionary Automata</a></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(20).pdf" style="text-decoration:none;">Machine learning topological states</a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(20).pdf" style="text-decoration:none;">Prediction is Deduction but Explanation is Abduction</a></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(21).pdf" style="text-decoration:none;">Learning phase transitions by confusion</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(22).pdf" style="text-decoration:none;">Accelerate Monte Carlo Simulations with Restricted Boltzmann Machines</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(23).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method</a></b></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(21).pdf" style="text-decoration:none;">Explanation in the Situation Calculus</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(22).pdf" style="text-decoration:none;">Indirect and Conditional Sensing in the Event Calculus</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(23).pdf" style="text-decoration:none;">GPU-based Fast Parameter Optimization for Phenomenological Spiking Neural Models</a></li> 
  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(24).pdf" style="text-decoration:none;">A Neural Decoder for Topological Codes</a></b></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(24).pdf" style="text-decoration:none;">Conditional Neural Processes</a></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(25).pdf" style="text-decoration:none;">Quantum Loop Topography for Machine Learning</a></b></li>                              
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(26).pdf" style="text-decoration:none;">Sampling algorithms for validation of supervised learning models for Ising-like systems</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(27).pdf" style="text-decoration:none;">Quantum Machine Learning</a></b></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(25).pdf" style="text-decoration:none;">From Images to Bodies: Modelling and Exploiting Spatial Occlusion and Motion Parallax</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(26).pdf" style="text-decoration:none;">Training a Spiking Neural Network to Control a 4-DoF Robotic Arm based on Spike Timing-Dependent Plasticity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(27).pdf" style="text-decoration:none;">Accelerated Simulation of Spiking Neural Networks Using GPUs</a></li>
    
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(28).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method in Fermion Systems</a></b></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(28).pdf" style="text-decoration:none;">Incrementality and Logic Programming</a></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(29).pdf" style="text-decoration:none;">Tomography and Generative Data Modeling via Quantum Boltzmann Training</a></b></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(29).pdf" style="text-decoration:none;">The role of cortical oscillations in a spiking neural network model of the basal ganglia</a></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(30).pdf" style="text-decoration:none;">Reinforcement Learning Using Quantum Boltzmann Machines</a></b></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(30).pdf" style="text-decoration:none;">Continual Reinforcement Learning with Complex Synapses</a></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(31).pdf" style="text-decoration:none;">Restricted Boltzmann Machines for the Long Range Ising Models</a></b></li> 
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(32).pdf" style="text-decoration:none;">Equivalence of restricted Boltzmann machines and tensor network states</a></b></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(31).pdf" style="text-decoration:none;">A Logical Account of Perception Incorporating Feedback and Expectation</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(32).pdf" style="text-decoration:none;">A Logic-Based Formulation of Active Visual Perception</a></li> 
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(33).pdf" style="text-decoration:none;">Quantum Entanglement in Neural Network States</a></b></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(33).pdf" style="text-decoration:none;">Cognition, Action Selection, and Inner Rehearsal</a></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(34).pdf" style="text-decoration:none;">Efficient Representation of Quantum Many-body States with Deep Neural Networks</a></b></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(34).pdf" style="text-decoration:none;">Folk Psychology and Naïve Physics</a></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(35).pdf" style="text-decoration:none;">Neural network representation of tensor network and chiral states</a></b></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(35).pdf" style="text-decoration:none;">An Investigation of the Dynamical Transitions in Harmonically Driven Random Networks of Firing-Rate Neurons</a></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(36).pdf" style="text-decoration:none;">Opening the black box of Deep Neural Networks via Information</a></b></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(36).pdf" style="text-decoration:none;">A computational model of a global neuronal workspace with stochastic connections</a></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(37).pdf" style="text-decoration:none;">Unsupervised learning of phase transitions: from principal component analysis to variational autoencoders</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(38).pdf" style="text-decoration:none;">Neural-network quantum state tomography for many-body systems</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(39).pdf" style="text-decoration:none;">Experimental Quantum Hamiltonian Learning</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(40).pdf" style="text-decoration:none;">Discovering Phases, Phase Transitions and Crossovers through Unsupervised Machine Learning: A critical examination</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(41).pdf" style="text-decoration:none;">Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(42).pdf" style="text-decoration:none;">Probing many-body localization with neural networks</a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(37).pdf" style="text-decoration:none;">An abductive event calculus planner</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(38).pdf" style="text-decoration:none;">The Ramification Problem in the Event Calculus</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(39).pdf" style="text-decoration:none;">Noise and the Common Sense Informatic Situation for a Mobile Robot</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(40).pdf" style="text-decoration:none;">Noise, Non-Determinism and Spatial Uncertainty</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(41).pdf" style="text-decoration:none;">Robotics and the Common Sense Informatic Situation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(42).pdf" style="text-decoration:none;">Hypothesising Object Relations from Image Transitions</a></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(43).pdf" style="text-decoration:none;">Approximating quantum many-body wave-functions using artificial neural networks</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(44).pdf" style="text-decoration:none;">Deterministic Quantum Annealing Expectation-Maximization Algorithm</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(45).pdf" style="text-decoration:none;">Kernel methods for interpretable machine learning of order parameters</a></b></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(43).pdf" style="text-decoration:none;">SCAN: Learning Hierarchical Compositional Visual Concepts</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(44).pdf" style="text-decoration:none;">Reinventing Shakey</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(45).pdf" style="text-decoration:none;">Consciousness, Emotion, and Imagination: A Brain-Inspired Architecture for Cognitive Robotics</a></li>  
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(46).pdf" style="text-decoration:none;">Mutual Information, Neural Networks and the Renormalization Group</a></b></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(46).pdf" style="text-decoration:none;">Towards a Computational Account of Reflexive Consciousness</a></li> 
                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(47).pdf" style="text-decoration:none;">Nonequilibrium Thermodynamics of Restricted Boltzmann Machines</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(48).pdf" style="text-decoration:none;">Reinforcement Learning in Different Phases of Quantum Control</a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(47).pdf" style="text-decoration:none;">Applying global workspace theory to the frame problem</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(48).pdf" style="text-decoration:none;">A cognitive architecture that combines internal simulation with a global workspace</a></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(49).pdf" style="text-decoration:none;">Decoding Small Surface Codes with Feedforward Neural Networks </a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(49).pdf" style="text-decoration:none;">Global Access, Embodiment, and the Conscious Subject</a></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(50).pdf" style="text-decoration:none;">A Separability-Entanglement Classifier via Machine Learning</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(51).pdf" style="text-decoration:none;">Machine Learning Z<sub>2</sub> Quantum Spin Liquids with Quasi-particle Statistics</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(52).pdf" style="text-decoration:none;">Construction of Hamiltonians by supervised learning of energy and entanglement spectra</a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(50).pdf" style="text-decoration:none;">Satori Before Singularity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(51).pdf" style="text-decoration:none;">The Dynamical Complexity of Small-World Networks of Spiking Neurons</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(52).pdf" style="text-decoration:none;">The Brain's Connective Core and its Role in Animal Cognition</a></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(53).pdf" style="text-decoration:none;">Machine Learning of Explicit Order Parameters: From the Ising Model to SU(2) Lattice Gauge Theory </a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(53).pdf" style="text-decoration:none;">Event Calculus Planning Through Satisfiability </a></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(54).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method: Continuous-Time Algorithm </a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(54).pdf" style="text-decoration:none;">Default Reasoning about Spatial Occupancy</a></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(55).pdf" style="text-decoration:none;">Machine-learning-assisted correction of correlated qubit errors in a topological code</a></b></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(55).pdf" style="text-decoration:none;">Does Plasticity Promote Criticality?</a></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(56).pdf" style="text-decoration:none;">Criticality and Deep Learning II: Momentum Renormalisation Group </a></b></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(56).pdf" style="text-decoration:none;">Metastability and chimera states in modular delay and pulse-coupled oscillator networks </a></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(57).pdf" style="text-decoration:none;">Active learning machine learns to create new quantum experiments </a></b></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(57).pdf" style="text-decoration:none;">Hierarchical Clustering Identifies Hub Nodes in a Model of Resting-State Brain Activity </a></li>
   
   </ul>
-
-
-
 
 
 
