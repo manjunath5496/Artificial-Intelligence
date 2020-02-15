@@ -28,7 +28,8 @@
 <li class="toclevel-1 tocsection-19"><a href="#projects"> AI projects</a></li>
 <li class="toclevel-1 tocsection-19"><a href="#future"> AI and the Future</a></li>
 
-
+<li class="toclevel-1 tocsection-20"><a href="#psychology"> Psychology and AI</a></li>
+<li class="toclevel-1 tocsection-21"><a href="#tools"> Open-source AI Development Tools</a></li>
 
 </ul>
 
@@ -3907,13 +3908,26 @@ Content-Based Image Retrieval</a></li>
 <li><a title="Superintelligence" href="https://en.wikipedia.org/wiki/Superintelligence">Superintelligence</a>&nbsp;&ndash; AI may grow to such an advanced state to become as proportionately superior to humans as humans are to ants. Theoretically, there would be little humans could do to prevent such an intelligence from reaching its goals.</li>
 </ul>
 
+</br>
 
 
+<h2><span id="psychology" class="mw-headline">Psychology and AI</span></h2>
+
+<ul>
+<li><a title="" href="https://en.wikipedia.org/wiki/Artificial_psychology">Artificial psychology</a></li>
+<li><a title="AI effect" href="https://en.wikipedia.org/wiki/AI_effect">AI effect</a></li>
+<li><a title="Uncanny valley" href="https://en.wikipedia.org/wiki/Uncanny_valley">Uncanny valley</a></li>
+</ul>
+</br>
 
 
+<h2><span id="tools" class="mw-headline">Open-source AI Development Tools</span></h2>
 
-
-
-
-
-
+<ul>
+<li><a title="" href="https://en.wikipedia.org/wiki/OpenAIR">OpenAIR</a>&nbsp;</li>
+<li><a title="OpenCog" href="https://en.wikipedia.org/wiki/OpenCog">OpenCog</a>&nbsp;</li>
+<li><a title="OpenIRIS" href="https://en.wikipedia.org/wiki/OpenIRIS">OpenIRIS</a>&nbsp;</li>
+<li><a title="RapidMiner" href="https://en.wikipedia.org/wiki/RapidMiner">RapidMiner</a>&nbsp;</li>
+<li><a title="TensorFlow" href="https://en.wikipedia.org/wiki/TensorFlow">TensorFlow</a>&nbsp;</li>
+</ul>
+</br>
