@@ -20,11 +20,17 @@
 <li class="toclevel-1 tocsection-8"><a href="#debate">Artificial Intelligence Debate</a></li>
 <li class="toclevel-1 tocsection-11"><a href="#fiction">Artificial Intelligence in Science Fiction</a></li>
 <li class="toclevel-1 tocsection-14"><a href="#publications">List of Important Publications in AI</a></li>
+<li class="toclevel-1 tocsection-9"><a href="#philosophy"> Philosophy Of Artificial Intelligence</a></li>
 <li class="toclevel-1 tocsection-15"><a href="#scholars">Artificial Intelligence Researchers and Scholars</a></li>
 <li class="toclevel-1 tocsection-16"><a href="#view"> Philosophical Views On AI</a></li>
 <li class="toclevel-1 tocsection-17"><a href="#model"> Top 10 Most Popular AI Models</a></li>
 <li class="toclevel-1 tocsection-18"><a href="#award"> Competitions and awards</a></li>
 <li class="toclevel-1 tocsection-19"><a href="#projects"> AI projects</a></li>
+
+
+
+
+
 </ul>
 
 
@@ -1604,6 +1610,45 @@
 </ul>
 
 </br>
+
+<h2><span id="philosophy" class="mw-headline">Philosophy Of Artificial Intelligence</span></h2>
+
+<ul>
+<li><a title="" href="https://en.wikipedia.org/wiki/Artificial_brain">Artificial brain</a>&nbsp;</li>
+<li><a title="Artificial consciousness" href="https://en.wikipedia.org/wiki/Artificial_consciousness#Philosophical_views_of_artificial_consciousness">Philosophical views of artificial consciousness</a>&nbsp;
+<ul>
+<li><a title="User illusion" href="https://en.wikipedia.org/wiki/User_illusion">User illusion</a>&nbsp;</li>
+</ul>
+</li>
+<li><a class="mw-redirect" title="Artificial intelligence and law" href="https://en.wikipedia.org/wiki/Artificial_intelligence_and_law">Artificial intelligence and law</a>&nbsp;</li>
+<li><a title="Chinese room" href="https://en.wikipedia.org/wiki/Chinese_room">Chinese room</a>&nbsp;</li>
+<li><a title="Cognitive science" href="https://en.wikipedia.org/wiki/Cognitive_science">Cognitive science</a>
+<ul>
+<li><a title="Artificial consciousness" href="https://en.wikipedia.org/wiki/Artificial_consciousness">Artificial consciousness</a></li>
+<li><a title="Embodied cognitive science" href="https://en.wikipedia.org/wiki/Embodied_cognitive_science">Embodied cognitive science</a>
+<ul>
+<li><a title="Embodied cognition" href="https://en.wikipedia.org/wiki/Embodied_cognition">Embodied cognition</a>&nbsp;</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a title="Ethics of artificial intelligence" href="https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence">Ethics of artificial intelligence</a>&nbsp;</li>
+<li><a class="mw-redirect" title="Philosophy of the Mind" href="https://en.wikipedia.org/wiki/Philosophy_of_the_Mind">Philosophy of the Mind</a>&nbsp;
+<ul>
+<li><a title="Computational theory of mind" href="https://en.wikipedia.org/wiki/Computational_theory_of_mind">Computational theory of mind</a>&nbsp;</li>
+<li><a title="Functionalism (philosophy of mind)" href="https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind)">Functionalism</a>&nbsp;</li>
+</ul>
+</li>
+<li><a title="Physical symbol system" href="https://en.wikipedia.org/wiki/Physical_symbol_system">Physical symbol system</a>&nbsp;</li>
+<li><a title="Synthetic intelligence" href="https://en.wikipedia.org/wiki/Synthetic_intelligence">Synthetic intelligence</a>&nbsp;</li>
+<li><a title="Transhumanism" href="https://en.wikipedia.org/wiki/Transhumanism">Transhumanism</a>&nbsp;</li>
+<li><a class="mw-redirect" title="Turing Test" href="https://en.wikipedia.org/wiki/Turing_Test">Turing Test</a>&nbsp;</li>
+</ul>
+
+
+</br>
+
+
 
 
 <h3><span id="scholars" class="mw-headline">Artificial Intelligence Researchers and Scholars</span></h3>
