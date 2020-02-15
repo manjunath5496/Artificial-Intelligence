@@ -3295,6 +3295,51 @@ Content-Based Image Retrieval</a></li>
 </br>
 <ul>
 <li><strong><a title="Yann LeCun" href="https://en.wikipedia.org/wiki/Yann_LeCun">Yann LeCun</a></strong>&nbsp;- Chief AI Scientist at&nbsp;<a title="Facebook" href="https://en.wikipedia.org/wiki/Facebook">Facebook AI Research</a>&nbsp;and founding director of the&nbsp;<a class="mw-redirect" title="NYU Center for Data Science" href="https://en.wikipedia.org/wiki/NYU_Center_for_Data_Science">NYU Center for Data Science</a></li>
+ </ul>
+ 
+ </br>
+<p><strong>Publications:</strong></p>
+<hr>
+<ul>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(508).pdf" style="text-decoration:none;">Predicting Deeper into the Future of Semantic Segmentation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(509).pdf" style="text-decoration:none;">Model-Based Planning with Discrete and Continuous Actions </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(510).pdf" style="text-decoration:none;"> Adversarially Regularized Autoencoders</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(511).pdf" style="text-decoration:none;">Which Encoding is the Best for Text Classification in Chinese, English, Japanese and Korean?</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(512).pdf" style="text-decoration:none;">A hierarchical loss and its problems when classifying non-hierarchically</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(513).pdf" style="text-decoration:none;">Prediction Under Uncertainty with Error-Encoding Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(514).pdf" style="text-decoration:none;">A Closer Look at Spatiotemporal Convolutions for Action Recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(515).pdf" style="text-decoration:none;">Byte-Level Recursive Convolutional Auto-Encoder for Text</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(516).pdf" style="text-decoration:none;">Comparing Dynamics: Deep Neural Networks versus Glassy Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(517).pdf" style="text-decoration:none;">Predicting Future Instance Segmentation by Forecasting Convolutional Features</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(518).pdf" style="text-decoration:none;"> Design Inspiration from Generative Networks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(519).pdf" style="text-decoration:none;">Towards Understanding the Role of Over-Parametrization in Generalization of Neural Networks</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(520).pdf" style="text-decoration:none;">Backpropagation for Implicit Spectral Densities</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(521).pdf" style="text-decoration:none;">GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(522).pdf" style="text-decoration:none;">Adversarially-Trained Normalized Noisy-Feature Auto-Encoder for Text Generation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(523).pdf" style="text-decoration:none;">A Spectral Regularizer for Unsupervised Disentanglement</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(524).pdf" style="text-decoration:none;">Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(525).pdf" style="text-decoration:none;">Learning about an exponential amount of conditional distributions</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(526).pdf" style="text-decoration:none;">Unsupervised Image Matching and Object Discovery as Optimization</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(527).pdf" style="text-decoration:none;">Inspirational adversarial image generation</a></li>
+  
+   
+ 
+   
+
+ 
+</ul>
+ 
+ 
+ </br>
+<ul> 
 <li><strong><a title="Ray Kurzweil" href="https://en.wikipedia.org/wiki/Ray_Kurzweil">Ray Kurzweil</a>&nbsp;</strong>&ndash; developed optical character recognition (OCR), text-to-speech synthesis, and speech recognition systems. He has also authored multiple books on artificial intelligence and its potential promise and peril. In December 2012 Kurzweil was hired by Google in a full-time director of engineering position to "work on new projects involving machine learning and language processing".&nbsp;Google co-founder&nbsp;<strong><a title="Larry Page" href="https://en.wikipedia.org/wiki/Larry_Page">Larry Page</a></strong>&nbsp;and Kurzweil agreed on a one-sentence job description: "to bring natural language understanding to Google".</li>
 </ul>
 <h4><span id="2000s_on" class="mw-headline">(2000s)</span></h4>
