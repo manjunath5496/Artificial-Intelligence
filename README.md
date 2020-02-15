@@ -1634,6 +1634,33 @@
 
 </br>
 
+
+
+
+<p> <strong>The 18 Best Books About AI </strong> </p>
+
+<ul>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(1).pdf">Affective Computing: Focus on Emotion Expression, Synthesis and Recognition</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(2).pdf">Common LISP: A Gentle Introduction to Symbolic Computation</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(3).pdf">Planning Algorithms</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(4).pdf">Artificial Intelligence: Foundations of Computational Agents</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(5).pdf">A Course in Machine Learning</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(6).pdf">Clever Algorithms: Nature-Inspired Programming Recipes</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(7).pdf">Deep Learning with R</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(8).pdf">Essentials of Metaheuristics</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(9).pdf">From Bricks to Brains: The Embodied Cognitive Science of LEGO Robots</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(10).pdf">Logic For Computer Science: Foundations of Automatic Theorem Proving</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(11).pdf">Life 3.0: Being Human in the Age of Artificial Intelligence</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(12).pdf">Our Final Invention: Artificial Intelligence and the End of the Human Era</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(13).rar">Artificial Intelligence: A Modern Approach</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(14).rar">Python Machine Learning</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(15).pdf">The Quest for Artificial Intelligence: A History of Ideas and Achievements</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(16).pdf">Simply Logical: Intelligent Reasoning by Example</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(17).pdf">Superintelligence</a></li>
+<li><a href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(18).pdf">Virtual Reality for Human Computer Interaction</a></li>
+</ul>
+</br>
+
 <div id="toc" class="toc">
 <h2 id ="publications">List of Important Publications in AI</h2>
   </br>
