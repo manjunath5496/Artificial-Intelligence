@@ -3239,6 +3239,41 @@ by A.P. Dawid)</a></li>
 
 <ul>
 <li><strong><a title="Hugo de Garis" href="https://en.wikipedia.org/wiki/Hugo_de_Garis">Hugo de Garis</a></strong>&nbsp;&ndash; known for his research on the use of genetic algorithms to evolve neural networks using three-dimensional cellular automata inside field programmable gate arrays.</li>
+ </ul>
+ 
+ </br>
+ <p><strong>Publications:</strong></p> <hr>
+<p>&nbsp;</p>
+<ul>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(1).pdf">What If AI Succeeds? The Rise of the Twenty-First Century Artilect</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(2).PDF">The 21st. CENTURY ARTILECT: Moral Dilemmas Concerning the Ultra Intelligent Machine</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(3).pdf">THE ARTILECT WAR: Cosmists vs. Terrans</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(4).pdf">A world survey of artificial brain projects, Part I: Large-scale brain simulations</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(5).pdf">Artificial Embryology - The Genetic Programming of an Artificial Embryo </a></li>
+  
+ <li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(6).pdf">Machines Like Us interviews: Hugo de Garis</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(7).pdf">The Evolution of Robust, Reversible, Nano-Scale, Femto-Second-Switching Circuits</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(8).pdf">Porting a Cellular Automata Based Artificial Brain to MIT's Cellular Automata Machine 'CAM-8'</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(9).pdf">The CAM-Brain Machine (CBM): An FPGA Based Tool for Evolving a 75 Million Neuron Artificial Brain to Control a Lifesized Kitten Robot</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(10).pdf">Reversible Computing for Beginners</a></li> 
+  
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(11).pdf">BRAD, Multi-ism, Culture Bashing and PC</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(12).pdf">An Overview of Evolutionary Computation</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(13).pdf">The Second International
+Conference on Artificial General Intelligence (AGI-09)</a></li> 
+    
+  
+  
+  
+  
+
+</ul>
+ 
+ </br>
+ 
+ 
+ 
+ <ul>
 <li><strong><a title="Geoffrey Hinton" href="https://en.wikipedia.org/wiki/Geoffrey_Hinton">Geoffrey Hinton</a></strong></li>
 </ul>
 <hr>
