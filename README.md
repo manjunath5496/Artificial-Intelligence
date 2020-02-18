@@ -3433,6 +3433,23 @@ Content-Based Image Retrieval</a></li>
 </br>
 <ul>
 <li><strong><a title="David Ferrucci" href="https://en.wikipedia.org/wiki/David_Ferrucci">David Ferrucci</a></strong>&nbsp;&ndash; principal investigator who led the team that developed the Watson computer at IBM.</li>
+ </ul>
+ </br>
+ 
+ <p><strong>Publications:</strong></p><hr>
+
+<p>&nbsp;</p>
+<ul>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/daf(1).pdf">Building Watson: An Overview of the DeepQA Project</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/daf(2).pdf">Watson: Beyond Jeopardy!</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/daf(3).pdf">Overview of Component Services for Knowledge Integration in UIMA (a.k.a. SUKI)</a></li>
+  
+</ul>
+ 
+ 
+ 
+</br> 
+<ul> 
 <li><strong><a title="Andrew Ng" href="https://en.wikipedia.org/wiki/Andrew_Ng">Andrew Ng</a>&nbsp;</strong>&ndash; Director of the Stanford Artificial Intelligence Lab. He founded the&nbsp;<a title="Google Brain" href="https://en.wikipedia.org/wiki/Google_Brain">Google Brain</a>&nbsp;project at&nbsp;<a title="Google" href="https://en.wikipedia.org/wiki/Google">Google</a>, which developed very large scale artificial&nbsp;<a title="Neural network" href="https://en.wikipedia.org/wiki/Neural_network">neural networks</a>&nbsp;using&nbsp;<a title="Google" href="https://en.wikipedia.org/wiki/Google">Google</a>'s distributed compute infrastructure.&nbsp;He is also co-founder of Coursera, a massive open online course (MOOC) education platform, with Daphne Koller.</li>
  </ul>
  
