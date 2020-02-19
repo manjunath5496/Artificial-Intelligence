@@ -4188,7 +4188,7 @@ for Text lnferencing</a></li>
     <li><a title="Top 9 ethical issues in artificial intelligence" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(507).pdf">Top 9 ethical issues in artificial intelligence</a></li>
  
 <li><a title="Open Letter on Artificial Intelligence" href="https://en.wikipedia.org/wiki/Open_Letter_on_Artificial_Intelligence">Open Letter on Artificial Intelligence</a></li>
- 
+ <li><a href="https://github.com/manjunath5496/Max-Tegmark-Publications/blob/master/max(42).pdf">Interview: Max Tegmark on Superintelligent AI, Cosmic Apocalypse, and Life 3.0</a></li>
 </ul>
 </br>
 <h2 id="model"><strong>Top 10 Most Popular AI Models (<a title="Top 10 Most Popular AI Models" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/ai(483).pdf">PDF</a>)</strong></h2>
