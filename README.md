@@ -3914,6 +3914,20 @@ for Text lnferencing</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/msh(57).pdf" style="text-decoration:none;">Hierarchical Clustering Identifies Hub Nodes in a Model of Resting-State Brain Activity </a></li>
   
   </ul>
+  </br>
+  
+  <ul>
+<li><strong><a title="Max Tegmark" href="https://en.wikipedia.org/wiki/Max_Tegmark">Max Tegmark</a></strong></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<p>&nbsp;</p>
+<ul>
+<li><a href="https://github.com/manjunath5496/Max-Tegmark-Publications/blob/master/max(6).pdf">Why does deep and cheap learning work so well?</a></li>
+<li><a href="https://github.com/manjunath5496/Max-Tegmark-Publications/blob/master/max(31).pdf">Life 3.0 : being human in the age of artificial intelligence</a></li>
+<li><a href="https://github.com/manjunath5496/Max-Tegmark-Publications/blob/master/max(38).pdf">Research Priorities for Robust and Beneficial Artificial Intelligence</a></li>
+</ul>
 
 
 
