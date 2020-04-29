@@ -4291,3 +4291,7 @@ for Text lnferencing</a></li>
 <li><a title="TensorFlow" href="https://en.wikipedia.org/wiki/TensorFlow">TensorFlow</a>&nbsp;</li>
 </ul>
 </br>
+<ul>
+<li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/Lecture%20Notes/README.md">MIT Lecture Notes</a></li>
+</ul>
+</br>
