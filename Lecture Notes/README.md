@@ -65,3 +65,36 @@
 </tr>
 </tbody>
 </table>
+</br>
+
+<h2>Lecture Video Transcripts</h2>
+
+
+
+<ul>
+<li><a class="bullet medialink" href="1.pdf">Lecture 1: Introduction and Scope</a></li>
+<li><a class="bullet medialink" href="2.pdf">Lecture 2: Reasoning: Goal Trees and Problem Solving</a></li>
+<li><a class="bullet medialink" href="3.pdf">Lecture 3: Reasoning: Goal Trees and Rule-Based Expert Systems</a></li>
+<li><a class="bullet medialink" href="4.pdf">Lecture 4: Search: Depth-First, Hill Climbing, Beam</a></li>
+<li><a class="bullet medialink" href="5.pdf">Lecture 5: Search: Optimal, Branch and Bound, A*</a></li>
+<li><a class="bullet medialink" href="6.pdf">Lecture 6: Search: Games, Minimax, and Alpha-Beta</a></li>
+<li><a class="bullet medialink" href="7.pdf">Lecture 7: Constraints: Interpreting Line Drawings</a></li>
+<li><a class="bullet medialink" href="8.pdf">Lecture 8: Constraints: Search, Domain Reduction</a></li>
+<li><a class="bullet medialink" href="9.pdf">Lecture 9: Constraints: Visual Object Recognition</a></li>
+<li><a class="bullet medialink" href="10.pdf">Lecture 10: Introduction to Learning, Nearest Neighbors</a></li>
+<li><a class="bullet medialink" href="11.pdf">Lecture 11: Learning: Identification Trees, Disorder</a></li>
+<li><a class="bullet medialink" href="12.pdf">Lecture 12A: Neural Nets</a></li>
+<li><a class="bullet medialink" href="13.pdf">Lecture 12B: Deep Neural Nets</a></li>
+<li><a class="bullet medialink" href="14.pdf">Lecture 13: Learning: Genetic Algorithms</a></li>
+<li><a class="bullet medialink" href="15.pdf">Lecture 14: Learning: Sparse Spaces, Phonology</a></li>
+<li><a class="bullet medialink" href="16.pdf">Lecture 15: Learning: Near Misses, Felicity Conditions</a></li>
+<li><a class="bullet medialink" href="17.pdf">Lecture 16: Learning: Support Vector Machines</a></li>
+<li><a class="bullet medialink" href="18.pdf">Lecture 17: Learning: Boosting</a></li>
+<li><a class="bullet medialink" href="19.pdf">Lecture 18: Representations: Classes, Trajectories, Transitions</a></li>
+<li><a class="bullet medialink" href="20.pdf">Lecture 19: Architectures: GPS, SOAR, Subsumption, Society of Mind</a></li>
+<li><a class="bullet medialink" href="21.pdf">Lecture 21: Probabilistic Inference I</a></li>
+<li><a class="bullet medialink" href="22.pdf">Lecture 22: Probabilistic Inference II</a></li>
+<li><a class="bullet medialink" href="23.pdf">Lecture 23: Model Merging, Cross-Modal Coupling, Course Summary</a></li>
+</ul>
+
+</br>
