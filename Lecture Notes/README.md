@@ -95,6 +95,13 @@
 <li><a class="bullet medialink" href="21.pdf">Lecture 21: Probabilistic Inference I</a></li>
 <li><a class="bullet medialink" href="22.pdf">Lecture 22: Probabilistic Inference II</a></li>
 <li><a class="bullet medialink" href="23.pdf">Lecture 23: Model Merging, Cross-Modal Coupling, Course Summary</a></li>
+<li><a class="bullet medialink" href="24.pdf">Mega-Recitation 1: Rule-Based Systems</a></li>
+<li><a class="bullet medialink" href="25.pdf">Mega-Recitation 2: Basic Search, Optimal Search</a></li>
+<li><a class="bullet medialink" href="26.pdf">Mega-Recitation 3: Games, Minimax, Alpha-Beta</a></li>
+<li><a class="bullet medialink" href="27.pdf">Mega-Recitation 4: Neural Nets</a></li>
+<li><a class="bullet medialink" href="28.pdf">Mega-Recitation 5: Support Vector Machines</a></li>
+<li><a class="bullet medialink" href="29.pdf">Mega-Recitation 6: Boosting</a></li>
+<li><a class="bullet medialink" href="30.pdf">Mega-Recitation 7: Near Misses, Arch Learning</a></li>
 </ul>
 
 </br>
