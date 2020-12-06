@@ -4292,6 +4292,7 @@ for Text lnferencing</a></li>
 </ul>
 </br>
 <ul>
+<li><a href="https://github.com/manjunath5496/ML-Lectures/blob/main/README.md">ML Lectures</a></li> 
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/Lecture%20Notes/README.md">MIT Lecture Notes</a></li>
 </ul>
 </br>
