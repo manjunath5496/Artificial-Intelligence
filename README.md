@@ -4290,7 +4290,7 @@ for Text lnferencing</a></li>
 <li><a title="RapidMiner" href="https://en.wikipedia.org/wiki/RapidMiner">RapidMiner</a>&nbsp;</li>
 <li><a title="TensorFlow" href="https://en.wikipedia.org/wiki/TensorFlow">TensorFlow</a>&nbsp;</li>
 </ul>
-</br>
+</br><hr>
 <ul>
 <li><a href="https://github.com/manjunath5496/ML-Lectures/blob/main/README.md">ML Lectures</a></li> 
 <li><a href="https://github.com/manjunath5496/Artificial-Intelligence/blob/master/Lecture%20Notes/README.md">MIT Lecture Notes</a></li>
