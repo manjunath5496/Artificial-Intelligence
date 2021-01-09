@@ -1,3 +1,7 @@
+<img src="da.png" alt="Awesome Machine Learning On Source Code" style="max-width:100%;">
+</br>
+
+
 <p><strong><a title="Artificial intelligence" href="https://en.wikipedia.org/wiki/Artificial_intelligence">Artificial intelligence (AI)</a></strong>&nbsp;&ndash; intelligence exhibited by machines or software. It is also the name of the&nbsp;<a class="mw-redirect" title="Scientific field" href="https://en.wikipedia.org/wiki/Scientific_field">scientific field</a>&nbsp;which studies how to create computers and computer software that are capable of intelligent behaviour.</p>
 
 </br>
